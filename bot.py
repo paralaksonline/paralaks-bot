@@ -106,34 +106,46 @@ class TelegramError(RuntimeError):
     pass
 
 
+class TelegramRateLimited(TelegramError):
+    """Telegram uzun süreli hız sınırı uyguluyor; bu çalıştırmada Telegram'a bir daha istek atılmaz."""
+
+
 class Telegram:
     def __init__(self, token: str, chat_id: str):
         self.base = f"https://api.telegram.org/bot{token}/"
         self.chat_id = str(chat_id)
+        self.limited = False  # True olunca bu çalıştırmada hiçbir Telegram isteği gönderilmez
 
     def call(self, method: str, data: dict | None = None, files=None, timeout: int = 40):
+        if self.limited:
+            raise TelegramRateLimited(f"{method}: Telegram hız sınırı aktif, istek gönderilmedi")
         payload = {}
         for k, v in (data or {}).items():
             if v is None:
                 continue
             payload[k] = json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v
-        for attempt in range(4):
+        for attempt in range(2):
             try:
                 r = requests.post(self.base + method, data=payload, files=files, timeout=timeout)
             except (requests.ConnectionError, requests.Timeout) as exc:
-                # Geçici ağ hatası: dosya yüklemeyen çağrıları bekleyip tekrar dene
-                if attempt == 3 or files:
+                # Geçici ağ hatası: dosya yüklemeyen çağrıları bir kez daha dene
+                if attempt == 1 or files:
                     raise TelegramError(f"{method}: ağ hatası ({exc.__class__.__name__})") from exc
-                log(f"[TG] {method} ağ hatası, {5 * (attempt + 1)} sn sonra tekrar denenecek")
-                time.sleep(5 * (attempt + 1))
+                log(f"[TG] {method} ağ hatası, 10 sn sonra bir kez daha denenecek")
+                time.sleep(10)
                 continue
             j = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
             if j.get("ok"):
                 return j["result"]
-            retry = (j.get("parameters") or {}).get("retry_after")
-            if r.status_code == 429 and retry and attempt < 3:
-                time.sleep(int(retry) + 1)
-                continue
+            retry = int((j.get("parameters") or {}).get("retry_after") or 0)
+            if r.status_code == 429:
+                # Kısa bekleme (grup mesaj limiti) -> bekle ve bir kez tekrar dene.
+                # Uzun bekleme -> Telegram'ı bu çalıştırmada tamamen bırak (sınırın uzamasını önler).
+                if retry <= 5 and attempt == 0:
+                    time.sleep(retry + 1)
+                    continue
+                self.limited = True
+                raise TelegramRateLimited(f"{method}: Too Many Requests (retry after {retry})")
             raise TelegramError(f"{method}: {j.get('description') or r.text[:200]}")
 
     @staticmethod
@@ -345,6 +357,8 @@ def handle_callback(tg: Telegram, ai, cfg, state, cq: dict) -> None:
         return
     if action == "p":
         tg.answer_callback(cq["id"], "Hazırlanıyor…")
+        if tg.limited:  # boşa AI çağrısı yapma; buton sonraki çalıştırmada tekrar işlenecek
+            return
         tg.set_buttons(mid, [[("⏳ Hazırlanıyor…", "x:0")]])
         try:
             deliver_package(tg, ai, item["url"], item.get("source"), fallback=item, reply_to=mid)
@@ -406,6 +420,11 @@ def process_updates(tg: Telegram, ai, cfg, state, wait: int = 0) -> int:
                 handle_message(tg, ai, cfg, state, upd["message"])
         except Exception as exc:
             log(f"[TG] güncelleme işlenemedi: {exc}")
+        if tg.limited:
+            # Hız sınırı yüzünden yarım kaldı: bu güncellemeyi (buton/link) sonraki çalıştırmada tekrar işle
+            state["telegram_offset"] = upd["update_id"]
+            log("[TG] hız sınırı nedeniyle kalan güncellemeler sonraki çalıştırmaya bırakıldı")
+            break
     return len(updates)
 
 
@@ -413,6 +432,9 @@ def process_updates(tg: Telegram, ai, cfg, state, wait: int = 0) -> int:
 # RSS döngüsü
 # --------------------------------------------------------------------------- #
 def run_rss(tg: Telegram, ai, cfg, state) -> None:
+    if tg.limited:
+        log("[RSS] Telegram hız sınırı aktif; RSS turu atlandı (haberler sonraki çalıştırmada gönderilecek)")
+        return
     items = rf.fetch_all(cfg["feeds"], cfg["max_age_hours"], log)
     now = time.time()
     fresh, by_id = [], {}
@@ -440,6 +462,9 @@ def run_rss(tg: Telegram, ai, cfg, state) -> None:
 
     batch = cfg["ai_batch_size"]
     for start in range(0, len(fresh), batch):
+        if tg.limited:  # kalan haberler "görülmedi" kalır, sonraki çalıştırmada tekrar denenir
+            log("[RSS] Telegram hız sınırı aktif; kalan haberler sonraki çalıştırmaya bırakıldı")
+            break
         group = fresh[start:start + batch]
         try:
             cutoff = time.time() - cfg["dedupe_hours"] * 3600
@@ -550,9 +575,14 @@ def main() -> int:
         try:
             n = process_updates(tg, ai, cfg, state)
             log(f"[TG] {n} güncelleme işlendi")
+        except TelegramError as exc:
+            # Telegram hız sınırı veya erişilemiyor: bu çalıştırmada Telegram'a hiç dokunma.
+            # Haberler ve buton basmaları kaybolmaz, sonraki çalıştırmada işlenir. Hata e-postası gönderilmez.
+            tg.limited = True
+            log(f"[TG] Telegram şu an kullanılamıyor ({exc}); bu çalıştırma Telegram'a başka istek göndermeyecek")
         except Exception as exc:
             failures += 1
-            log(f"[HATA] Telegram güncellemeleri alınamadı, sonraki çalıştırmada tekrar denenecek: {exc}")
+            log(f"[HATA] Telegram güncellemeleri işlenemedi: {exc}")
         save_state(state, cfg)
 
         if not args.no_rss:
@@ -565,7 +595,7 @@ def main() -> int:
 
         listen = args.listen if args.listen is not None else int(cfg.get("LISTEN_SECONDS") or 0)
         deadline = time.time() + listen
-        while time.time() < deadline - 5:
+        while time.time() < deadline - 5 and not tg.limited:
             wait = int(min(50, deadline - time.time() - 5))
             if wait < 1:
                 break
