@@ -117,13 +117,21 @@ class Telegram:
             if v is None:
                 continue
             payload[k] = json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v
-        for attempt in range(3):
-            r = requests.post(self.base + method, data=payload, files=files, timeout=timeout)
+        for attempt in range(4):
+            try:
+                r = requests.post(self.base + method, data=payload, files=files, timeout=timeout)
+            except (requests.ConnectionError, requests.Timeout) as exc:
+                # Geçici ağ hatası: dosya yüklemeyen çağrıları bekleyip tekrar dene
+                if attempt == 3 or files:
+                    raise TelegramError(f"{method}: ağ hatası ({exc.__class__.__name__})") from exc
+                log(f"[TG] {method} ağ hatası, {5 * (attempt + 1)} sn sonra tekrar denenecek")
+                time.sleep(5 * (attempt + 1))
+                continue
             j = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
             if j.get("ok"):
                 return j["result"]
             retry = (j.get("parameters") or {}).get("retry_after")
-            if r.status_code == 429 and retry and attempt < 2:
+            if r.status_code == 429 and retry and attempt < 3:
                 time.sleep(int(retry) + 1)
                 continue
             raise TelegramError(f"{method}: {j.get('description') or r.text[:200]}")
@@ -537,12 +545,22 @@ def main() -> int:
             deliver_package(tg, ai, args.url, feeds=cfg["feeds"])
             return 0
 
-        n = process_updates(tg, ai, cfg, state)
-        log(f"[TG] {n} güncelleme işlendi")
+        failures = 0
+        # Bir aşama (ör. Telegram'a geçici erişim sorunu) çökerse diğer aşamalar yine çalışsın
+        try:
+            n = process_updates(tg, ai, cfg, state)
+            log(f"[TG] {n} güncelleme işlendi")
+        except Exception as exc:
+            failures += 1
+            log(f"[HATA] Telegram güncellemeleri alınamadı, sonraki çalıştırmada tekrar denenecek: {exc}")
         save_state(state, cfg)
 
         if not args.no_rss:
-            run_rss(tg, ai, cfg, state)
+            try:
+                run_rss(tg, ai, cfg, state)
+            except Exception as exc:
+                failures += 1
+                log(f"[HATA] RSS turu tamamlanamadı: {exc}")
             save_state(state, cfg)
 
         listen = args.listen if args.listen is not None else int(cfg.get("LISTEN_SECONDS") or 0)
@@ -551,12 +569,17 @@ def main() -> int:
             wait = int(min(50, deadline - time.time() - 5))
             if wait < 1:
                 break
-            if process_updates(tg, ai, cfg, state, wait=wait):
-                save_state(state, cfg)
+            try:
+                if process_updates(tg, ai, cfg, state, wait=wait):
+                    save_state(state, cfg)
+            except Exception as exc:
+                log(f"[HATA] dinleme sırasında: {exc}")
+                time.sleep(5)
     finally:
         save_state(state, cfg)
-    log("[BİTTİ]")
-    return 0
+    log("[BİTTİ]" if not failures else f"[BİTTİ] {failures} aşama hatayla sonuçlandı")
+    # Her iki aşama da çöktüyse (ör. token geçersiz) GitHub'ın hata e-postası gelsin
+    return 1 if failures >= 2 else 0
 
 
 if __name__ == "__main__":
