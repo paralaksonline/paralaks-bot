@@ -434,7 +434,9 @@ def run_rss(tg: Telegram, ai, cfg, state) -> None:
     for start in range(0, len(fresh), batch):
         group = fresh[start:start + batch]
         try:
-            results = cg.triage(ai, group)
+            cutoff = time.time() - cfg["dedupe_hours"] * 3600
+            recent = [f"[{r.get('source')}] {r.get('title')}" for r in state["sent"] if r.get("ts", 0) >= cutoff]
+            results = cg.triage(ai, group, recent)
         except Exception as exc:
             log(f"[AI] ön eleme başarısız, bu grup sonraki çalıştırmada denenecek: {exc}")
             continue
@@ -442,6 +444,9 @@ def run_rss(tg: Telegram, ai, cfg, state) -> None:
             state["seen"][it.id] = time.time()
             if not tri.get("oyun_haberi"):
                 log(f"[BAĞLAM] ✗ {it.source}: {it.title[:80]} — AI: oyun haberi değil")
+                continue
+            if tri.get("tekrar"):
+                log(f"[KOPYA] ✗ {it.source}: {it.title[:70]} — AI: aynı gelişme daha önce gönderildi")
                 continue
             dup = rf.find_duplicate(tri.get("oyun", ""), tri.get("olay", ""), it.title, state["sent"],
                                     cfg["dedupe_hours"], cfg.get("dedupe_same_game", False))

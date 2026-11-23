@@ -184,13 +184,20 @@ Sana numaralı İngilizce haber başlıkları ve özetleri gelecek. Her biri iç
   Farklı sitelerin aynı haberini eşleştirmek için kullanılır; sade ve standart yaz.
 - "baslik_tr": Türkçe, clickbait'siz, en fazla 90 karakterlik haber başlığı.
 - "ozet_tr": Türkçe 1-2 cümlelik (en fazla 260 karakter) bilgi verici kısa özet. Uydurma bilgi ekleme.
+- "tekrar": Bu haber, "DAHA ÖNCE GÖNDERİLENLER" listesindeki bir haberle ya da bu listede kendisinden
+  ÖNCE gelen bir haberle AYNI GELİŞMEYİ mi anlatıyor? (farklı site, farklı kelimeler olabilir; ör. iki sitenin
+  aynı mahkeme kararı, aynı fragman, aynı çıkış tarihi duyurusu haberi -> true). Aynı oyunun FARKLI bir
+  gelişmesi (ör. biri yama, diğeri satış rakamı) -> false.
 
-Çıktı: {"sonuclar": [{"i": 0, "oyun_haberi": true, "oyun": "", "olay": "", "baslik_tr": "", "ozet_tr": ""}, ...]}
+Çıktı: {"sonuclar": [{"i": 0, "oyun_haberi": true, "oyun": "", "olay": "", "baslik_tr": "", "ozet_tr": "", "tekrar": false}, ...]}
 Her girdi için tam olarak bir sonuç döndür."""
 
 
-def triage(ai: _BaseAI, items: list[NewsItem]) -> list[dict]:
+def triage(ai: _BaseAI, items: list[NewsItem], recent_titles: list[str] | None = None) -> list[dict]:
     lines = []
+    if recent_titles:
+        lines.append("DAHA ÖNCE GÖNDERİLENLER (son saatler):\n" + "\n".join(f"- {t}" for t in recent_titles[-60:]))
+        lines.append("DEĞERLENDİRİLECEK HABERLER:")
     for idx, it in enumerate(items):
         lines.append(
             f"[{idx}] Kaynak: {it.source}\nBaşlık: {it.title}\nEtiketler: {', '.join(it.tags[:8])}\n"
