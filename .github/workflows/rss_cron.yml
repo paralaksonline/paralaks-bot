@@ -2,10 +2,10 @@ name: PARALAKS Haber Masası
 
 on:
   schedule:
-    # Private repo (2000 dk/ay ücretsiz) için güvenli aralık: 30 dk -> ~1440 dk/ay.
-    # Repo PUBLIC ise dakika sınırsızdır; "*/10 * * * *" yapabilirsiniz.
+    # Repo PUBLIC olduğu için Actions dakikası sınırsız -> 10 dakikada bir.
+    # (Private repoya taşınırsa 2000 dk/ay sınırı için "*/30 * * * *" yapın.)
     # Not: GitHub zamanlanmış işleri yoğunlukta 5-20 dk geciktirebilir.
-    - cron: "*/30 * * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
