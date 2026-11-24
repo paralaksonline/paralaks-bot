@@ -51,7 +51,14 @@
   "f40abc5666b4": 1795510518.5247452,
   "bc60aa105dca": 1795514246.1666346,
   "22dff3a4c595": 1795514252.1451569,
-  "818029fae1f5": 1795514253.650842
+  "818029fae1f5": 1795514253.650842,
+  "9ebae96c2b91": 1795517458.5132227,
+  "73635f50ed86": 1795517499.869669,
+  "8388ee38815d": 1795517501.533653,
+  "d04b353ea8e2": 1795517503.122359,
+  "d57343493e64": 1795517504.7136662,
+  "3b9973608985": 1795517504.7137697,
+  "71bd250dd032": 1795517506.3204074
  },
  "sent": [
   {
@@ -179,6 +186,51 @@
    "game": "Wave Race: Blue Storm",
    "event": "wave race blue storm added to switch online",
    "msg": 493
+  },
+  {
+   "id": "73635f50ed86",
+   "ts": 1795517500.3335354,
+   "source": "Eurogamer",
+   "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+   "game": "",
+   "event": "microsoft xbox paid multiplayer removal next gen",
+   "msg": 494
+  },
+  {
+   "id": "8388ee38815d",
+   "ts": 1795517501.9222333,
+   "source": "Eurogamer",
+   "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 deluxe edition soundtrack tracks revealed",
+   "msg": 495
+  },
+  {
+   "id": "d04b353ea8e2",
+   "ts": 1795517503.513536,
+   "source": "Polygon",
+   "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 biggest launch playstation history player stats",
+   "msg": 496
+  },
+  {
+   "id": "3b9973608985",
+   "ts": 1795517505.12029,
+   "source": "Polygon",
+   "title": "Scott Pilgrim Is Officially Coming to Fortnite",
+   "game": "Fortnite",
+   "event": "scott pilgrim comes to fortnite battle royale",
+   "msg": 497
+  },
+  {
+   "id": "71bd250dd032",
+   "ts": 1795517506.690245,
+   "source": "VGC",
+   "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+   "game": "",
+   "event": "cyberpunk director praises gta 6 artistic achievement",
+   "msg": 498
   }
  ],
  "pending": {
@@ -289,7 +341,52 @@
    "content": "It's the first time Nintendo's racing sequel has been re-released in 25 years… Source",
    "image": "https://www.videogameschronicle.com/files/2026/11/wave-race-blue-storm.jpg",
    "ts": 1795514254.0096664
+  },
+  "73635f50ed86": {
+   "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+   "source": "Eurogamer",
+   "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+   "summary": "A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on its decision sometime during production of the next-gen device. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/sharma-gold.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795517500.3335404
+  },
+  "8388ee38815d": {
+   "url": "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
+   "source": "Eurogamer",
+   "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+   "summary": "For those of you out there in love with Grand Theft Auto 6 's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-nightclub-scene.png?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795517501.922239
+  },
+  "d04b353ea8e2": {
+   "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/",
+   "source": "Polygon",
+   "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+   "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
+   "content": "It's not exactly a secret that Grand Theft Auto 6 is the most anticipated game of the past decade. Thanks to the long wait and Rockstar Games' excellent hype campaign, it seems everyone with a PS5 (and a few Xbox owners, too) is playing GTA 6 now. But what does that translate to in terms of numbers? That's what the PlayStation Blog just revealed.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+   "ts": 1795517503.51354
+  },
+  "3b9973608985": {
+   "url": "https://www.polygon.com/fortnite-scott-pilgrim-confirmed/",
+   "source": "Polygon",
+   "title": "Scott Pilgrim Is Officially Coming to Fortnite",
+   "summary": "Ramona's exes won't be the only opponents Scott Pilgrim must face as he jumps onto the Battle Royale island in Fortnite.",
+   "content": "Anime style has been the main focus in Fortnite Treasure Hunters due to its crossover with One Piece . However, Epic Games is now changing lanes and bringing a beloved new IP into Fortnite . As confirmed by series creator Bryan Lee O'Malley, Scott Pilgrim is coming to Fortnite soon.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mv5bnjrlnzhkntmtmmexmi00otu2lwfkyjutmdzjnzk2odk0mgezxkeyxkfqcgc-_v1_.jpg",
+   "ts": 1795517505.1202943
+  },
+  "71bd250dd032": {
+   "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
+   "source": "VGC",
+   "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+   "summary": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\"",
+   "content": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\" Source",
+   "image": "https://www.videogameschronicle.com/files/2025/04/cyberpunk.jpg",
+   "ts": 1795517506.6902494
   }
  },
- "updated_at": "2026-11-24T10:01:29Z"
+ "updated_at": "2026-11-24T10:55:42Z"
 }
