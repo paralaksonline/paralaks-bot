@@ -134,7 +134,9 @@
   "100eff5912ed": 1795553872.8868492,
   "8e4e1d456db5": 1795553872.886937,
   "d02cab844ee1": 1795553872.886966,
-  "71f0f740f4a7": 1795553872.8869727
+  "71f0f740f4a7": 1795553872.8869727,
+  "f22f3eff331b": 1795557000.0698104,
+  "8d5470a0c1d8": 1795557019.1500738
  },
  "sent": [
   {
@@ -568,6 +570,15 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 sales vs gta 5 lifetime sales",
    "msg": 533
+  },
+  {
+   "id": "8d5470a0c1d8",
+   "ts": 1795557019.7697992,
+   "source": "VGC",
+   "title": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 chapter 5 mission list",
+   "msg": 534
   }
  ],
  "pending": {
@@ -975,7 +986,16 @@
    "content": "Take-Two said that GTA 6 sold 32.5 million copies during its pre-release period, and that through the end of launch day on Nov. 19, it had racked up $3.79 billion in revenue.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_saras_salon_03.jpg",
    "ts": 1795553873.2458143
+  },
+  "8d5470a0c1d8": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return/",
+   "source": "VGC",
+   "title": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return",
+   "summary": "How many missions are in GTA 6 Chapter 5? All missions listed",
+   "content": "How many missions are in GTA 6 Chapter 5? Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-chapter-5-mission-list-3.jpg",
+   "ts": 1795557019.769803
   }
  },
- "updated_at": "2026-11-24T21:01:48Z"
+ "updated_at": "2026-11-24T21:54:15Z"
 }
