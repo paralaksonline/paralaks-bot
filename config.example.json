@@ -15,8 +15,7 @@
   "ai_pause_seconds": 5,
   "dedupe_hours": 12,
   "dedupe_same_game": false,
-  "seen_retention_days": 7,
-  "pending_retention_days": 5,
+  "state_retention_days": 14,
   "allowed_user_ids": [],
   "extra_blocklist": [],
 

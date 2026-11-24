@@ -87,12 +87,24 @@ def load_state() -> dict:
     return state
 
 
+STATE_LIMITS = {"seen": 5000, "sent": 1000, "pending": 300}  # gün sınırına ek güvenlik tavanı
+
+
+def prune_state(state: dict, cfg: dict, now: float | None = None) -> dict:
+    """Bakım kuralı: `state_retention_days` (varsayılan 14) günden eski tüm kayıtları siler.
+    Kayıt sayısı yine de tavanı aşarsa en eskiler atılır; böylece state.json hiçbir zaman şişmez."""
+    now = now or time.time()
+    cutoff = now - float(cfg.get("state_retention_days", 14)) * 86400
+    seen = {k: v for k, v in state.get("seen", {}).items() if v > cutoff}
+    state["seen"] = dict(sorted(seen.items(), key=lambda kv: kv[1])[-STATE_LIMITS["seen"]:])
+    state["sent"] = [r for r in state.get("sent", []) if r.get("ts", 0) > cutoff][-STATE_LIMITS["sent"]:]
+    pending = {k: v for k, v in state.get("pending", {}).items() if v.get("ts", 0) > cutoff}
+    state["pending"] = dict(sorted(pending.items(), key=lambda kv: kv[1].get("ts", 0))[-STATE_LIMITS["pending"]:])
+    return state
+
+
 def save_state(state: dict, cfg: dict) -> None:
-    now = time.time()
-    state["seen"] = {k: v for k, v in state["seen"].items() if v > now - cfg["seen_retention_days"] * 86400}
-    state["sent"] = [r for r in state["sent"] if r.get("ts", 0) > now - 3 * 86400][-500:]
-    state["pending"] = {k: v for k, v in state["pending"].items()
-                        if v.get("ts", 0) > now - cfg["pending_retention_days"] * 86400}
+    prune_state(state, cfg)
     state["updated_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     tmp = STATE_PATH.with_suffix(".tmp")
     tmp.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -325,6 +337,14 @@ def deliver_package(tg: Telegram, ai, url: str, source: str | None = None, fallb
     tg.send_text(f"🅱️ <b>X (TWITTER) PAYLAŞIMI</b> — {kind}\n{pre(x)}\n"
                  f"<i>{cg.x_length(x)}/{cg.X_LIMIT} karakter · 🔗 {esc(source)}: {esc(article['url'])}</i>",
                  reply_to=reply_to)
+
+    # C) Instagram özeti (@paralaksonline)
+    ig = pkg.get("instagram") or []
+    if len(ig) >= 3:
+        tg.send_text("📸 <b>INSTAGRAM ÖZETİ</b> — @paralaksonline\n" + pre("\n".join(f"▪️ {m}" for m in ig)),
+                     reply_to=reply_to)
+    else:
+        log(f"[PKG] Instagram özeti eksik geldi ({len(ig)} madde), gönderilmedi")
     return pkg
 
 

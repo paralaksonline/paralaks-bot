@@ -9,9 +9,12 @@ GitHub Actions üzerinde periyodik çalışan, oyun haberlerini tarayıp Telegra
 | `bot.py` | Ana akış: Telegram güncellemeleri (butonlar, yapıştırılan linkler), RSS döngüsü, çıktıların gönderimi |
 | `rss_fetcher.py` | RSS çekme, kural tabanlı filtre (film/dizi/çizgi roman/donanım reklamı/rehber), kopya kontrolü |
 | `content_generator.py` | Gemini / Claude sağlayıcı katmanı, AI bağlam filtresi + Türkçe özet, tam metin + görsel çekme, içerik paketi |
-| `state.json` | Görülen haberler, son 12 saatte gönderilenler, bekleyen kartlar, Telegram ofseti (workflow commit'ler) |
+| `state.json` | Görülen haberler, gönderilenler, bekleyen kartlar, Telegram ofseti (workflow commit'ler). 14 günden eski kayıtlar her kayıtta otomatik silinir (`state_retention_days`) |
 | `config.example.json` | Tüm ayarlar ve varsayılanlar. Yerelde `config.json` olarak kopyalayın (git'e girmez) |
 | `.github/workflows/rss_cron.yml` | Zamanlayıcı (varsayılan 30 dk) |
+
+## `[Haberi Hazırla]` çıktısı
+Kapak görseli (dosya) → 🅰️ Admin paneli (başlık, kısa özet, ana metin, künye) → 🅱️ X metni → 📸 Instagram özeti (3-4 madde, @paralaksonline)
 
 ## Komutlar
 ```

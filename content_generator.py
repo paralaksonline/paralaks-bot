@@ -372,7 +372,8 @@ PARALAKS ÜSLUBU
   } | null,
   "haber_tipi": "standart" | "kampanya",
   "x_metni": "",
-  "magaza_linki": ""
+  "magaza_linki": "",
+  "instagram_ozet": ["madde 1", "madde 2", "madde 3"]
 }
 
 KURALLAR
@@ -384,7 +385,11 @@ KURALLAR
   ise "kampanya"; duyuru, fragman, çıkış tarihi, güncelleme, sektör haberi ise "standart".
 - "x_metni": X (Twitter) için Türkçe, tek cümlelik, sade paylaşım metni. Emoji, hashtag, kaynak adı ve link EKLEME
   (bunları sistem ekleyecek). En fazla 220 karakter.
-- "magaza_linki": "kampanya" ise verilen mağaza linklerinden en uygun olanı; yoksa boş bırak. "standart" ise boş."""
+- "magaza_linki": "kampanya" ise verilen mağaza linklerinden en uygun olanı; yoksa boş bırak. "standart" ise boş.
+- "instagram_ozet": @paralaksonline Instagram gönderisi/karuseli için 3 veya 4 maddelik kısa özet.
+  Her madde tek cümle, en fazla 90 karakter; haberin en önemli bilgilerini (ne, ne zaman, hangi platform,
+  neden önemli) sırayla verir. Madde işareti, numara, emoji, hashtag ve link EKLEME (sistem biçimlendirecek).
+  Aynı bilgiyi tekrarlama; PARALAKS üslubunda sade ve bilgi odaklı yaz."""
 
 
 def generate_package(ai: _BaseAI, article: dict, source_name: str) -> dict:
@@ -408,7 +413,24 @@ def generate_package(ai: _BaseAI, article: dict, source_name: str) -> dict:
             k["cikis_tarihi"] = "Duyurulmadı"
         k["turkce"] = "Var" if str(k.get("turkce", "")).strip().lower() == "var" else "Yok"
     pkg["x_post"] = format_x_text(pkg, source_name, article["url"])
+    pkg["instagram"] = clean_instagram(pkg.get("instagram_ozet"))
     return pkg
+
+
+IG_MAX_ITEM = 110
+
+
+def clean_instagram(items) -> list[str]:
+    """AI'nin Instagram maddelerini temizler: 3-4 madde, baştaki işaretler/numaralar ve hashtag'ler atılır."""
+    if isinstance(items, str):
+        items = [s for s in re.split(r"\n+|(?<=[.!?])\s+(?=[A-ZÇĞİÖŞÜ])", items) if s.strip()]
+    out = []
+    for it in items or []:
+        s = re.sub(r"^\s*(?:[-•*▪►▶✓✔·]|\d+[.)])\s*", "", str(it))
+        s = re.sub(r"\s*#\w+", "", s).strip()
+        if s:
+            out.append(_cut(s, IG_MAX_ITEM))
+    return out[:4]
 
 
 X_LIMIT = 260
