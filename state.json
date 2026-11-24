@@ -48,7 +48,10 @@
   "6e90d13511c5": 1795468313.6669884,
   "d1292959fb6f": 1795510442.8654873,
   "71adb839b0f9": 1795510516.6722913,
-  "f40abc5666b4": 1795510518.5247452
+  "f40abc5666b4": 1795510518.5247452,
+  "bc60aa105dca": 1795514246.1666346,
+  "22dff3a4c595": 1795514252.1451569,
+  "818029fae1f5": 1795514253.650842
  },
  "sent": [
   {
@@ -158,6 +161,24 @@
    "game": "Fluffy Hot Spring",
    "event": "fluffy hot spring announced for pc",
    "msg": 486
+  },
+  {
+   "id": "22dff3a4c595",
+   "ts": 1795514252.4506328,
+   "source": "Eurogamer",
+   "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 pc build leaked by cyberleek",
+   "msg": 492
+  },
+  {
+   "id": "818029fae1f5",
+   "ts": 1795514254.0096626,
+   "source": "VGC",
+   "title": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library",
+   "game": "Wave Race: Blue Storm",
+   "event": "wave race blue storm added to switch online",
+   "msg": 493
   }
  ],
  "pending": {
@@ -250,7 +271,25 @@
    "content": "Ogu and the Secret Forest developers Sinkhole Studio and Moonlab Studio have announced Fluffy Hot … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Fluffy-Hot-Spring-Ann_11-24-26.jpg",
    "ts": 1795510519.0530608
+  },
+  "22dff3a4c595": {
+   "url": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+   "source": "Eurogamer",
+   "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+   "summary": "A PC version of Grand Theft Auto 6 - one from unofficial sources, at least - may be closer than we thought. After suddenly returning last week with a near-full build of the Xbox version , notorious leaker CyberLeek has now posted the missing piece they intentionally held back: the game's executable (.exe) file. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(14).jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795514252.4506373
+  },
+  "818029fae1f5": {
+   "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
+   "source": "VGC",
+   "title": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library",
+   "summary": "It's the first time Nintendo's racing sequel has been re-released in 25 years",
+   "content": "It's the first time Nintendo's racing sequel has been re-released in 25 years… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/wave-race-blue-storm.jpg",
+   "ts": 1795514254.0096664
   }
  },
- "updated_at": "2026-11-24T09:01:25Z"
+ "updated_at": "2026-11-24T10:01:29Z"
 }
