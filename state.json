@@ -1,5 +1,5 @@
 {
- "telegram_offset": 990434138,
+ "telegram_offset": 990434141,
  "seen": {
   "4d088d3cc7ff": 1795460673.37676,
   "52aa77fab725": 1795460673.37676,
@@ -123,7 +123,12 @@
   "a759d8af430b": 1795547287.6466994,
   "96d3c2148c80": 1795547287.6467292,
   "0f24ea27b621": 1795547289.3202877,
-  "de99d1837fbe": 1795547290.951603
+  "de99d1837fbe": 1795547290.951603,
+  "5b62c2d73c94": 1795550760.9896524,
+  "2c1d5547b0af": 1795550760.9896524,
+  "b46dedd8a05e": 1795550810.073734,
+  "89991132dfb2": 1795550811.6201375,
+  "ca5446bf311a": 1795550813.1754477
  },
  "sent": [
   {
@@ -521,6 +526,24 @@
    "game": "Lords of the Fallen II",
    "event": "lords of the fallen 2 release date",
    "msg": 523
+  },
+  {
+   "id": "b46dedd8a05e",
+   "ts": 1795550810.4200406,
+   "source": "Polygon",
+   "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 players chapter 2 achievement data",
+   "msg": 524
+  },
+  {
+   "id": "89991132dfb2",
+   "ts": 1795550811.9753296,
+   "source": "Polygon",
+   "title": "The One Thing to Know About Jason and Lucia Before You Play Too Much GTA 6",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 jason lucia character details",
+   "msg": 525
   }
  ],
  "pending": {
@@ -821,15 +844,6 @@
    "image": "https://assets-prd.ignimgs.com/2026/11/24/halifax-1795537599565.jpg",
    "ts": 1795547041.9448166
   },
-  "4e4fe0fa0977": {
-   "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
-   "source": "VGC",
-   "title": "Official GTA 6 trading cards are coming next month",
-   "summary": "GTA 6's in-game trading cards are getting a physical release this December",
-   "content": "GTA 6's in-game trading cards are getting a physical release this December… Source",
-   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-collectible-cards.jpg",
-   "ts": 1795547043.5775387
-  },
   "d8fe3705a9c1": {
    "url": "https://www.ign.com/articles/real-life-strip-club-says-its-had-hundreds-of-inquiries-from-gta-6-fans-as-pornhub-traffic-plummets",
    "source": "IGN",
@@ -901,7 +915,25 @@
    "content": "Soulslike action RPG Lords of the Fallen II will launch for PlayStation 5, Xbox Series, Switch … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/LotF2-Window_11-24-26.jpg",
    "ts": 1795547291.4143705
+  },
+  "b46dedd8a05e": {
+   "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
+   "source": "Polygon",
+   "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+   "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
+   "content": "If your feed is full of clips and streams from people who’ve already gone deep into Grand Theft Auto 6 , here’s some reassurance: most players aren’t as far along as you probably think.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+   "ts": 1795550810.420045
+  },
+  "89991132dfb2": {
+   "url": "https://www.polygon.com/gta-6-jason-lucia-dialogue/",
+   "source": "Polygon",
+   "title": "The One Thing to Know About Jason and Lucia Before You Play Too Much GTA 6",
+   "summary": "Grand Theft Auto 6 hides some key character details behind moments you'll only see when Jason and Lucia are together.",
+   "content": "Even after clearing Grand Theft Auto 6 ’s long story, I keep finding myself drawn back to Leonida. That’s thanks in large part to Jason and Lucia, a pair of charismatic protagonists that I genuinely enjoy spending time with. While you can treat them as independent characters and take them out on solo adventures, GTA 6 shines brightest when you travel around Leonida as a pair. In fact, you’re bound to miss a whole lot if you aren’t letting Jason and Lucia enjoy a date from time to time.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-holding-hands.jpg",
+   "ts": 1795550811.9753332
   }
  },
- "updated_at": "2026-11-24T19:12:07Z"
+ "updated_at": "2026-11-24T20:10:47Z"
 }
