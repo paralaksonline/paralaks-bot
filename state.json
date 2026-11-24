@@ -65,7 +65,10 @@
   "e2bfae1ecdc0": 1795524605.7674267,
   "ecf7ec6cb7aa": 1795524623.8889718,
   "5dd6d75d0eab": 1795524625.5641735,
-  "98cca609875f": 1795524625.564273
+  "98cca609875f": 1795524625.564273,
+  "8dbe6df9dda4": 1795529125.9106877,
+  "0ec409733a33": 1795529125.9106877,
+  "a8b52e4d96f4": 1795529330.1187143
  },
  "sent": [
   {
@@ -265,6 +268,15 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 launch revenue beats taylor swift eras tour",
    "msg": 501
+  },
+  {
+   "id": "a8b52e4d96f4",
+   "ts": 1795529330.5623844,
+   "source": "Gematsu",
+   "title": "Showa American Story delayed to October 28, 2027",
+   "game": "Showa American Story",
+   "event": "showa american story delayed to october 28 2027",
+   "msg": 502
   }
  ],
  "pending": {
@@ -447,7 +459,16 @@
    "content": "Taylor Swift is one of the biggest music artists in modern times. From 2023 to late 2024, the Eras Tour took her all over the world to play nearly 150 shows for millions of fans. It was a monumental moment in her career, and it earned $2 billion in ticket sales , becoming the highest-grossing tour of all time. Grand Theft Auto 6 grossed double that amount, in just four days.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ambrosia_06.jpg",
    "ts": 1795524626.0483277
+  },
+  "a8b52e4d96f4": {
+   "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
+   "source": "Gematsu",
+   "title": "Showa American Story delayed to October 28, 2027",
+   "summary": "Publisher 4Divinity and developer NEKCOM Games have delayed “post-apocalyptic romance RPG” and “alternate history ensemble …",
+   "content": "Publisher 4Divinity and developer NEKCOM Games have delayed “post-apocalyptic romance RPG” and “alternate history ensemble … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Showa-American-Story-Date_11-24-26.jpg",
+   "ts": 1795529330.5623884
   }
  },
- "updated_at": "2026-11-24T12:54:21Z"
+ "updated_at": "2026-11-24T14:12:48Z"
 }
