@@ -70,7 +70,21 @@
   "0ec409733a33": 1795529125.9106877,
   "a8b52e4d96f4": 1795529330.1187143,
   "fe549765d6b1": 1795532656.852601,
-  "6c740f3eb53b": 1795532656.852601
+  "6c740f3eb53b": 1795532656.852601,
+  "87d78cbd01b9": 1795536821.2421412,
+  "7dd5661165e9": 1795536821.2421412,
+  "9f2d78a17d8f": 1795536821.2421412,
+  "c69ae9d6aea8": 1795536821.2421412,
+  "2a76ff4215be": 1795536821.2421412,
+  "204f49fc59da": 1795536821.2421412,
+  "6e4e988aceb6": 1795536821.2421412,
+  "d4fa4f50af0f": 1795536821.2421412,
+  "13353df875ba": 1795536821.2421412,
+  "8af9459a6864": 1795536821.2421412,
+  "26be2ba9b517": 1795536945.8661847,
+  "963b6b2d51fc": 1795536945.8662121,
+  "e9672de5414b": 1795536947.602801,
+  "bfc495153021": 1795536949.365236
  },
  "sent": [
   {
@@ -279,6 +293,33 @@
    "game": "Showa American Story",
    "event": "showa american story delayed to october 28 2027",
    "msg": 502
+  },
+  {
+   "id": "963b6b2d51fc",
+   "ts": 1795536946.402686,
+   "source": "VGC",
+   "title": "Can you buy houses in GTA 6? Property, garages and safehouses explained",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 property safehouse buying guide",
+   "msg": 503
+  },
+  {
+   "id": "e9672de5414b",
+   "ts": 1795536948.1650972,
+   "source": "VGC",
+   "title": "Where To Get The Car Key Cloner In GTA 6",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 car key cloner location guide",
+   "msg": 504
+  },
+  {
+   "id": "bfc495153021",
+   "ts": 1795536950.0360422,
+   "source": "Polygon",
+   "title": "Pokémon’s Hyped Countdown Might Be Leading to a Letdown",
+   "game": "Pokémon",
+   "event": "pokemon countdown announcement music video speculation",
+   "msg": 505
   }
  ],
  "pending": {
@@ -470,7 +511,34 @@
    "content": "Publisher 4Divinity and developer NEKCOM Games have delayed “post-apocalyptic romance RPG” and “alternate history ensemble … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Showa-American-Story-Date_11-24-26.jpg",
    "ts": 1795529330.5623884
+  },
+  "963b6b2d51fc": {
+   "url": "https://www.videogameschronicle.com/guide/can-you-buy-houses-in-gta-6-property-garages-and-safehouses-explained/",
+   "source": "VGC",
+   "title": "Can you buy houses in GTA 6? Property, garages and safehouses explained",
+   "summary": "Here's how buying houses works in GTA 6",
+   "content": "Here's how buying houses works in GTA 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/can-you-buy-houses-gta-6-1.jpg",
+   "ts": 1795536946.402691
+  },
+  "e9672de5414b": {
+   "url": "https://www.videogameschronicle.com/guide/where-to-get-the-car-key-cloner-in-gta-6/",
+   "source": "VGC",
+   "title": "Where To Get The Car Key Cloner In GTA 6",
+   "summary": "Here's where to get the Car Key Cloner in GTA 6",
+   "content": "Here's where to get the Car Key Cloner in GTA 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-key-cloner-5.jpg",
+   "ts": 1795536948.1651022
+  },
+  "bfc495153021": {
+   "url": "https://www.polygon.com/pokemon-november-countdown-music-video/",
+   "source": "Polygon",
+   "title": "Pokémon’s Hyped Countdown Might Be Leading to a Letdown",
+   "summary": "Pokémon's social media has counting down toward something happening on Nov. 30, and it looks like the announcement will just be a music video.",
+   "content": "In October and early November, The Pokémon Company started counting down toward the end of the month, as noted by Serebii webmaster Joe Merrick . Using Poké Ball-themed logos created for the franchise's 30th anniversary , Pokémon teased some sort of announcement for Nov. 30 at 14:00 UTC.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/untitled-design-2.png",
+   "ts": 1795536950.0360458
   }
  },
- "updated_at": "2026-11-24T15:12:15Z"
+ "updated_at": "2026-11-24T16:19:46Z"
 }
