@@ -1,5 +1,5 @@
 {
- "telegram_offset": 990434137,
+ "telegram_offset": 990434138,
  "seen": {
   "4d088d3cc7ff": 1795460673.37676,
   "52aa77fab725": 1795460673.37676,
@@ -45,7 +45,10 @@
   "434163b1d29b": 1795467649.9296944,
   "075467d8921c": 1795467649.9296944,
   "24fb2b3e13b3": 1795468313.666963,
-  "6e90d13511c5": 1795468313.6669884
+  "6e90d13511c5": 1795468313.6669884,
+  "d1292959fb6f": 1795510442.8654873,
+  "71adb839b0f9": 1795510516.6722913,
+  "f40abc5666b4": 1795510518.5247452
  },
  "sent": [
   {
@@ -137,6 +140,24 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 mandy voice actor identity",
    "msg": 484
+  },
+  {
+   "id": "71adb839b0f9",
+   "ts": 1795510517.3246317,
+   "source": "Gematsu",
+   "title": "VTuber visual novels Rabbitfoot Gakuen: Tokimeki no Oto and Rabbitfoot Gakuen: Yasuragi no Koe announced for PS4, Switch, PC, iOS, and Android",
+   "game": "",
+   "event": "rabbitfoot gakuen visual novels announced",
+   "msg": 485
+  },
+  {
+   "id": "f40abc5666b4",
+   "ts": 1795510519.053054,
+   "source": "Gematsu",
+   "title": "Hot spring bathhouse life simulation game Fluffy Hot Spring announced for PC",
+   "game": "Fluffy Hot Spring",
+   "event": "fluffy hot spring announced for pc",
+   "msg": 486
   }
  ],
  "pending": {
@@ -176,15 +197,6 @@
    "image": "https://assetsio.gnwcdn.com/Warhammer-40%2C000_-Dawn-of-War-4---Official-Announcement-Trailer-_-gamescom-2025-0-16-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795463686.1619604
   },
-  "ca90f357cb34": {
-   "url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-gets-its-first-major-discount-for-black-friday-dropping-to-30",
-   "source": "IGN",
-   "title": "Metal Gear Solid Master Collection Vol. 2 Gets Its First Major Discount for Black Friday, Dropping to $30",
-   "summary": "During Black Friday sales, Metal Gear Solid Master Collection Vol. 2 has received its first big discount of 40% off across PS5, Xbox Series X, and Nintendo Switch 2. This has brought its price down to $29.99.",
-   "content": "Amazon's Black Friday sale features some truly great video game deals this year, including an exciting discount on the Metal Gear Solid Master Collection Vol. 2 . It's dropped to $29.99 across PS5 , Xbox Series X , and Nintendo Switch 2 as part of the seasonal sale event, which is 40% off its original MSRP and the first major discount its received since launch. What better time to grab it if it's been on your gaming wishlist? This collection continues on from the first Master Collection of Metal Gear Solid games that released back in 2023, featuring Metal Gear Solid 4: Guns of the Patriots , Metal Gear Solid: Peace Walker (HD Collection version), and Metal Gear: Ghost Babel. It also comes with a variety of digital books including the Metal Gear Solid 4: Screenplay Book, Metal Gear Solid 4: Master Book, Metal Gear Solid: Peace Walker Screenplay Book, and Metal Gear Solid: Peace Walker Master Book. Plus, if you have saved data for any title in Vol. 1's collection, you'll receive in-game bonus items for Guns of the Patriots and Peace Walker. These are Gold Camouflage, which can be used in the former, and a Gold Uniform for the latter. Another important thing to note is if you opt for the Switch 2 copy, this comes as a Game-Key Card rather than a game on the cartridge. This means you'll have to download the game before you can boot it up. If you finished all of the MGS classics in Vol. 1 and have been eager to jump into Vol. 2, now is as good a time as any to pick it up for your preferred platform. And if you're looking for more video game deals, we've gathered up some of our favorite finds from PlayStation and Xbox's Black Friday sales that are well worth checking out while they're still available.",
-   "image": "https://assets-prd.ignimgs.com/2026/11/19/mgs-master-collection-2-deal-1795099381994.jpg",
-   "ts": 1795463687.742617
-  },
   "525ba0d2fc75": {
    "url": "https://www.ign.com/articles/family-friendly-fortnite-streamer-viral-gta-6-zoo-rampage",
    "source": "IGN",
@@ -220,7 +232,25 @@
    "content": "Here's who plays Mandy in GTA 6… Source",
    "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Mandy-Actress.jpg",
    "ts": 1795463713.2485168
+  },
+  "71adb839b0f9": {
+   "url": "https://www.gematsu.com/2026/11/vtuber-visual-novels-rabbitfoot-gakuen-tokimeki-no-oto-and-rabbitfoot-gakuen-yasuragi-no-koe-announced-for-ps4-switch-pc-ios-and-android",
+   "source": "Gematsu",
+   "title": "VTuber visual novels Rabbitfoot Gakuen: Tokimeki no Oto and Rabbitfoot Gakuen: Yasuragi no Koe announced for PS4, Switch, PC, iOS, and Android",
+   "summary": "Rabbitfoot has announced Rabbitfoot Gakuen: Tokimeki no Oto and Rabbitfoot Gakuen: Yasuragi no Koe, a …",
+   "content": "Rabbitfoot has announced Rabbitfoot Gakuen: Tokimeki no Oto and Rabbitfoot Gakuen: Yasuragi no Koe, a … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Rabbitfoot-Gakuen-Ann_11-23-26.jpg",
+   "ts": 1795510517.3246367
+  },
+  "f40abc5666b4": {
+   "url": "https://www.gematsu.com/2026/11/hot-spring-bathhouse-life-simulation-game-fluffy-hot-spring-announced-for-pc",
+   "source": "Gematsu",
+   "title": "Hot spring bathhouse life simulation game Fluffy Hot Spring announced for PC",
+   "summary": "Ogu and the Secret Forest developers Sinkhole Studio and Moonlab Studio have announced Fluffy Hot …",
+   "content": "Ogu and the Secret Forest developers Sinkhole Studio and Moonlab Studio have announced Fluffy Hot … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Fluffy-Hot-Spring-Ann_11-24-26.jpg",
+   "ts": 1795510519.0530608
   }
  },
- "updated_at": "2026-11-24T07:55:26Z"
+ "updated_at": "2026-11-24T09:01:25Z"
 }
