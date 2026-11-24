@@ -58,7 +58,10 @@
   "d04b353ea8e2": 1795517503.122359,
   "d57343493e64": 1795517504.7136662,
   "3b9973608985": 1795517504.7137697,
-  "71bd250dd032": 1795517506.3204074
+  "71bd250dd032": 1795517506.3204074,
+  "0dd5c284c48d": 1795520862.574964,
+  "c482ac1a7e6b": 1795520941.2539308,
+  "cefa0243066a": 1795520941.2539608
  },
  "sent": [
   {
@@ -231,6 +234,15 @@
    "game": "",
    "event": "cyberpunk director praises gta 6 artistic achievement",
    "msg": 498
+  },
+  {
+   "id": "cefa0243066a",
+   "ts": 1795520941.622341,
+   "source": "Eurogamer",
+   "title": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else",
+   "game": "Warhammer 40,000: Boltgun 2",
+   "event": "warhammer 40000 boltgun 2 preview and gameplay impressions",
+   "msg": 499
   }
  ],
  "pending": {
@@ -386,7 +398,16 @@
    "content": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\" Source",
    "image": "https://www.videogameschronicle.com/files/2025/04/cyberpunk.jpg",
    "ts": 1795517506.6902494
+  },
+  "cefa0243066a": {
+   "url": "https://www.eurogamer.net/warhammer-40000-boltgun-2-now-playing",
+   "source": "Eurogamer",
+   "title": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else",
+   "summary": "Warhammer 40,000 is a universe of two distinct moods. On the one hand, it's a grimdark future of serious, solemn stories where trillions die in galactic wars of attrition; of tragedies and insurmountable threats. But there's also the other side of Warhammer 40,000, where goofy hilarity and gory absurdity lies. Where Orks paint their cars go-faster red, and where chainaxe-wielding Khorne Berserkers indulge in gleeful hyperviolence. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/boltgun-2-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795520941.6223452
   }
  },
- "updated_at": "2026-11-24T10:55:42Z"
+ "updated_at": "2026-11-24T11:52:57Z"
 }
