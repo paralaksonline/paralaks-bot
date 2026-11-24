@@ -84,7 +84,30 @@
   "26be2ba9b517": 1795536945.8661847,
   "963b6b2d51fc": 1795536945.8662121,
   "e9672de5414b": 1795536947.602801,
-  "bfc495153021": 1795536949.365236
+  "bfc495153021": 1795536949.365236,
+  "e1d1c01c0900": 1795540607.2875822,
+  "c1c56b77dd95": 1795540607.2875822,
+  "12896923bf48": 1795540607.2875822,
+  "2c4fb5815acf": 1795540607.2875822,
+  "039b119d1ee8": 1795540607.2875822,
+  "f3f234db50c6": 1795540607.2875822,
+  "4cd443474897": 1795540607.2875822,
+  "27b849f05162": 1795540607.2875822,
+  "cfb64750774c": 1795540607.2875822,
+  "c954d901472f": 1795540607.2875822,
+  "3049a12e6b7e": 1795540607.2875822,
+  "98855ca828cc": 1795540795.0659277,
+  "662ea8fd1206": 1795540796.833398,
+  "e62602da3146": 1795540796.8334577,
+  "14fe6db95859": 1795540798.6530352,
+  "53c16a430722": 1795540798.6530938,
+  "a00a2b7de5df": 1795540800.3902156,
+  "9f487804d853": 1795540802.1981506,
+  "88f1ba8f0f50": 1795540804.2015462,
+  "57aa9f72654c": 1795540953.0801063,
+  "5369499c4efb": 1795540954.9160895,
+  "40c94a07311f": 1795540956.6545825,
+  "de9dca79731e": 1795540956.6546443
  },
  "sent": [
   {
@@ -320,6 +343,78 @@
    "game": "Pokémon",
    "event": "pokemon countdown announcement music video speculation",
    "msg": 505
+  },
+  {
+   "id": "98855ca828cc",
+   "ts": 1795540795.6332781,
+   "source": "Polygon",
+   "title": "Canceled Mass Effect Addressed Squad Members’ Fates, Writer Reveals",
+   "game": "Mass Effect",
+   "event": "canceled mass effect project details revealed",
+   "msg": 506
+  },
+  {
+   "id": "e62602da3146",
+   "ts": 1795540797.4529157,
+   "source": "IGN",
+   "title": "The Definitive Proof That GTA 6 and Red Dead Redemption Share The Same Universe",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 and red dead redemption universe connection",
+   "msg": 507
+  },
+  {
+   "id": "53c16a430722",
+   "ts": 1795540799.1900172,
+   "source": "Gematsu",
+   "title": "Atomic Heart: The CUBE teaser trailer ‘Archive File #1’",
+   "game": "Atomic Heart: The CUBE",
+   "event": "atomic heart the cube teaser trailer released",
+   "msg": 508
+  },
+  {
+   "id": "a00a2b7de5df",
+   "ts": 1795540800.998028,
+   "source": "Polygon",
+   "title": "Pokémon Go 'Twilight Wishes' event guide",
+   "game": "Pokémon GO",
+   "event": "pokemon go twilight wishes event guide",
+   "msg": 509
+  },
+  {
+   "id": "9f487804d853",
+   "ts": 1795540803.0014133,
+   "source": "Gematsu",
+   "title": "Paper Shredder launches January 12, 2027",
+   "game": "Paper Shredder",
+   "event": "paper shredder release date announced",
+   "msg": 510
+  },
+  {
+   "id": "57aa9f72654c",
+   "ts": 1795540953.7160041,
+   "source": "Polygon",
+   "title": "Bungie Officially Shows Off Marathon’s Most Exciting Update Feature",
+   "game": "Marathon",
+   "event": "marathon symbiosis update bishop shell revealed",
+   "msg": 511
+  },
+  {
+   "id": "5369499c4efb",
+   "ts": 1795540955.4544613,
+   "source": "Polygon",
+   "title": "This GTA 6 Moment Is A Trolling Master Class From Rockstar",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 crashing issues and rockstar trolling",
+   "msg": 512
+  },
+  {
+   "id": "de9dca79731e",
+   "ts": 1795540957.1916652,
+   "source": "Gematsu",
+   "title": "Demon Tides coming to PS5, Switch 2, and Switch on January 21, 2027",
+   "game": "Demon Tides",
+   "event": "demon tides release date announced for consoles",
+   "msg": 513
   }
  ],
  "pending": {
@@ -538,7 +633,79 @@
    "content": "In October and early November, The Pokémon Company started counting down toward the end of the month, as noted by Serebii webmaster Joe Merrick . Using Poké Ball-themed logos created for the franchise's 30th anniversary , Pokémon teased some sort of announcement for Nov. 30 at 14:00 UTC.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/untitled-design-2.png",
    "ts": 1795536950.0360458
+  },
+  "98855ca828cc": {
+   "url": "https://www.polygon.com/mass-effect-universe-returning-squad-members-mass-effect-3-ending/",
+   "source": "Polygon",
+   "title": "Canceled Mass Effect Addressed Squad Members’ Fates, Writer Reveals",
+   "summary": "A writer on the canceled Mass Effect: Universe hinted at how the game would handle returning characters and Mass Effect 3's ending.",
+   "content": "Following the cancellation of the fifth mainline Mass Effect game, Mass Effect: Universe , fans can't help but wonder what could have been. In a recent Reddit AMA , Universe writer Cat Valente answered questions about the sequel, including how it would have addressed squad mates’ fates and Mass Effect 3 ’s controversial endings. Valente is an award-winning sci-fi and fantasy author and a Mass Effect series veteran, having previously written the 2018 novel Mass Effect: Annihilation . She worked on Universe for three years.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/me-universe-liara-16-9.jpg",
+   "ts": 1795540795.6332824
+  },
+  "e62602da3146": {
+   "url": "https://www.ign.com/articles/gta-6-red-dead-redemption-2-easter-eggs-secrets-details",
+   "source": "IGN",
+   "title": "The Definitive Proof That GTA 6 and Red Dead Redemption Share The Same Universe",
+   "summary": "Here are the seven easter eggs in GTA 6 that prove Red Dead Redemption and Grand Theft Auto take place in the same universe.",
+   "content": "From action movies to popular memes, there are dozens and dozens of Easter eggs and references to wider pop culture in GTA 6. But Rockstar has also slipped in more than a few nods to some of the studio’s previous games within Leonida. There’s a Manhunt-themed tattoo, for example, and a ludicrously convoluted secret that has already been unearthed involving a portal back to the days of Vice City. But one series is showing up more than others: Red Dead Redemption. We’re still working our way through finding all of them, as is the rest of the internet, but so far we’ve found seven secrets that relate to the developer’s beloved Western games. From hats and guns to road names and license plates, here are seven Red Dead Easter eggs in GTA 6. Valentine Drive If you’re looking for hidden details about Red Dead, the Western-themed Frontier Mini Golf course is a natural place to start. While none of the holes directly tell the tale of Red Dead Revolver, Red Dead Redemption, or its prequel—aside from squinting at hole four and seeing a snowy train wreck as a tangential nod to RDR2’s prologue—there are still things to find. We’ll get on to who can be seen roaming it in a moment, but before you even set foot inside, an Easter egg can be found. That’s because the attraction itself is located on Valentine Drive, a reference to the first major town you explore in Chapter 1 of Red Dead Redemption 2’s story. This is the location where Arthur famously drinks a few too many beers, has a bit of a dance, and looks for his friend, Lenny. Sadly, alcohol doesn’t seem to be served at this Mini Golf, although there’s nothing stopping you from bringing your own six-pack in. Tiny Arthur Morgan Once you’re on the course, though, a little friend with a familiar face riding on his back may well walk up to you. A small chihuahua with a cowboy toy, dressed in remarkably similar clothing to what Red Dead Redemption 2 protagonist Arthur Morgan wore in many of the game’s trailers. Feel free to give the little guy a pet, too, and his gun-toting rider will look like he’s giving it a little “yeehaw”. Adorable. Arthur’s Hat Perhaps more life-sized Arthur Morgan Easter eggs are more your thing, though. Well, get yourself over to Port Gellhorn to get your hands on, and head in, one such thing. Follow the trail of signs and balloons to find a resident looking to get rid of any old tat. Hidden amongst it all, though, is a real treasure. No, not the cow-patterned Hawaiian shirt, but something that will make fans of Red Dead Redemption 2’s hearts flutter a little: a genuine cowboy hat. Not just any cowboy, either, but Arthur himself. The dark brown colour, complete with twisted rope around the rim, is unmistakable, and is now Jason or Lucia’s to wear whenever they like. An absolute bargain at $35, too. Duke Arms As if we needed any further proof that the Grand Theft Auto and Red Dead Redemption stories take place in the same universe, the Duke Arms Company cements this. At any of Leonida’s Ammu-Nation stores, you can find weapons made by the same gun company that produced the Duke 1853 Navy Revolver in Red Dead Online. On the packaging found inside GTA 6’s gun stores, you can also spot 1853 written out in Roman numerals (MDCCCLIII) on the boxes. It just can’t be a coincidence. Flaco Hern á ndez and Blackwater “The Cowboy’s Prayer is To Die Young” is a Wild West-set novel of which you can read a few pages in GTA 6. There are a few fun little details hidden within. First, a mention of Blackwater, the port city from Red Dead Redemption and its prequel, where John Marston chooses to build his ranch near to. But there’s also a familiar name to those who chose to fully engage with RDR2’s side activities. Flaco Hernández was an infamous outlaw who you can meet during the 2018 game’s “The Noblest of Men, and a Woman” stranger mission. At the end of that story, you knock on his cabin by Cairn Lake and defeat him in a duel. The book in GTA 6 recounts all of these details, confirming",
+   "image": "https://assets-prd.ignimgs.com/2026/11/24/red-dead-blog-1795529199286.jpg",
+   "ts": 1795540797.4529288
+  },
+  "53c16a430722": {
+   "url": "https://www.gematsu.com/2026/11/atomic-heart-the-cube-teaser-trailer-archive-file-1",
+   "source": "Gematsu",
+   "title": "Atomic Heart: The CUBE teaser trailer ‘Archive File #1’",
+   "summary": "Mundfish has released a new teaser trailer for June 2025-announced multiplayer RPG Atomic Heart: The …",
+   "content": "Mundfish has released a new teaser trailer for June 2025-announced multiplayer RPG Atomic Heart: The … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Atomic-Heart-Teaser_11-24-26.jpg",
+   "ts": 1795540799.1900208
+  },
+  "a00a2b7de5df": {
+   "url": "https://www.polygon.com/pokemon-go-twilight-wishes-pass-sun-moon-umbreon-espeon/",
+   "source": "Polygon",
+   "title": "Pokémon Go 'Twilight Wishes' event guide",
+   "summary": "Here's everything you need to know about Pokémon Go's \"Twilight Wishes\" event, including how to get the sun and moon crown Pikachu.",
+   "content": "Pokémon Go ’s \"Twilight Wishes\" event is here to wrap up the \"Twilight Trails\" season. Running from Nov. 24-30 , this event brings back the Pokémon featured in the previous events throughout the season, and marks the return of Espeon and Umbreon in their themed scarfs, as well as Pikachu in their sun and moon crowns.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed-4.jpg",
+   "ts": 1795540800.9980311
+  },
+  "9f487804d853": {
+   "url": "https://www.gematsu.com/2026/11/paper-shredder-launches-january-12-2027",
+   "source": "Gematsu",
+   "title": "Paper Shredder launches January 12, 2027",
+   "summary": "Incremental game Paper Shredder will launch for Xbox Series and PC via Steam and Microsoft …",
+   "content": "Incremental game Paper Shredder will launch for Xbox Series and PC via Steam and Microsoft … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Paper-Shredder-Date_11-24-26.jpg",
+   "ts": 1795540803.0014172
+  },
+  "57aa9f72654c": {
+   "url": "https://www.polygon.com/playstation-marathon-symbiosis-update-bishop-shell-trailer/",
+   "source": "Polygon",
+   "title": "Bungie Officially Shows Off Marathon’s Most Exciting Update Feature",
+   "summary": "PlayStation’s extraction shooter, Marathon shows off Bishop shell coming in massive Symbiosis update",
+   "content": "Marathon 's big Symbiosis update has been teased for weeks, but now it's almost here. Developer Bungie is set to release the major overhaul of its extraction shooter on Dec. 8, bringing plenty of new features such as dedicated PvE. One of the biggest additions, however, is an entirely new shell (think of these as Marathon 's character classes) called Bishop. Now Bungie has shared our best look at Bishop yet.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/marathon-_-official-announce-trailer-0-3-screenshot.png",
+   "ts": 1795540953.7160077
+  },
+  "5369499c4efb": {
+   "url": "https://www.polygon.com/gta-6-fake-looney-tunes-wall-where-is-map-location-car-crash-videos/",
+   "source": "Polygon",
+   "title": "This GTA 6 Moment Is A Trolling Master Class From Rockstar",
+   "summary": "GTA 6 keep crashing at the same place, and they're blaming Rockstar Games for tricking them",
+   "content": "Have you ever seen those classic Looney Tunes cartoons where the murderous Wile E. Coyote dashes after the infuriating Road Runner? Usually, a high-speed chase ends with an unexpected comic twist , such as a bundle of dynamite exploding at the wrong time . Perhaps the most famous gag from these iconic animated shorts is the one where the plotting Coyote is tricked into running headfirst into a canyon wall painted to look like the entry to a tunnel.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6looney.JPG",
+   "ts": 1795540955.4544644
+  },
+  "de9dca79731e": {
+   "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027",
+   "source": "Gematsu",
+   "title": "Demon Tides coming to PS5, Switch 2, and Switch on January 21, 2027",
+   "summary": "Publisher PM Studios and developer Fabraz will release open-world 3D platformer Demon Tides for PlayStation …",
+   "content": "Publisher PM Studios and developer Fabraz will release open-world 3D platformer Demon Tides for PlayStation … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Demon-Tides-Consoles_11-24-26.jpg",
+   "ts": 1795540957.1916685
   }
  },
- "updated_at": "2026-11-24T16:19:46Z"
+ "updated_at": "2026-11-24T17:26:33Z"
 }
