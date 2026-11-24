@@ -61,7 +61,11 @@
   "71bd250dd032": 1795517506.3204074,
   "0dd5c284c48d": 1795520862.574964,
   "c482ac1a7e6b": 1795520941.2539308,
-  "cefa0243066a": 1795520941.2539608
+  "cefa0243066a": 1795520941.2539608,
+  "e2bfae1ecdc0": 1795524605.7674267,
+  "ecf7ec6cb7aa": 1795524623.8889718,
+  "5dd6d75d0eab": 1795524625.5641735,
+  "98cca609875f": 1795524625.564273
  },
  "sent": [
   {
@@ -243,6 +247,24 @@
    "game": "Warhammer 40,000: Boltgun 2",
    "event": "warhammer 40000 boltgun 2 preview and gameplay impressions",
    "msg": 499
+  },
+  {
+   "id": "ecf7ec6cb7aa",
+   "ts": 1795524624.364063,
+   "source": "Eurogamer",
+   "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 players mastering heists",
+   "msg": 500
+  },
+  {
+   "id": "98cca609875f",
+   "ts": 1795524626.048322,
+   "source": "Polygon",
+   "title": "GTA 6 Is Bigger Than Taylor Swift, Analysts Say",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 launch revenue beats taylor swift eras tour",
+   "msg": 501
   }
  ],
  "pending": {
@@ -407,7 +429,25 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/boltgun-2-header.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795520941.6223452
+  },
+  "ecf7ec6cb7aa": {
+   "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+   "source": "Eurogamer",
+   "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+   "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795524624.3640683
+  },
+  "98cca609875f": {
+   "url": "https://www.polygon.com/gta-6-grand-theft-auto-first-weekend-sales/",
+   "source": "Polygon",
+   "title": "GTA 6 Is Bigger Than Taylor Swift, Analysts Say",
+   "summary": "GTA 6's launch smashed the revenue record of Taylor Swift's Eras Tour, while leaving Spider-Man: Brand New Day and The Odyssey in the dust, too",
+   "content": "Taylor Swift is one of the biggest music artists in modern times. From 2023 to late 2024, the Eras Tour took her all over the world to play nearly 150 shows for millions of fans. It was a monumental moment in her career, and it earned $2 billion in ticket sales , becoming the highest-grossing tour of all time. Grand Theft Auto 6 grossed double that amount, in just four days.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ambrosia_06.jpg",
+   "ts": 1795524626.0483277
   }
  },
- "updated_at": "2026-11-24T11:52:57Z"
+ "updated_at": "2026-11-24T12:54:21Z"
 }
