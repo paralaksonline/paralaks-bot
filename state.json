@@ -1,5 +1,5 @@
 {
- "telegram_offset": 990434143,
+ "telegram_offset": 990434145,
  "seen": {
   "4d088d3cc7ff": 1795460673.37676,
   "52aa77fab725": 1795460673.37676,
@@ -231,7 +231,22 @@
   "918ac71840b3": 1795630030.5539563,
   "150b05720600": 1795630032.2364101,
   "e3c35c86dd80": 1795630033.7739992,
-  "d582e3d13236": 1795630033.7740989
+  "d582e3d13236": 1795630033.7740989,
+  "c18b76da0f4c": 1795632906.9293647,
+  "6787f7e33a28": 1795632906.9293647,
+  "f98b47c2d9f2": 1795632906.9293647,
+  "871fb0e72878": 1795632906.9293647,
+  "09a1fc9fb5c9": 1795633005.0159533,
+  "0deff58e7c89": 1795633006.599887,
+  "1a68f04d2392": 1795633008.1692727,
+  "ba4486d24f5e": 1795633009.700444,
+  "9fc248884698": 1795633011.288766,
+  "5ae7689400b1": 1795633012.8708973,
+  "cc4c0177fc48": 1795633014.4203598,
+  "3cd931151944": 1795633014.4204245,
+  "dae73712ce8b": 1795633202.058539,
+  "9dc9578e04b2": 1795633203.6535969,
+  "024314311b4c": 1795633205.2433872
  },
  "sent": [
   {
@@ -1097,6 +1112,87 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 fans angry about dolores the snake",
    "msg": 581
+  },
+  {
+   "id": "09a1fc9fb5c9",
+   "ts": 1795633005.3997748,
+   "source": "IGN",
+   "title": "Fan-Made GTA 5 Port for iPhone Shuts Down After Take-Two Cease and Desist",
+   "game": "Grand Theft Auto V",
+   "event": "take two shuts down fan made gta 5 iphone port",
+   "msg": 583
+  },
+  {
+   "id": "0deff58e7c89",
+   "ts": 1795633006.9691617,
+   "source": "IGN",
+   "title": "You Can Already Get Physical Copies of Tloz Ocarina of Time Remake for Under £50 Thanks to an Argos Trick — Here’s How",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "event": "tloz ocarina of time remake discounted at argos",
+   "msg": 584
+  },
+  {
+   "id": "1a68f04d2392",
+   "ts": 1795633008.500313,
+   "source": "IGN",
+   "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 gets first black friday discounts",
+   "msg": 585
+  },
+  {
+   "id": "ba4486d24f5e",
+   "ts": 1795633010.088654,
+   "source": "IGN",
+   "title": "The Witcher 3 and Assassin's Creed 'Reset Player Expectations' for Open-World Action RPGs, So the Fable Reboot Devs Had to Look Beyond the Original Trilogy for Inspiration",
+   "game": "Fable",
+   "event": "fable reboot devs discuss open world expectations",
+   "msg": 586
+  },
+  {
+   "id": "9fc248884698",
+   "ts": 1795633011.6707869,
+   "source": "IGN",
+   "title": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 player executes clean bank robbery",
+   "msg": 587
+  },
+  {
+   "id": "5ae7689400b1",
+   "ts": 1795633013.2202442,
+   "source": "IGN",
+   "title": "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 radio station celebrates southern hip hop",
+   "msg": 588
+  },
+  {
+   "id": "dae73712ce8b",
+   "ts": 1795633202.4534876,
+   "source": "Polygon",
+   "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 new pc leak and settings details",
+   "msg": 589
+  },
+  {
+   "id": "9dc9578e04b2",
+   "ts": 1795633204.0432909,
+   "source": "Polygon",
+   "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 players reporting game breaking bug",
+   "msg": 590
+  },
+  {
+   "id": "024314311b4c",
+   "ts": 1795633205.689975,
+   "source": "VGC",
+   "title": "GTA 6 Marbelle Hotel location and safe code: How to find the Silent Hill Easter egg",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 silent hill easter egg location",
+   "msg": 591
   }
  ],
  "pending": {
@@ -1936,7 +2032,79 @@
    "content": "After more than a decade of waiting, Grand Theft Auto 6 is finally here. Perhaps most surprising of all, it's actually living up to the world's sky-high expectations, and players everywhere are sharing their delight and awe at the game's immaculate attention to detail on social media. But there's one group of players who aren't so thrilled about the level of realism in GTA 6 : snake owners.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-dolores.jpg",
    "ts": 1795630032.573891
+  },
+  "09a1fc9fb5c9": {
+   "url": "https://www.ign.com/articles/fan-made-gta-5-port-for-apple-shut-down",
+   "source": "IGN",
+   "title": "Fan-Made GTA 5 Port for iPhone Shuts Down After Take-Two Cease and Desist",
+   "summary": "A cease and desist from Rockstar parent company Take-Two has put an end to a fan-made port of GTA 5 for Apple devices a month after the creator went public with it.",
+   "content": "A cease and desist from Rockstar parent company Take-Two has put an end to a fan-made port of GTA 5 for Apple devices a month after the creator went public with it. Five Star Port launched in October this year as a full native port that ran locally on iPhone, iPad, and Mac. On newer hardware like the A20 Pro chip, the port boasted frame rates between 40 and 60fps at near-native resolution and max graphics settings. It also supported foldable phones, with the controllers and map appearing on the lower portion and the game on the upper portion of the screen. Kevin, the creator of the port, posted a farewell message to the unofficial port’s website . “GTA V has always been one of my favorite games,” he said. “I've made mods for it, worked with FiveM, managed and hosted FiveM servers, and played on plenty of others. It has given me a lot of great memories. Getting to bring it to people who don't have a PC or a console, so they could play it on a phone, has been really, really cool. I honestly never thought this game could run on a phone at all. “Take-Two Interactive, through their lawyers, has sent me a cease and desist asking me to stop all activity under the Five Star Port name and everything related to it. I am complying with it.” Five Star Port’s website, app, and online services were shut down immediately. The Telegram and Discord groups have been made read-only and will be deleted on November 27. “I'm not involved in and don't endorse any continuation, rebrand or copy of the port, and I can't help with files or links,” Kevin added. He also posted a warning that scammers have been passing around copies of the port, claiming to have a “new version” of it. These could spread computer viruses. “Thank you again to everyone who supported this project: everyone who playtested, everyone who sent suggestions and feedback, and everyone who helped make it a great port that is actually fully playable on an iPhone,” Kevin signed off. “That still feels wild to me.” Take-Two has a history of forcing fan projects offline, so perhaps it comes as no surprise to see Five Star Port fall by the wayside. The company is currently battling homebrew efforts to vibecode a PC port of GTA 6 , which some believe is mere days away from being playable. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/08/30/gta-5-michael-gta-6-1788126987774.png",
+   "ts": 1795633005.3997784
+  },
+  "0deff58e7c89": {
+   "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-physical-under-50-deal",
+   "source": "IGN",
+   "title": "You Can Already Get Physical Copies of Tloz Ocarina of Time Remake for Under £50 Thanks to an Argos Trick — Here’s How",
+   "summary": "The physical Zelda: Ocarina of Time remake is already £49.99 at Argos with a simple discount trick, and you might even get the special foil edition.",
+   "content": "Barely three weeks after The Legend of Zelda: Ocarina of Time arrived on Nintendo Switch 2 , in true Black Friday fashion, there's already a handy, simple way to grab the physical version of the remake of Link’s classic Hyrule adventure for under £50 — and it doesn't involve buying from a third-party seller or settling for a digital copy. Although Argos currently has the remake of Ocarina of Time listed for £54.99 , you can actually bring that down to just £49.99 by taking advantage of the retailer's £5 marketing promotion for when spending £40 or more, making the game 9% cheaper with a quick sign-up. For comparison, that makes Argos the cheapest for the cartridge version of the game compared to other standard retailers — like Amazon UK charging £54.99 , whilst ShopTo has also been offering it for £54.85 . How To Get Ocarina of Time for £49.99 at Argos To claim the discount, you'll first need to visit Argos' email marketing sign-up page , enter your name and email address, and agree to receive its promotional communications. After receiving your £5 voucher by email, simply add the boxed version of the Ocarina of Time remake to your Argos basket and apply the code at checkout, reducing the final cost to £49.99. The only catch is that this offer is exclusively for customers who haven't already signed up for Argos marketing; thankfully, this means you can get around the issue by merely signing up with an alternate email address. Also keep in mind that Argos usually charges £4.95 for delivery on orders below £100, but you can still keep the price below £50 by selecting free Click & Collect instead. Better yet, numerous customers on HotUKDeals have reported receiving the special first-print foil-cover edition from Argos, with confirmations appearing as recently as November 17; this might be dependant on available stock at each branch or distribution centre, however, so don’t take that as a guarantee.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/22/the-legend-of-zelda-ocarina-of-time-physical-under-50-deal-cover-1795368537407.jpg",
+   "ts": 1795633006.9691656
+  },
+  "1a68f04d2392": {
+   "url": "https://www.ign.com/articles/grand-theft-auto-6-is-out-and-there-are-already-black-friday-gta-6-deals",
+   "source": "IGN",
+   "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
+   "summary": "GTA 6 is already down to £53.85 at ShopTo, with £16 off Xbox copies, cheaper PS5 options, and up to £22 off the Ultimate Edition ahead of Black Friday.",
+   "content": "Rockstar's GTA 6 has barely been out for a few days, but UK retailer ShopTo is already offering some surprisingly generous discounts on the new release across PS5 and Xbox Series X|S — letting you pay as little as £53.85 for the game. Here's how to save on what's arguably the biggest game of all time. Save On GTA 6 Already This Black Friday Despite Black Friday still being a week away, the store has slashed £16.14 off the standard Xbox version of Grand Theft Auto VI, bringing its usual £69.99 price down to £53.85 at ShopTo . That's 23% off for a direct digital code, with instant delivery, and no additional vouchers or memberships needed. Better still, there are a few other ways to save on Rockstar's latest blockbuster, depending on whether you're playing on Xbox or PS5, or fancy getting some bonus content with your purchase via the Ultimate Edition Best GTA 6 Black Friday Deals at ShopTo GTA 6 Standard Edition - Xbox (digital): £53.85 at ShopTo — was £69.99, save 23% GTA 6 Standard Edition - PS5 (£70 PSN Gift Card): £60.85 at ShopTo — was £70, save 13% GTA 6 Ultimate Edition - PS5 (£100 PSN Gift Card): £85.85 at ShopTo — was £100, save 14% GTA 6 Standard Edition - PS5 (physical boxed code + poster): £61.85 at ShopTo — was £69.99, save 12% GTA 6 Standard Edition - Xbox (physical boxed code + poster): £61.85 at ShopTo — was £69.99, save 12% GTA 6 Ultimate Edition - Xbox (digital): £67.85 at ShopTo — was £89.99, save 25% As for PS5 players, ShopTo's cheapest route is a little different, since getting digital game keys for PlayStation games outside of boxed codes and PlayStation itself is a lot trickier compared to Xbox titles. Instead of receiving GTA 6 itself, ShopTo can sell you a £70 PlayStation Store gift card for only £60.85 , which you can then redeem on your UK PSN account to buy the £69.99 Standard Edition — effectively earning you £9.15 in savings. On the other hand, for anyone who wants the closest thing to a physical version of GTA 6, both consoles have a £61.85 boxed option with an added A3 double-sided poster ; that also makes ShopTo the cheapest UK retailer to buy the boxed version of Grand Theft Auto VI from right now. Remember, though, these aren't actual disc versions of GTA 6; you'll find a download code inside the packaging instead. Also, for Xbox fans who were considering buying the Grand Theft Auto 6’s Ultimate Edition anyway, ShopTo also has said Ultimate Edition on Xbox for only £67.85 — an incredibly impressive £22.14 price drop and the lowest price we’ve seen for it yet. With the Ultimate Edition, compared to the Standard Edition of GTA VI, you’ll get extra vehicles, weapons, outfits, customisation features, and exclusive locations throughout Leonida. To get that aforementioned Ultimate Edition on PS5, however, you can also grab the £100 PlayStation Store Gift Card for only £85.85 to redeem the complete version of GTA 6 for £89.99. Sure, you’ll only save £41.14 instead of buying the game through the PS Store directly, but you’ll have an extra £10 credit to spend on other games and DLC on top. Otherwise, if you’re unsure about getting the Ultimate Edition on PlayStation 5 right away, you can always buy the £20 Ultimate Edition Upgrade directly from the PlayStation Store . The same goes for the bonus Grand Theft Auto VI Vintage Vice City Pack for £4.49 — featuring the stunning ’55 Vapid Stanier sedan and garage alongside Ocean Beach, alternative outfits and hairstyles for both Jason and Lucia, and an exclusive Tropical Weapon Pattern inspired by Tommy Vercetti's iconic palm-tree shirt. At the time of writing, there is no physical disc version of GTA 6, along with there being no indication by Rockstar Games as to whether it will be putting out a disc'd edition of the game; with that, these deals are some of the best value you can get on the Grand Theft Auto sequel in the meantime.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-ps5-xbox-early-black-friday-deals-shopto-1795209707407.jpg",
+   "ts": 1795633008.500316
+  },
+  "ba4486d24f5e": {
+   "url": "https://www.ign.com/articles/the-witcher-3-and-assassins-creed-reset-player-expectations-for-open-world-action-rpgs-so-the-fable-reboot-devs-had-to-look-beyond-the-original-trilogy-for-inspiration",
+   "source": "IGN",
+   "title": "The Witcher 3 and Assassin's Creed 'Reset Player Expectations' for Open-World Action RPGs, So the Fable Reboot Devs Had to Look Beyond the Original Trilogy for Inspiration",
+   "summary": "Why has the Fable reboot taken so long to develop? There are a number of reasons, but part of it is that expectations around open-world action RPGs were reset by various competing games over the past decade.",
+   "content": "Why has the Fable reboot taken so long to develop? There are a number of reasons, but part of it is that expectations around open-world action RPGs were reset by various competing games over the past decade. Work on Fable reportedly started in 2016, and only now, 10 years later, is it near release. It’s suffered a tumultuous development but, unlike some other costly Microsoft gaming projects, it has avoided closure amid sweeping layoffs and restructuring at Xbox. In a new interview with GamesIndustry.biz , Playground Games co-founder and Fable general manager Ralph Fulton touched on the trials and tribulations Fable has endured over the years. Playground set up a new team to make Fable in addition to its hugely popular racing game franchise, Forza Horizon, and set out to make a game in a genre it had no prior experience with. And Fable is a big role-playing game, with all the bells and whistles you'd expect. So, Fable isn’t technically a debut game from Playground, but it sort of is. In terms of what’s changed, Fulton said that technology had “advanced” during development, pointing to a reset of player expectations with the release of CD Projekt’s fantasy RPG masterpiece The Witcher 3 and then Assassin’s Creed’s move towards the RPG genre. This, Fulton explained, meant that Playground had to look beyond the original Fable trilogy for inspiration to ensure it created a reboot that would meet modern open-world standards. “In 2015, The Witcher 3 redefined what an open-world action RPG looks like and became the gold standard,” Fulton explained. “And after that bar was raised, the Assassin's Creed franchise changed into this more modern iteration with Origins, Odyssey, and Valhalla, and became like a quasi-RPG. “All of these games continue to reset player expectations, which means I think looking only to the original Fable trilogy for inspiration would leave us lacking in terms of what the modern audience, the modern marketplace, expects.” Despite this, the scope of Fable actually decreased over time, with the project starting with “an enormous potential scope.” In August, Playground confirmed that Fable’s main quest will take around 20 hours to beat , with an additional 15-20 hours of side and open-world exploration content available. Howlongtobeat has the original 2004 Fable 's main quest clocking in at about 12-and-a-half hours. Fable 2 isn't much longer at 13 hours , and Fable 3 inches just further past that at 13-and-a-half hours . So, the Fable reboot is shaping up to be the longest in the series. Fable is set for launch on February 23, 2027, across PC, PlayStation 5, and Xbox Series X and S.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/fable-1795625020339.jpg",
+   "ts": 1795633010.088657
+  },
+  "9fc248884698": {
+   "url": "https://www.ign.com/articles/gta-6-breaking-down-the-cleanest-bank-robbery-weve-seen-so-far",
+   "source": "IGN",
+   "title": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+   "summary": "One GTA 6 player has robbed $160,000 in just one minute in the cleanest bank robbery we’ve seen yet. Here's how they did it.",
+   "content": "Warning: This article talks about gameplay mechanics from chapter four of GTA 6, but contains no story spoilers. GTA 6 is a game all about making money. One of the quickest and most profitable ways of doing that is by robbing one of Vice City’s biggest banks. It’s also one of the riskiest, though; we’ve a legion of law enforcement destined to descend upon you once that alarm is triggered. That doesn’t mean a clean escape isn’t possible, though, and that’s just what one streamer has showcased, in perhaps the most impressive manner we’ve seen so far. Video game streamer Sway set about his mission to the downtown Lombank for all its worth via a popular method – tailing a security van. These are the green and white vans you sometimes see driving around the map, which, if you follow for long enough, will lead you to a bank where the vault will be left wide open for you to enter. You can also make the locations of these trucks visible by paying Yasmani a hefty $10,000 tip for the info. It’s worth noting that this option isn’t available until chapter four, with banks not being able to be successfully robbed at all until partway through GTA 6’s third chapter, once you gain the ability to cash in on marked bills. Otherwise, you’ll end up as Lucia can in the prologue, with a whole load of coloured dye all over you. Anyway, back to Sway’s attempted heist, and just because the security guard has opened the vault doesn’t mean you can simply walk in and out of the building carrying a load of cash. There are numerous options you can take, including blasting your way in and getting in and out as quickly and violently as possible, or entering through the back rooms to sneak past everyone. The latter is the way that Sway mostly went with. First, he shot out a security camera in the rear alley with a silenced pistol, before cracking open a garage door and quickly knocking out a guard with a quick pistol whip. Another couple of security members fell unconscious thanks to the blunt end of a gun as he made his way swiftly into the vault. Just noting the excellent choice of “old person” mask from Jason here, too. Cleanest Bank Robbery you'll see in GTA 6. $150k in 1 minute. simple and clean. https://t.co/Y8GqDuydvd — sway (@swaywtw) November 25, 2026 Next come the stacks of marked bills, which are hurriedly bundled into stash bags by Lucia. This action triggers the bank’s alarm systems, and always will, as far as I know. The cloud-based security camera system can’t be overrun and will always alert the cops once a couple of bundles of notes hit the bottom of your bag. With $122,000 already secured, he smartly swaps to controlling Jason, who can fill up his own bag to maximise the profits. With the grand total now sitting at $160,000, the hard part begins. At least, in theory, it should be difficult. This clearly isn’t Sway’s first run, though, as he doesn’t panic at all. He runs back to where he entered from, kneecapping an onrushing guard with a single bullet before reopening the garage door to exit the bank and remove the couple’s masks, in turn removing the appearance marker from the top right. Cleverly, Lucia’s personal vehicle — a sleek sports car, yet another sign this isn’t his first heist if he can afford to register that — is sitting just feet away. He changes into a fresh pair of clothes, holsters his weapon, and just like that, becomes completely incognito. Little do the cops who have just rolled up know that the people walking past them are exactly who they’re at the bank for, and he simply walks across the road and out of the red circle on the minimap towards freedom. It’s an incredibly quick, clean in-and-out operation, and the sort of robbery that feels extra satisfying to pull off in GTA 6. It’s the kind of hidden-in-plain-sight thrill that you’d expect from the likes of the Hitman series, but pulled off in a dynamic open world that loves to throw surprises your way. There’s no “correct” method, either. It can be just as fun to barrel",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/bank-blog-1795626263101.jpg",
+   "ts": 1795633011.6707916
+  },
+  "5ae7689400b1": {
+   "url": "https://www.ign.com/articles/this-gta-6-radio-station-represents-its-florida-inspired-setting-perfectly",
+   "source": "IGN",
+   "title": "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
+   "summary": "Southern hip-hop deserves its respect in rap history and GTA 6 celebrates it with its own radio station full of bangers from Outkast, T.I., Trick Daddy, Gucci Mane, and so many more.",
+   "content": "Radio stations have always been a staple of Grand Theft Auto, filled with licensed (and some original) songs alongside crazy-ass talk shows. GTA 6 is unprecedented in this field, with its massive tracklist and over-the-top on-air personalities. But we all have the music genres we gravitate towards when picking out a station, and the one I'm rarely ever changing is Dirty South Classics – basically a playlist of the Southern hip-hop bangers I grew up listening to. It's also a thematic fit for GTA 6's setting of Leonida, an obvious parallel to the state of Florida. While you traditionally wouldn't consider South Florida or the city of Miami part of the American South, the rest of Florida is largely culturally aligned with the region's states like Georgia, Mississippi, and parts of Texas (namely Houston). These are key distinctions to make in the context of music, especially what we consider Southern hip-hop – colloquially known as 'dirty south' hip-hop, hence the station name. Deep bass, rattling hi-hats, catchy melodies with instrumentals that either align with aggressive trap beats or the more soulful funk; characteristics of the genre that you hear throughout Dirty South Classics. Because of its importance as a subgenre, and as a prominent cultural touchstone of the region that GTA 6 is trying to portray, it got its own dedicated station separate from VCRR, which is for more contemporary rap hits. So, admittedly, Dirty South Classics laser-targets uncs who scrapped in the schoolyard in the early/mid 2000s. Hell, the station is hosted by Trick Daddy and Trina, two major figures in the Southern rap game from Miami (with interstitials from Gucci Mane himself). Just in the first few hours of my playthrough of GTA 6, I kept thinking to myself, 'They put this song in the game?!' And they all took me back to a very specific time and place as I rapped along off the top of the brain like I was a youngin' all over again. I'm glad GTA 6 went with Outkast's \"Player's Ball\" instead of the Atlanta-based duo's more well-known hits. It has the quintessential sound of a classic Southern hip-hop track with a bold bassline and funky instrumentals rounded out with Andre 3000's falsetto hook. This particular style can be heard throughout their debut album \"Southernplayalisticadillacmuzik\" (1994) – although Outkast's sound changed in interesting ways afterward and exploded in popularity, it's still my favorite record of theirs. Knuck If You Buck's first four notes activate any 30-something-year-old who had to square up and run the fade at school in a moment's notice. On the other end of the genre spectrum, I can’t believe I'm hearing Dem Franchize Boyz' \"White Tee\" in a game in the year 2026. It was their first song to break containment in 2004 and it's an ode to, well, the universality of the plain white t-shirt – affordable, easy to match in any outfit, and helpful in keeping a low profile, as covered in the song's lyrics. This especially resonated in the era of tall tees in my neighborhood, but I still don't understand the hostility toward throwbacks. Maybe I shouldn't have been listening to them when I was a kid, but Three 6 Mafia's \"Side 2 Side\" was my favorite song from the Memphis-based trio. That dark, melancholic cello melody that runs throughout the track is undeniably catchy and Juicy J's flow on the last verse goes so hard. I'm a little surprised GTA 6 didn't go with the more popular remix featuring Bow Wow, but I am glad because the original version here is damn near perfect. Lastly, I have to shout out \"Knuck If You Buck\" by Crime Mob and Lil Scrappy , the universal fight or flight mode anthem. Its dark, aggressive sound and trunk-knocking bass makes you feel invincible, and those first four notes activate any 30-something-year-old who had to square up and run the fade at school in a moment's notice. I'm scratching the surface of the Dirty South Classics radio station, only four of the 39 songs which include hits from Big Tymers, T.I.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/gta61-1795626092844.jpg",
+   "ts": 1795633013.220249
+  },
+  "dae73712ce8b": {
+   "url": "https://www.polygon.com/gta-6-leak-pc-port-settings-ps5-pro-ultra-medium-graphics-cards-price/",
+   "source": "Polygon",
+   "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+   "summary": "A new leak gives PC players a sense of what to expect from Grand Theft Auto 6 with souped-up settings that aren't possible on PS5 Pro or Xbox",
+   "content": "Much has been said about the differences between Grand Theft Auto 6 on PlayStation 5 and Xbox , but how will Rockstar Games' open-world game fare on PC? An official port has yet to be announced, but a recent leak of the Xbox build of the game has kicked off a race to recompile the game and make it unofficially available on more platforms. As that work continues, yet another leak offers PC players some perspective on what might be possible in GTA 6 when the game isn't held down by console constraints.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason2.JPG",
+   "ts": 1795633202.4534903
+  },
+  "9dc9578e04b2": {
+   "url": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/",
+   "source": "Polygon",
+   "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
+   "summary": "GTA 6 players are running into a game-breaking bug that makes it impossible to progress the story.",
+   "content": "Grand Theft Auto 6 ’s Leonida is full of dangers: murderous wildlife, over-eager cops, unhinged backwoods drug dealers, terrible drivers, and much more. However, all these threats pale in comparison to a particularly deadly foe. GTA 6 has a game-breaking soft lock bug that makes it impossible to progress.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
+   "ts": 1795633204.0432937
   }
  },
- "updated_at": "2026-11-25T18:11:08Z"
+ "updated_at": "2026-11-25T19:04:01Z"
 }
