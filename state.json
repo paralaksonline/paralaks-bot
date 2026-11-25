@@ -255,7 +255,12 @@
   "9ad462295049": 1795636054.2629838,
   "9357c63fd7bb": 1795636054.263083,
   "72a06e4e18f9": 1795636055.8209517,
-  "38dcc8e44b5e": 1795636057.352155
+  "38dcc8e44b5e": 1795636057.352155,
+  "79addfe68996": 1795639132.8063421,
+  "4e08b6a3ec37": 1795639186.0507026,
+  "24aad67d3cbd": 1795639187.5983107,
+  "76c2b0b1a5ed": 1795639187.5983758,
+  "ed24b65e2ed0": 1795639187.5983822
  },
  "sent": [
   {
@@ -1247,6 +1252,24 @@
    "game": "",
    "event": "ubisoft requires devs justify not using generative ai",
    "msg": 602
+  },
+  {
+   "id": "4e08b6a3ec37",
+   "ts": 1795639186.3981793,
+   "source": "Polygon",
+   "title": "Fortnite Cracks Down on Pirate Shop Token Cheaters and Teammates",
+   "game": "Fortnite",
+   "event": "fortnite pirate shop token cheaters crackdown",
+   "msg": 603
+  },
+  {
+   "id": "ed24b65e2ed0",
+   "ts": 1795639187.9417255,
+   "source": "VGC",
+   "title": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement",
+   "game": "The Witcher 4",
+   "event": "the witcher 4 xbox day one launch confirmed",
+   "msg": 604
   }
  ],
  "pending": {
@@ -2203,7 +2226,25 @@
    "content": "Ubisoft reportedly wants all projects to use generative AI… Source",
    "image": "https://www.videogameschronicle.com/files/2026/01/Untitled-1_Gl6tynN.jpg",
    "ts": 1795636057.735705
+  },
+  "4e08b6a3ec37": {
+   "url": "https://www.polygon.com/fortnite-pirate-shop-access-token-cheaters-crack-down/",
+   "source": "Polygon",
+   "title": "Fortnite Cracks Down on Pirate Shop Token Cheaters and Teammates",
+   "summary": "Epic Games is bringing cheaters to justice, as more and more players turn to illegitimate methods to get Fortnite's Pirate Shop Access token.",
+   "content": "With just over a week before Fortnite Treasure Hunters comes to an end, desperation has set in, as players begin to lose hope of finding the Pirate Shop Access token. This is the most coveted item in Fortnite history because it grants up to 28 days of free Item Shop cosmetics.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/one-piece-luffy-and-zoro.jpg",
+   "ts": 1795639186.398183
+  },
+  "ed24b65e2ed0": {
+   "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
+   "source": "VGC",
+   "title": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement",
+   "summary": "CDPR reassures Xbox fans after signing a marketing agreement with Sony",
+   "content": "CDPR reassures Xbox fans after signing a marketing agreement with Sony… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/The-Witcher-4.jpg",
+   "ts": 1795639187.9417295
   }
  },
- "updated_at": "2026-11-25T19:51:33Z"
+ "updated_at": "2026-11-25T20:43:43Z"
 }
