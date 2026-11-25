@@ -163,7 +163,12 @@
   "c95bf39b646f": 1795600111.5289166,
   "9ecd2e4749a5": 1795600113.1336813,
   "b35ae396e7c6": 1795600113.133753,
-  "d28fe934a7d1": 1795600113.1337612
+  "d28fe934a7d1": 1795600113.1337612,
+  "2294bc703c91": 1795603395.1344028,
+  "655fc1b33947": 1795603395.1344028,
+  "2783dbe2f4b3": 1795603400.1837792,
+  "21b92a81ea4b": 1795603401.7916944,
+  "29a0cf603089": 1795603403.4108164
  },
  "sent": [
   {
@@ -750,6 +755,24 @@
    "game": "Surviving Mars",
    "event": "surviving mars relaunched machine utopia dlc announced",
    "msg": 550
+  },
+  {
+   "id": "2783dbe2f4b3",
+   "ts": 1795603400.5915716,
+   "source": "Gematsu",
+   "title": "Romancing SaGa 3: Destinies United details more traveling companions, business minigames, Zwei Tournament, and battle elements",
+   "game": "Romancing SaGa 3: Destinies United",
+   "event": "romancing saga 3 destinies united details shared",
+   "msg": 551
+  },
+  {
+   "id": "21b92a81ea4b",
+   "ts": 1795603402.2107263,
+   "source": "Eurogamer",
+   "title": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
+   "game": "Showa American Story",
+   "event": "showa american story delayed to 2027",
+   "msg": 552
   }
  ],
  "pending": {
@@ -1310,7 +1333,25 @@
    "content": "Publisher Paradox Interactive and developer Haemimont Games have announced colony management game Surviving Mars: Relaunched … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Surviving-Mars-Relaunched_2026_11-25-26_012.jpg",
    "ts": 1795600111.9335887
+  },
+  "2783dbe2f4b3": {
+   "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-details-more-traveling-companions-business-minigames-zwei-tournament-and-battle-elements",
+   "source": "Gematsu",
+   "title": "Romancing SaGa 3: Destinies United details more traveling companions, business minigames, Zwei Tournament, and battle elements",
+   "summary": "Square Enix has released new information and screenshots for Romancing SaGa 3: Destinies United introducing …",
+   "content": "Square Enix has released new information and screenshots for Romancing SaGa 3: Destinies United introducing … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Rom-Saga-3-Destinies-United_2026_11-25-26_010.jpg",
+   "ts": 1795603400.5915751
+  },
+  "21b92a81ea4b": {
+   "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
+   "source": "Eurogamer",
+   "title": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
+   "summary": "Publisher 4Divinity and developer Nekcom Entertainment have announced that upcoming action-RPG Showa American Story will now launch on 28th October, 2027. This comes after various sites noticed a Steam page update that listed the game as launching in 2027, slipping from the previous, vague window that suggested the game would come out this year. The announcement was made on the developer's Twitter account. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/Showa-American-Story-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795603402.2107313
   }
  },
- "updated_at": "2026-11-25T09:52:28Z"
+ "updated_at": "2026-11-25T10:47:18Z"
 }
