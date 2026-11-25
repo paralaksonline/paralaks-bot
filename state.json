@@ -185,7 +185,13 @@
   "48e9f2543a55": 1795611010.686905,
   "b0f13a4b9bd7": 1795611012.3348258,
   "b502d1d06633": 1795611013.9229608,
-  "133504296f85": 1795611024.615177
+  "133504296f85": 1795611024.615177,
+  "5389e62879db": 1795615488.5221567,
+  "edec9b59fe82": 1795615490.2426345,
+  "01338dd43384": 1795615492.022995,
+  "ebbb3e8a71d2": 1795615492.0230575,
+  "260c73494527": 1795615493.7542481,
+  "8155848f5f27": 1795615495.484552
  },
  "sent": [
   {
@@ -898,6 +904,51 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 enterable buildings discovered by players",
    "msg": 564
+  },
+  {
+   "id": "5389e62879db",
+   "ts": 1795615489.042541,
+   "source": "IGN",
+   "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+   "game": "Grand Theft Auto VI",
+   "event": "manny perez buys ps5 for gta 6",
+   "msg": 565
+  },
+  {
+   "id": "edec9b59fe82",
+   "ts": 1795615490.8228755,
+   "source": "IGN",
+   "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+   "game": "Grand Theft Auto VI",
+   "event": "take two removing unofficial gta 6 pc ports",
+   "msg": 566
+  },
+  {
+   "id": "ebbb3e8a71d2",
+   "ts": 1795615492.554149,
+   "source": "VGC",
+   "title": "21-year Call of Duty veteran says he ‘can no longer recommend a career in game development’",
+   "game": "",
+   "event": "call of duty veteran discourages game development career",
+   "msg": 567
+  },
+  {
+   "id": "260c73494527",
+   "ts": 1795615494.2844377,
+   "source": "Eurogamer",
+   "title": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+   "game": "Diablo IV",
+   "event": "diablo 4 season of tyraels gambit announced",
+   "msg": 568
+  },
+  {
+   "id": "8155848f5f27",
+   "ts": 1795615496.0163608,
+   "source": "Gematsu",
+   "title": "Digimon Alysion now available",
+   "game": "Digimon Alysion",
+   "event": "digimon alysion now available on mobile",
+   "msg": 569
   }
  ],
  "pending": {
@@ -1584,7 +1635,52 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795611024.9982545
+  },
+  "5389e62879db": {
+   "url": "https://www.ign.com/articles/raul-bautista-actor-manny-perez-playing-gta-6",
+   "source": "IGN",
+   "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+   "summary": "The actor behind one of the best GTA characters of all time has started working his way through GTA 6. Manny Perez, who plays Raul Bautista, bought a PS5 just so he could play.",
+   "content": "The actor behind one of the best GTA characters of all time has started working his way through GTA 6 . Manny Perez, who plays Raul Bautista, bought a PS5 just so he could play. “Guy, I’m playing and this s**t is crazy!” he said in a video posted to social media . “Look how real that looks. I’m learning, I’m loving this, it’s crazy.” According to Perez, the biggest issue as a non-gamer has been getting used to the DualSense controller, which he called “the stick,” but he’s “getting there.” The actor sent a follow-up tweet after a fan shared the video. “Will take a while but I will finish this game,” he said. “Thank you all for the support. I’m loving the comments and appreciations.” Warning! Spoilers for GTA 6 follow. Raul Batista is a big character in GTA 6 from Chapter 3 onwards, and one of the highlights of the game in terms of performance. Batista steals the show in some really cool scenes, which I won’t spoil, but I can see him becoming a fan favorite as people work their way through the story. Perez has also been touring Miami and recreating iconic scenes from GTA 6, including his in-car introduction from the Extended Look. Here’s a post showing some of the photos: It’s kind of killing me how Raul Bautista’s actor (Manny Perez) is already out here touring Miami and recreating scenes from the game LMAO I love this guy, GOAT @MannyPerez1 https://t.co/KyMhGco8su — GameRoll (@GameRoll_) November 23, 2026 Perez isn't the only GTA 6 actor who's started to talk about their work on the game and fan reaction to their character. For example, Lexie Shoaibi has spoken out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online. And Issa Lopez, who plays a radio host on GTA 6’s fictional Cocoteo FM radio station, described the wild non-disclosure agreement she had to sign before working on the game , calling the project “crazy secretive.” Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks, or get all the details on the first chapters with the Chapter 1 Guide and Tips, Chapter 2 Guide and Tips, and Chapter 3 Guide and Tips. If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/gta6-raul-1795606407135.jfif",
+   "ts": 1795615489.042545
+  },
+  "edec9b59fe82": {
+   "url": "https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
+   "source": "IGN",
+   "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+   "summary": "Take-Two appears to be taking on the many GTA 6 PC ports currently in the works following Cyberleek’s alleged release of an unauthorized Xbox build of the game.",
+   "content": "Take-Two appears to be taking on the many GTA 6 PC ports currently in the works following Cyberleek’s alleged release of an unauthorized Xbox build of the game. This week, Cyberleek allegedly released the executable file for the incomplete GTA 6 Xbox build they reportedly leaked the week prior, sparking a race within the homebrew scene to port the build to PC. There’s even a website tracking the various attempts to recompile, emulate, or port the leaked Xbox Series build to PC. But it looks like Take-Two is taking action, reportedly convincing GitHub to delete an entire network of 3,007 repositories via a DMCA takedown notice. The takedown we know about relates to ItsNotRexed's GitHub repository and the over 2,900 forks attached to it, which Take-Two said facilitated copyright infringement of GTA 6. Take-Two alleged that the repository Project Leonida repository \"exceeds the license Rockstar Games grants to users, constituting copyright infringement.” Here, Take-Two claimed that the repository violated at least Section 2.3 of Rockstar Games’ terms of service: \"The limited license granted in this Agreement does not give you any right to, and you may not, sell, copy, loan, lease, distribute, disassemble, decompile, decrypt, hack, derive source code from, reverse engineer, modify, create derivative works, commercialize, or otherwise exploit the Services (including the Content), Virtual Items, or your Account unless subject to separate, express written terms provided by Rockstar permitting such conduct.” Additionally, there’s an interesting note in the takedown order that addresses the “bring your own files” defence we’ve seen so often from the homebrew community when it comes to unofficial ports of video games. As you’d expect, Take-Two isn’t in favor of it, insisting that in this case, the files the user must provide come from the unauthorized GTA 6 Xbox build Cyberleek leaked online. IGN has asked Take-Two for comment. According to now deleted social media posts, NotRexed, author of the Leonida project, shut it down entirely. There are also screenshots of its Discord showing users posting disclaimers distancing themselves from Project Leonida in case of a federal investigation. However, many similar projects remain active, risking similar action from Take-Two. Seemingly undeterred, these projects are ongoing, with some getting close to creating a PC port of GTA 6 that is somewhat playable. Some are even streaming their efforts, showing how they are vibecoding a port using agent prompts such as \"make no mistakes,\" \"keep finding more stuff and working and pushing,\" and \"work faster.\" This is of course a nightmare scenario for Take-Two and Sony and Microsoft, which are benefiting greatly from GTA 6 releasing on console only. The console version of GTA 6 targets 30fps across all platforms, although struggles at times to hit that on base PS5, and Xbox Series X and S. As a result, there is huge interest in a potential PC version offering 60fps gameplay. As you've probably seen from various viral clips on social media, people are using AI to create clones of popular games and release them on platforms they're not normally available on. We've seen everything from Minecraft playable inside X/Twitter to modders crashing Minecraft and Elden Ring together . Indeed, last month, Rockstar's own Grand Theft Auto 5 was made playable in a browser before it was pulled offline. Seemingly in response, Anthropic issued an update for Claude that made it harder for people to use the AI model to generate video game clones. In an interview with IGN sister site RPS , former Rockstar North technical director Obbe Vermeij said that Rockstar Games may be keen to port GTA 6 to PC as soon as possible , due to the explosion of AI-generated clones and ports. Some of this concern has to do with the security of the PS5, with Sony seemingly engaged in a game of Whac-a-Mole with hackers who are trying to jailbreak the latest firmware. If a PS5 jailbreak is made ava",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-10-1795610461067.jpg",
+   "ts": 1795615490.8228815
+  },
+  "ebbb3e8a71d2": {
+   "url": "https://www.videogameschronicle.com/news/21-year-call-of-duty-veteran-says-he-can-no-longer-recommend-a-career-in-game-development/",
+   "source": "VGC",
+   "title": "21-year Call of Duty veteran says he ‘can no longer recommend a career in game development’",
+   "summary": "Gavin Goslin worked on 13 COD games but says the industry no longer offers job stability",
+   "content": "Gavin Goslin worked on 13 COD games but says the industry no longer offers job stability… Source",
+   "image": "https://www.videogameschronicle.com/files/2024/06/call-of-duty-black-ops-6-1.jpg",
+   "ts": 1795615492.5541523
+  },
+  "260c73494527": {
+   "url": "https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary",
+   "source": "Eurogamer",
+   "title": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+   "summary": "Blizzard has officially unveiled Diablo 4 's next live-service season: Season of Tyrael's Gambit. This is the ARPG's 16th season, and it follows on from the popular and well-received Season of Hell's Legacy. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/diablo-4-season-of-hells-legacy-keyart-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795615494.284441
+  },
+  "8155848f5f27": {
+   "url": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
+   "source": "Gematsu",
+   "title": "Digimon Alysion now available",
+   "summary": "Digimon Alysion, the free-to-play mobile game based on Digimon Card Game, is now available for …",
+   "content": "Digimon Alysion, the free-to-play mobile game based on Digimon Card Game, is now available for … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Digimon-Alysion-Launch_11-25-26_001.jpg",
+   "ts": 1795615496.0163643
   }
  },
- "updated_at": "2026-11-25T12:54:20Z"
+ "updated_at": "2026-11-25T14:08:52Z"
 }
