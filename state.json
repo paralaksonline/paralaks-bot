@@ -1,5 +1,5 @@
 {
- "telegram_offset": 990434141,
+ "telegram_offset": 990434143,
  "seen": {
   "4d088d3cc7ff": 1795460673.37676,
   "52aa77fab725": 1795460673.37676,
@@ -222,7 +222,16 @@
   "c96610ad17de": 1795627250.1122096,
   "d8ab2a89ade5": 1795627251.872606,
   "b5389f152851": 1795627253.6295993,
-  "f39b656a9e8a": 1795627253.6297047
+  "f39b656a9e8a": 1795627253.6297047,
+  "4258c2b88505": 1795629854.1222334,
+  "280b1cae1a04": 1795629854.1222334,
+  "77614b941fb2": 1795629854.1222334,
+  "7c33824291f7": 1795629854.1222334,
+  "1436dac23d1a": 1795629854.1222334,
+  "918ac71840b3": 1795630030.5539563,
+  "150b05720600": 1795630032.2364101,
+  "e3c35c86dd80": 1795630033.7739992,
+  "d582e3d13236": 1795630033.7740989
  },
  "sent": [
   {
@@ -1070,6 +1079,24 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 aunties place location in laperle guide",
    "msg": 579
+  },
+  {
+   "id": "918ac71840b3",
+   "ts": 1795630031.0362666,
+   "source": "VGC",
+   "title": "GTA 6 Hidden Charges: Ask for Help or Go Solo?",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 help or go solo guide",
+   "msg": 580
+  },
+  {
+   "id": "150b05720600",
+   "ts": 1795630032.5738866,
+   "source": "Polygon",
+   "title": "GTA 6 Fans Are Hissing Mad About Dolores the Snake",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 fans angry about dolores the snake",
+   "msg": 581
   }
  ],
  "pending": {
@@ -1891,7 +1918,25 @@
    "content": "How to find Auntie's Place in LaPerle and get the rewards from Vanessa's laptop in Grand Theft Auto 6… Source",
    "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Aunties-Place-location-in-LaPerle-2.jpg",
    "ts": 1795627252.4294844
+  },
+  "918ac71840b3": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-hidden-charges-ask-for-help-or-go-solo/",
+   "source": "VGC",
+   "title": "GTA 6 Hidden Charges: Ask for Help or Go Solo?",
+   "summary": "Should you ask for help or go solo?",
+   "content": "Should you ask for help or go solo? Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-hidden-charges-ask-for-help-3.jpg",
+   "ts": 1795630031.0362701
+  },
+  "150b05720600": {
+   "url": "https://www.polygon.com/gta-6-dolores-snake/",
+   "source": "Polygon",
+   "title": "GTA 6 Fans Are Hissing Mad About Dolores the Snake",
+   "summary": "A Reddit post highlighting the inaccuracies of the reptile habitat in GTA 6 has captured the attention of gamers and normies alike",
+   "content": "After more than a decade of waiting, Grand Theft Auto 6 is finally here. Perhaps most surprising of all, it's actually living up to the world's sky-high expectations, and players everywhere are sharing their delight and awe at the game's immaculate attention to detail on social media. But there's one group of players who aren't so thrilled about the level of realism in GTA 6 : snake owners.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-dolores.jpg",
+   "ts": 1795630032.573891
   }
  },
- "updated_at": "2026-11-25T17:24:49Z"
+ "updated_at": "2026-11-25T18:11:08Z"
 }
