@@ -246,7 +246,16 @@
   "3cd931151944": 1795633014.4204245,
   "dae73712ce8b": 1795633202.058539,
   "9dc9578e04b2": 1795633203.6535969,
-  "024314311b4c": 1795633205.2433872
+  "024314311b4c": 1795633205.2433872,
+  "534c1d20e529": 1795635998.0368416,
+  "f4a11fe42ac8": 1795636051.1483984,
+  "daeae6e5eb8c": 1795636052.7221544,
+  "9748ee3e69dd": 1795636052.7222202,
+  "309f1af7545c": 1795636052.7222278,
+  "9ad462295049": 1795636054.2629838,
+  "9357c63fd7bb": 1795636054.263083,
+  "72a06e4e18f9": 1795636055.8209517,
+  "38dcc8e44b5e": 1795636057.352155
  },
  "sent": [
   {
@@ -1193,6 +1202,51 @@
    "game": "Grand Theft Auto 6",
    "event": "gta 6 silent hill easter egg location",
    "msg": 591
+  },
+  {
+   "id": "f4a11fe42ac8",
+   "ts": 1795636051.522041,
+   "source": "IGN",
+   "title": "One of GTA 6's Best Features Was Actually Planned for GTA: Vice City, Reveals Ex-Rockstar Dev",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 headphones mechanic planned vice city",
+   "msg": 598
+  },
+  {
+   "id": "309f1af7545c",
+   "ts": 1795636053.0628538,
+   "source": "Eurogamer",
+   "title": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
+   "game": "",
+   "event": "hideki kamiya wants to make castlevania game",
+   "msg": 599
+  },
+  {
+   "id": "9357c63fd7bb",
+   "ts": 1795636054.6208267,
+   "source": "Gematsu",
+   "title": "Incremental mining and blacksmithing game Mello & Omega announced for PC",
+   "game": "Mello & Omega",
+   "event": "mello and omega announced for pc",
+   "msg": 600
+  },
+  {
+   "id": "72a06e4e18f9",
+   "ts": 1795636056.1520402,
+   "source": "Polygon",
+   "title": "All Key Lento standout vehicles in GTA 6",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 key lento vehicles guide",
+   "msg": 601
+  },
+  {
+   "id": "38dcc8e44b5e",
+   "ts": 1795636057.735698,
+   "source": "VGC",
+   "title": "Ubisoft is reportedly requiring developers to justify not using generative AI",
+   "game": "",
+   "event": "ubisoft requires devs justify not using generative ai",
+   "msg": 602
   }
  ],
  "pending": {
@@ -2104,7 +2158,52 @@
    "content": "Grand Theft Auto 6 ’s Leonida is full of dangers: murderous wildlife, over-eager cops, unhinged backwoods drug dealers, terrible drivers, and much more. However, all these threats pale in comparison to a particularly deadly foe. GTA 6 has a game-breaking soft lock bug that makes it impossible to progress.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
    "ts": 1795633204.0432937
+  },
+  "f4a11fe42ac8": {
+   "url": "https://www.ign.com/articles/one-of-gta-6s-best-features-was-actually-planned-for-gta-vice-city-reveals-ex-rockstar-dev",
+   "source": "IGN",
+   "title": "One of GTA 6's Best Features Was Actually Planned for GTA: Vice City, Reveals Ex-Rockstar Dev",
+   "summary": "GTA 6's headphones mechanic was originally planned to be included in the original GTA: Vice City, according to a former Rockstar Games employee.",
+   "content": "GTA 6's headphones mechanic was originally planned to be included in the original GTA: Vice City, according to a former Rockstar Games employee. Ex-Rockstar Games dev Obbe Vermeji revealed that the headphones feature was cut from GTA: Vice City due to a technical reason, and they had even created an icon for it. It's unclear what the technical reason was, but Vice City's version likely would've come in the form of a Walkman or cassette player, given it was set in the 80s. GTA 6's version, however, comes with a smartphone and a pair of AirPods. The feature is pretty incredible, because you can listen to music and podcasts wherever you go. You no longer have to sit in the car to finish a song; you can just get out, put your headphones in, and turn on the radio station you were just listening to. And when combined with combat encounters, it can have some thrilling results. Last night, In the Air Tonight came on as I approached a gang hideout, creating an incredibly cinematic moment for me. This is the best game ever made dude https://t.co/AFR2jmo0fF — Cade Onder (@Cade_Onder) November 25, 2026 It doesn't always have to lead to some epic moment, though. It's great for working out in-game, learning about the world and lore of GTA via podcasts and talk shows, and much more. A lot of effort has been packed into creating GTA 6's in-game media, and the headphones allow you to make full use of it. The only downside is that you can't make any kind of custom playlists. Presumably, this is because Rockstar wants players to organically discover music from the radio stations instead of curating the songs they already know and love. The option would be nice, but personally, there are so many great songs I may have never heard if GTA's radio stations didn't expose me to them. Maybe a future update or the inevitable online mode will include a playlist option, but it could be a while before we see such a thing. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/gta-6-lucia-airpods-1795627820907.jpg",
+   "ts": 1795636051.5220442
+  },
+  "309f1af7545c": {
+   "url": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+   "source": "Eurogamer",
+   "title": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
+   "summary": "Action game maestro Hideki Kamiya really wants to make a new Castlevania game with publisher Konami. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/0608_01.png?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795636053.0628579
+  },
+  "9357c63fd7bb": {
+   "url": "https://www.gematsu.com/2026/11/incremental-mining-and-blacksmithing-game-mello-omega-announced-for-pc",
+   "source": "Gematsu",
+   "title": "Incremental mining and blacksmithing game Mello & Omega announced for PC",
+   "summary": "Banchou Tactics and Neko Odyssey developer Secret Character has announced Mello & Omega, an incremental …",
+   "content": "Banchou Tactics and Neko Odyssey developer Secret Character has announced Mello & Omega, an incremental … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Mello-Omega-Ann_11-25-26.jpg",
+   "ts": 1795636054.62083
+  },
+  "72a06e4e18f9": {
+   "url": "https://www.polygon.com/gta-6-standout-vehicles-key-lento-locations-list-grand-theft-auto/",
+   "source": "Polygon",
+   "title": "All Key Lento standout vehicles in GTA 6",
+   "summary": "Standout vehicles are one of the many collectibles in GTA 6. Here's where to find every one in Key Lento.",
+   "content": "There are 12 standout vehicles in Key Lento in Grand Theft Auto 6 , ranging from an incredibly festive boat to a pizza delivery car, and finding them all is essential if you want to 100% complete the game. GTA 6 has 280 standout vehicles to find in total, and some of them are very tough to find, so we're here to help.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-standout-vehicles-key-lento-header.jpg",
+   "ts": 1795636056.1520433
+  },
+  "38dcc8e44b5e": {
+   "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+   "source": "VGC",
+   "title": "Ubisoft is reportedly requiring developers to justify not using generative AI",
+   "summary": "Ubisoft reportedly wants all projects to use generative AI",
+   "content": "Ubisoft reportedly wants all projects to use generative AI… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/01/Untitled-1_Gl6tynN.jpg",
+   "ts": 1795636057.735705
   }
  },
- "updated_at": "2026-11-25T19:04:01Z"
+ "updated_at": "2026-11-25T19:51:33Z"
 }
