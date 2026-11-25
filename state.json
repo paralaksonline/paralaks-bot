@@ -157,7 +157,13 @@
   "59883a57b623": 1795578482.0439265,
   "4f19ee4648c8": 1795578483.8011594,
   "36c81436ed1b": 1795585852.655555,
-  "b396533c7816": 1795595466.9113114
+  "b396533c7816": 1795595466.9113114,
+  "5fa867c7b57b": 1795600101.7598302,
+  "b16832fa0e28": 1795600101.7598302,
+  "c95bf39b646f": 1795600111.5289166,
+  "9ecd2e4749a5": 1795600113.1336813,
+  "b35ae396e7c6": 1795600113.133753,
+  "d28fe934a7d1": 1795600113.1337612
  },
  "sent": [
   {
@@ -735,6 +741,15 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 content cut australia new zealand",
    "msg": 549
+  },
+  {
+   "id": "c95bf39b646f",
+   "ts": 1795600111.9335856,
+   "source": "Gematsu",
+   "title": "Surviving Mars: Relaunched DLC ‘Machine Utopia’ announced",
+   "game": "Surviving Mars",
+   "event": "surviving mars relaunched machine utopia dlc announced",
+   "msg": 550
   }
  ],
  "pending": {
@@ -1286,7 +1301,16 @@
    "content": "The Australian version of Grand Theft Auto 6 does differ from the international version in one small way; players down under are not able to use cocaine from their personal inventory to briefly overpower their stamina bar. NZ reportedly has the same version. In GTA 6, baggies of cocaine can be collected (or skimmed from full bricks) and show up as a consumable on the item wheel in the same section as cigarettes, cigars, and joints. Using one triggers a buff that puts stamina in an overpowered state, albeit only for about 30 seconds. This function was never included in the Australian-specific version of the game, as it would have prevented GTA 6 from being classified in the country until it was removed. Australia’s classification laws allow illicit drug use in games, but using them can’t provide the player with gameplay benefits. Overpowering your stamina (and everything else) is still possible via the use of adrenaline in the Australian version of GTA 6, and it’s also still possible to drink and smoke whenever you want. The general use of cocaine in story moments also still remains in the Australian version of GTA 6, because these instances aren’t associated with any in-game buffs. While the caveat that forbids rewards for illicit drug use is bespoke to Australia – and doesn’t apply to NZ – NZ’s rating system (which does piggyback on some Australian and UK classification decisions for unrestricted content ) has its own idiosyncrasies. These recently caught out IllFonic’s recent Halloween multiplayer game , which was refused classification in Australia for illicit drug use linked to an incentive or reward (that is, that use of the drug provides a gameplay advantage to the player). Halloween since made its way to NZ, but not Australia. Since this is not Rockstar’s first rodeo, it knew exactly the tweak GTA 6 would require to skirt this continuing quirk in Australian video game ratings and avoid multiple submissions. GTA 6 arrived late last week, crushing records and becoming the biggest entertainment launch of all time, with retail sales soaring to $3.79 billion in its first 24 hours. In my review for IGN I called it “the single most impressive video game I have ever played,” a sentiment shared by developers similarly stunned by how radically advanced it is. Just getting started in GTA 6, or wondering what to do next? You can get stuck into the Official Grand Theft Auto 6 guide right here on IGN, consult our Beginner's Guide or Leonida interactive map , or get an idea of all the incredible flourishes to keep an eye out for by checking out our look at 99 incredible details you can find in GTA 6.",
    "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg",
    "ts": 1795595467.3242247
+  },
+  "c95bf39b646f": {
+   "url": "https://www.gematsu.com/2026/11/surviving-mars-relaunched-dlc-machine-utopia-announced",
+   "source": "Gematsu",
+   "title": "Surviving Mars: Relaunched DLC ‘Machine Utopia’ announced",
+   "summary": "Publisher Paradox Interactive and developer Haemimont Games have announced colony management game Surviving Mars: Relaunched …",
+   "content": "Publisher Paradox Interactive and developer Haemimont Games have announced colony management game Surviving Mars: Relaunched … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Surviving-Mars-Relaunched_2026_11-25-26_012.jpg",
+   "ts": 1795600111.9335887
   }
  },
- "updated_at": "2026-11-25T08:35:03Z"
+ "updated_at": "2026-11-25T09:52:28Z"
 }
