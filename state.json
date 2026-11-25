@@ -197,7 +197,32 @@
   "3d92eafd15a7": 1795619379.317658,
   "9dfa807aad9e": 1795623434.1964204,
   "33203c4b5c53": 1795623434.1964204,
-  "911aa72150c5": 1795623434.1964204
+  "911aa72150c5": 1795623434.1964204,
+  "3328ddce5638": 1795627152.2248626,
+  "a8341b8a9e44": 1795627152.2248626,
+  "f2fa439af157": 1795627152.2248626,
+  "36ab593dbdf2": 1795627152.2248626,
+  "85e360da842c": 1795627152.2248626,
+  "20a4de60ed42": 1795627152.2248626,
+  "8086432a1848": 1795627152.2248626,
+  "e01f58d34a25": 1795627152.2248626,
+  "bac6471c40ae": 1795627152.2248626,
+  "60cd00f82df5": 1795627152.2248626,
+  "6db14869c8ca": 1795627152.2248626,
+  "f101a51c7d63": 1795627152.2248626,
+  "775d0bb583c8": 1795627152.2248626,
+  "dc20cc8752af": 1795627193.099421,
+  "be3b34439080": 1795627193.0994523,
+  "bf71d5f0a5e9": 1795627194.8680546,
+  "97494126191d": 1795627196.6663017,
+  "d01b996e8cfc": 1795627198.449761,
+  "1320dfda07bf": 1795627198.4498336,
+  "bfb32062e95b": 1795627200.2127,
+  "2216e6e40ba7": 1795627201.953893,
+  "c96610ad17de": 1795627250.1122096,
+  "d8ab2a89ade5": 1795627251.872606,
+  "b5389f152851": 1795627253.6295993,
+  "f39b656a9e8a": 1795627253.6297047
  },
  "sent": [
   {
@@ -973,6 +998,78 @@
    "game": "Grand Theft Auto 6",
    "event": "gta 6 paul walker fast furious car easter egg",
    "msg": 571
+  },
+  {
+   "id": "be3b34439080",
+   "ts": 1795627193.667798,
+   "source": "Gematsu",
+   "title": "PlayStation Plus Monthly Games lineup for December 2026 announced",
+   "game": "",
+   "event": "playstation plus monthly games december 2026 announced",
+   "msg": 572
+  },
+  {
+   "id": "bf71d5f0a5e9",
+   "ts": 1795627195.466167,
+   "source": "Polygon",
+   "title": "Mario Kart World Officially Adds New Courses, Fan Requested Features",
+   "game": "Mario Kart World",
+   "event": "mario kart world adds new courses and features",
+   "msg": 573
+  },
+  {
+   "id": "97494126191d",
+   "ts": 1795627197.2495854,
+   "source": "Eurogamer",
+   "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 empathy mechanic and criminal profile details",
+   "msg": 574
+  },
+  {
+   "id": "1320dfda07bf",
+   "ts": 1795627199.0125947,
+   "source": "Polygon",
+   "title": "GTA 6 Owes Everything to The Legend of Zelda: Ocarina of Time",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 comparison to zelda ocarina of time",
+   "msg": 575
+  },
+  {
+   "id": "bfb32062e95b",
+   "ts": 1795627200.7537699,
+   "source": "Polygon",
+   "title": "Hollow Knight: Silksong Dev Officially Breaks Silence on Sea Of Sorrow DLC With New Showcase",
+   "game": "Hollow Knight: Silksong",
+   "event": "hollow knight silksong sea of sorrow dlc showcase",
+   "msg": 576
+  },
+  {
+   "id": "2216e6e40ba7",
+   "ts": 1795627202.5382733,
+   "source": "Gematsu",
+   "title": "Rayman Legends Retold ‘Story’ trailer",
+   "game": "Rayman Legends Retold",
+   "event": "rayman legends retold story trailer released",
+   "msg": 577
+  },
+  {
+   "id": "c96610ad17de",
+   "ts": 1795627250.6724885,
+   "source": "VGC",
+   "title": "Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition",
+   "game": "Yooka-Laylee and the Impossible Lair",
+   "event": "yooka laylee and the impossible lair switch 2 definitive edition announced",
+   "msg": 578
+  },
+  {
+   "id": "d8ab2a89ade5",
+   "ts": 1795627252.42948,
+   "source": "VGC",
+   "title": "GTA 6: Auntie’s Place location in LaPerle",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 aunties place location in laperle guide",
+   "msg": 579
   }
  ],
  "pending": {
@@ -1722,7 +1819,79 @@
    "content": "How to find a reference to Paul Walker's iconic Fast & Furious vehicle in Grand Theft Auto 6… Source",
    "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Find-and-steal-Paul-Walkers-car-a-Fast-Furious-reference-4.jpg",
    "ts": 1795619379.643467
+  },
+  "be3b34439080": {
+   "url": "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced",
+   "source": "Gematsu",
+   "title": "PlayStation Plus Monthly Games lineup for December 2026 announced",
+   "summary": "Sony Interactive Entertainment has announced the December 2026 Monthly Games lineup for PlayStation Plus Essential …",
+   "content": "Sony Interactive Entertainment has announced the December 2026 Monthly Games lineup for PlayStation Plus Essential … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/PS-Plus_11-25-26.jpg",
+   "ts": 1795627193.6678023
+  },
+  "bf71d5f0a5e9": {
+   "url": "https://www.polygon.com/mario-kart-world-1-9-0-update-new-courses-new-features/",
+   "source": "Polygon",
+   "title": "Mario Kart World Officially Adds New Courses, Fan Requested Features",
+   "summary": "Mario Kart World just got a free update with new courses and more.",
+   "content": "To no one’s surprise, Mario Kart World remains the best-selling game on the Nintendo Switch 2, with an impressive 16.48 million copies sold. When you consider that there are only around 26.35 million Switch 2 owners total, that means almost 63 percent of Switch 2 players have a copy of Mario’s latest kart racer. It's a somewhat staggering figure, given that the game costs $79.99 .",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mario-kart-world-bob-omb-blast-mode.jpg",
+   "ts": 1795627195.4661717
+  },
+  "97494126191d": {
+   "url": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+   "source": "Eurogamer",
+   "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+   "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/GTA-6-review-14.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795627197.2495902
+  },
+  "1320dfda07bf": {
+   "url": "https://www.polygon.com/gta-6-zelda-ocarina-of-time-3d-games-legacy/",
+   "source": "Polygon",
+   "title": "GTA 6 Owes Everything to The Legend of Zelda: Ocarina of Time",
+   "summary": "The one-two punch of The Legend of Zelda: Ocarina of Time and Grand Theft Auto 6 made November a special month.",
+   "content": "There’s a lot that a Metacritic score can’t tell you. Look up the original The Legend of Zelda: Ocarina of Time on the review aggregate site and you’ll find that it has a 99 . Impressive! What that number doesn’t capture, though, is how significant the reaction to Ocarina of Time felt in 1998. The critical awe was nothing short of unprecedented at that point in video game history — I remember some publications even going as far as to award it an 11/10. The atmosphere around what was being hailed as a revolutionary game made you feel like you were experiencing history. Looking back at that moment from 2026, it’s astounding that Ocarina of Time ’s legacy actually lived up to that hype long-term.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_11-1.jpg",
+   "ts": 1795627199.0125995
+  },
+  "bfb32062e95b": {
+   "url": "https://www.polygon.com/hollow-knight-silksong-sea-of-sorrow-team-cherry-time/",
+   "source": "Polygon",
+   "title": "Hollow Knight: Silksong Dev Officially Breaks Silence on Sea Of Sorrow DLC With New Showcase",
+   "summary": "Team Cherry will reveal new details on Hollow Knight Silksong's DLC, Sea of Sorrow, during a special showcase called Cherry Time on Friday, Nov. 27.",
+   "content": "Hollow Knight fans are in for a sweet Black Friday. Developer Team Cherry announced Wednesday that it's planning a \"special presentation with a bunch of exciting announcements\" for Friday titled Cherry Time, which promises a long-awaited update on Hollow Knight: Silksong - Sea of Sorrow , the upcoming expansion to Silksong .",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hollow-knight-silksong-enter-putrified-ducts-0.jpg",
+   "ts": 1795627200.7537742
+  },
+  "2216e6e40ba7": {
+   "url": "https://www.gematsu.com/2026/11/rayman-legends-retold-story-trailer",
+   "source": "Gematsu",
+   "title": "Rayman Legends Retold ‘Story’ trailer",
+   "summary": "Publisher Ubisoft and developers Ubisoft Montpellier and Ubisoft Milan have released the story trailer for …",
+   "content": "Publisher Ubisoft and developers Ubisoft Montpellier and Ubisoft Milan have released the story trailer for … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Rayman-Legends-Retold-Story-PV_11-25-26.jpg",
+   "ts": 1795627202.5382771
+  },
+  "c96610ad17de": {
+   "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
+   "source": "VGC",
+   "title": "Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition",
+   "summary": "Yooka-Laylee and the Impossible Lair will boast better visuals and 120FPS on Switch 2",
+   "content": "Yooka-Laylee and the Impossible Lair will boast better visuals and 120FPS on Switch 2… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/Yooka-Laylee-and-the-Impossible-Lair.jpg",
+   "ts": 1795627250.672493
+  },
+  "d8ab2a89ade5": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-aunties-place-location-laperle/",
+   "source": "VGC",
+   "title": "GTA 6: Auntie’s Place location in LaPerle",
+   "summary": "How to find Auntie's Place in LaPerle and get the rewards from Vanessa's laptop in Grand Theft Auto 6",
+   "content": "How to find Auntie's Place in LaPerle and get the rewards from Vanessa's laptop in Grand Theft Auto 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Aunties-Place-location-in-LaPerle-2.jpg",
+   "ts": 1795627252.4294844
   }
  },
- "updated_at": "2026-11-25T16:25:10Z"
+ "updated_at": "2026-11-25T17:24:49Z"
 }
