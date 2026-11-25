@@ -174,7 +174,18 @@
   "7203a3334f4d": 1795606938.420796,
   "bc7e95c6a5c4": 1795606940.044961,
   "4c5d0b3054c5": 1795606940.0450304,
-  "aa3a24fbbc29": 1795606941.660793
+  "aa3a24fbbc29": 1795606941.660793,
+  "9f17bc38c2b1": 1795610994.4212127,
+  "af26ee4eb7e4": 1795610994.4212127,
+  "d2dff54046d1": 1795611004.2204716,
+  "79645bf4d7f1": 1795611004.2205043,
+  "dd2f4ba36ed9": 1795611005.8772898,
+  "a499e3a5b052": 1795611007.4428747,
+  "4795e59371f5": 1795611009.05178,
+  "48e9f2543a55": 1795611010.686905,
+  "b0f13a4b9bd7": 1795611012.3348258,
+  "b502d1d06633": 1795611013.9229608,
+  "133504296f85": 1795611024.615177
  },
  "sent": [
   {
@@ -815,6 +826,78 @@
    "game": "Rust",
    "event": "rust announces paid premium subscription service feature",
    "msg": 556
+  },
+  {
+   "id": "79645bf4d7f1",
+   "ts": 1795611004.6771674,
+   "source": "Gematsu",
+   "title": "Console Archives Mezase!! SENKYU-OH launches November 26",
+   "game": "Mezase!! SENKYU-OH",
+   "event": "mezase senkyu oh console archives release date",
+   "msg": 557
+  },
+  {
+   "id": "dd2f4ba36ed9",
+   "ts": 1795611006.2427561,
+   "source": "VGC",
+   "title": "GTA 6: All Criminal Profiles explained",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 criminal profiles guide",
+   "msg": 558
+  },
+  {
+   "id": "a499e3a5b052",
+   "ts": 1795611007.8516736,
+   "source": "VGC",
+   "title": "EA Sports FC 27 is adding an AI-generated John Motson to its commentary team, three years after his death",
+   "game": "EA Sports FC 27",
+   "event": "ea sports fc 27 adds ai john motson commentary",
+   "msg": 559
+  },
+  {
+   "id": "4795e59371f5",
+   "ts": 1795611009.486813,
+   "source": "Gematsu",
+   "title": "Melty Blood: Twi-Lumina main trailer; playable character Satsuki Yumizuka, cross-play, and more revealed",
+   "game": "Melty Blood: Twi-Lumina",
+   "event": "melty blood twi lumina trailer satsuki yumizuka crossplay",
+   "msg": 560
+  },
+  {
+   "id": "48e9f2543a55",
+   "ts": 1795611011.134694,
+   "source": "Eurogamer",
+   "title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
+   "game": "The Witcher 4",
+   "event": "cd projekt red sony marketing deal witcher 4",
+   "msg": 561
+  },
+  {
+   "id": "b0f13a4b9bd7",
+   "ts": 1795611012.7228513,
+   "source": "Gematsu",
+   "title": "Nobunaga’s Ambition: Hishou launches March 12, 2027 in Japan, Asia",
+   "game": "Nobunaga's Ambition: Hishou",
+   "event": "nobunagas ambition hishou release date asia japan",
+   "msg": 562
+  },
+  {
+   "id": "b502d1d06633",
+   "ts": 1795611014.310219,
+   "source": "VGC",
+   "title": "GTA 6: When to sell AudaCity’s Dacity Coin for maximum profit",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 audacity dacity coin stock guide",
+   "msg": 563
+  },
+  {
+   "id": "133504296f85",
+   "ts": 1795611024.9982507,
+   "source": "Eurogamer",
+   "title": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 enterable buildings discovered by players",
+   "msg": 564
   }
  ],
  "pending": {
@@ -1429,7 +1512,79 @@
    "content": "In August, Facepunch removed the controversial Battle Pass system entry from this year's Rust roadmap. It was replaced with Rust Premium, a status that grants players who have at least $15 worth of items in their inventory access to premium servers , but not much else. This month's force wipe patch notes unveiled some additional details about the changes coming to Rust Premium \"soon.\" As it turns out, Rust Premium will become a paid monthly service with exclusive perks and rewards.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/rust-player-customization.jpg",
    "ts": 1795606942.0731316
+  },
+  "79645bf4d7f1": {
+   "url": "https://www.gematsu.com/2026/11/console-archives-mezase-senkyu-oh-launches-november-26",
+   "source": "Gematsu",
+   "title": "Console Archives Mezase!! SENKYU-OH launches November 26",
+   "summary": "Console Archives Mezase!! SENKYU-OH will launch for PlayStation 5 and Switch 2 on November 26 …",
+   "content": "Console Archives Mezase!! SENKYU-OH will launch for PlayStation 5 and Switch 2 on November 26 … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Console-Archives-Mezase-SENKYU-OH_11-25-26.jpg",
+   "ts": 1795611004.677172
+  },
+  "dd2f4ba36ed9": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-criminal-profiles-explained/",
+   "source": "VGC",
+   "title": "GTA 6: All Criminal Profiles explained",
+   "summary": "All Criminal Profiles and how they change the game in Grand Theft Auto 6",
+   "content": "All Criminal Profiles and how they change the game in Grand Theft Auto 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Criminal-Profiles-explained-2.jpg",
+   "ts": 1795611006.2427604
+  },
+  "a499e3a5b052": {
+   "url": "https://www.videogameschronicle.com/news/ea-sports-fc-27-is-adding-an-ai-generated-john-motson-to-its-commentary-team-three-years-after-his-death/",
+   "source": "VGC",
+   "title": "EA Sports FC 27 is adding an AI-generated John Motson to its commentary team, three years after his death",
+   "summary": "The late commentator is being added to the game this week",
+   "content": "The late commentator is being added to the game this week… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/ea-fc-motson.jpg",
+   "ts": 1795611007.851677
+  },
+  "4795e59371f5": {
+   "url": "https://www.gematsu.com/2026/11/melty-blood-twi-lumina-main-trailer-playable-character-satsuki-yumizuka-cross-play-and-more-revealed",
+   "source": "Gematsu",
+   "title": "Melty Blood: Twi-Lumina main trailer; playable character Satsuki Yumizuka, cross-play, and more revealed",
+   "summary": "Publisher Aniplex and developer French-Bread released the main trailer and latest information for fighting game …",
+   "content": "Publisher Aniplex and developer French-Bread released the main trailer and latest information for fighting game … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Melty-Blood-Trailer_11-25-26.jpg",
+   "ts": 1795611009.486817
+  },
+  "48e9f2543a55": {
+   "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+   "source": "Eurogamer",
+   "title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
+   "summary": "As part of The Witcher and Cyberpunk studio CD Projekt Red's recent Q3 earnings report, the developer offered some updates on upcoming game The Witcher 4 . Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795611011.134698
+  },
+  "b0f13a4b9bd7": {
+   "url": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia",
+   "source": "Gematsu",
+   "title": "Nobunaga’s Ambition: Hishou launches March 12, 2027 in Japan, Asia",
+   "summary": "Historical simulation game Nobunaga’s Ambition: Hishou will launch for PlayStation 5, Switch 2, and PC …",
+   "content": "Historical simulation game Nobunaga’s Ambition: Hishou will launch for PlayStation 5, Switch 2, and PC … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Nobunaga-Hishou-Date_11-25-26.jpg",
+   "ts": 1795611012.722855
+  },
+  "b502d1d06633": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-sell-audacity-coin-profit/",
+   "source": "VGC",
+   "title": "GTA 6: When to sell AudaCity’s Dacity Coin for maximum profit",
+   "summary": "How and when to sell Papa AudaCity's Dacity Coin in Grand Theft Auto 6",
+   "content": "How and when to sell Papa AudaCity's Dacity Coin in Grand Theft Auto 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-When-to-sell-AudaCitys-Dacity-Coin-for-maximum-profit-2.jpg",
+   "ts": 1795611014.3102226
+  },
+  "133504296f85": {
+   "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+   "source": "Eurogamer",
+   "title": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
+   "summary": "One GTA 6 player has put in the legwork and found that a shocking number of buildings across Leonida are freely accessible. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795611024.9982545
   }
  },
- "updated_at": "2026-11-25T11:46:18Z"
+ "updated_at": "2026-11-25T12:54:20Z"
 }
