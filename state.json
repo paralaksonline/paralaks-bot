@@ -168,7 +168,13 @@
   "655fc1b33947": 1795603395.1344028,
   "2783dbe2f4b3": 1795603400.1837792,
   "21b92a81ea4b": 1795603401.7916944,
-  "29a0cf603089": 1795603403.4108164
+  "29a0cf603089": 1795603403.4108164,
+  "b1e59dcbb4e8": 1795606916.6221478,
+  "d85018864848": 1795606936.779356,
+  "7203a3334f4d": 1795606938.420796,
+  "bc7e95c6a5c4": 1795606940.044961,
+  "4c5d0b3054c5": 1795606940.0450304,
+  "aa3a24fbbc29": 1795606941.660793
  },
  "sent": [
   {
@@ -773,6 +779,42 @@
    "game": "Showa American Story",
    "event": "showa american story delayed to 2027",
    "msg": 552
+  },
+  {
+   "id": "d85018864848",
+   "ts": 1795606937.220672,
+   "source": "IGN",
+   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 ps5 vs xbox series x performance analysis digital foundry",
+   "msg": 553
+  },
+  {
+   "id": "7203a3334f4d",
+   "ts": 1795606938.8448586,
+   "source": "VGC",
+   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 how to flip a car guide",
+   "msg": 554
+  },
+  {
+   "id": "4c5d0b3054c5",
+   "ts": 1795606940.4607055,
+   "source": "VGC",
+   "title": "Dirt Dash, Namco’s arcade rival to Sega Rally, is getting a home release for the first time ever",
+   "game": "Dirt Dash",
+   "event": "dirt dash arcades archives home release announced",
+   "msg": 555
+  },
+  {
+   "id": "aa3a24fbbc29",
+   "ts": 1795606942.0731282,
+   "source": "Polygon",
+   "title": "Rust Will Officially Introduce Premium Paid Service With a Most-Requested Feature",
+   "game": "Rust",
+   "event": "rust announces paid premium subscription service feature",
+   "msg": 556
   }
  ],
  "pending": {
@@ -1351,7 +1393,43 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/Showa-American-Story-header.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795603402.2107313
+  },
+  "d85018864848": {
+   "url": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
+   "source": "IGN",
+   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
+   "summary": "The tech experts at Digital Foundry have revealed their analysis of GTA 6, and found the game performs “meaningfully better” on Xbox Series X than the base PS5.",
+   "content": "The tech experts at Digital Foundry have revealed their analysis of GTA 6 , and found the game performs “meaningfully better” on Xbox Series X than the base PS5. Sony’s high-profile marketing deal for GTA 6 involved the key phrase, “Plays Best on PS5,” and while that marketing tagline encompasses more than just performance, many are now questioning its validity with GTA 6 out in the wild. Digital Foundry found that Xbox Series X provides a “virtually identical visual presentation” to the PS5 in terms of overall image clarity and presentation quality, but there is a significant split on performance. As Rockstar had announced before launch, GTA 6 “targets” 30 frames per second across all platforms, from the Xbox Series S up to the PS5 Pro, but there are moments where the frame rate drops. According to DF’s analysis , the frame rate suffers more on PS5 than Series X. Here's what DF said on the issue: PS5 suffers substantially more frequent frame-rate drops than Series X, which is compounded by the fact that the Xbox machine also benefits from 120Hz VRR support to smooth out minor dips. Ultimately, Series X is meaningfully better off. Of course, the PS5 Pro version offers the best experience in terms of performance, but it’s interesting to see the Xbox Series X outperform the PS5 here. Some are pointing to non-performance related features, such as the PS5’s haptic feedback, which is great for driving, as playing a role in the phrase “Plays Best on PS5,” and we should be used to marketing speak that is technically not wrong by now. But, as DF reveals, when it comes to performance, there can be no doubting the clear winner. Indeed, some are calling the “Plays Best on PS5,” phrase “grossly misleading,” claiming that Sony should have said “Plays Best on PS5 Pro” instead. “I’ve been f***ing fooled,” one person said in the comments of DF’s YouTube video . “They did kind of say in the fine print that ‘best’ referred to the features in the DualSense controller,” another person countered. “If you are advertising ‘Plays best on X’ to gamers, the immediate thought is going to be ‘Out the two places I can play the game, it is going to play the best on the X console,’” another suggested. “What does ‘Play’ mean to that audience? Performance, stability, possibly higher resolution, less texture pop-in.” In June, when Sony trumpeted the “Plays Best on PS5” marketing line , it highlighted how GTA 6 takes advantage of the PS5 DualSense controller's haptic feedback and integrated speaker. Sony also highlighted its Tempest 3D AudioTech, which allows you to \"surround yourself in the distinct soundscapes of Leonida\" through its \"highly accurate audio positioning.\" GTA 6 would also \"leverage the PS5's ultra-high speed SSD\" to experience GTA 6 \"with near-instant load times.\" Sony's blog post made no mention of performance. Meanwhile, there are questions around GTA 6’s use of FSR 4.1 on the Xbox Series S version of the game only . Rather than rendering the game at the console's native 1440p, Rockstar used AMD's FSR 4.1 to upscale from 720p to 1080p, which makes GTA 6 one of the first games to use the new upscaling tech on Xbox. It’s thought this tech is what made GTA 6 possible at 30fps on the underpowered Series S in the first place. Both the Xbox Series X and base PS5 versions of the game instead use Rockstar's in-house TAA (temporal anti-aliasing) solution, and the PS5 Pro uses Sony’s PSSR upscaler. But why not use FSR 4.1 on the Xbox Series X version of GTA 6 also? Similarly, if the PS5 version already supports PSSR, why not use Sony’s AI upscaling model QSSR (Quick Spectral Super Resolution)? Elsewhere, fans are just marveling at the performance of GTA 6 on Xbox Series S, which — as we’ve reported — shows what Microsoft’s cheaper console is capable of. Ultimately, DF is hoping Rockstar releases GTA 6 updates that improve performance across the board, potentially adding 120Hz VRR support on PlayStation hardware and “stabilising” base console frame rate",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-34-1795601362117.jpg",
+   "ts": 1795606937.220682
+  },
+  "7203a3334f4d": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
+   "source": "VGC",
+   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+   "summary": "How to flip a car in the open world and reset your car in races in Grand Theft Auto 6",
+   "content": "How to flip a car in the open world and reset your car in races in Grand Theft Auto 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-How-to-flip-a-car-in-Grand-Theft-Auto-6-2.jpg",
+   "ts": 1795606938.8448627
+  },
+  "4c5d0b3054c5": {
+   "url": "https://www.videogameschronicle.com/news/dirt-dash-namcos-arcade-rival-to-sega-rally-is-getting-a-home-release-for-the-first-time-ever/",
+   "source": "VGC",
+   "title": "Dirt Dash, Namco’s arcade rival to Sega Rally, is getting a home release for the first time ever",
+   "summary": "It's the 13th of Namco's polygonal arcade games to get a modern release via Arcade Archives",
+   "content": "It's the 13th of Namco's polygonal arcade games to get a modern release via Arcade Archives… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/dirt-dash.jpg",
+   "ts": 1795606940.4607098
+  },
+  "aa3a24fbbc29": {
+   "url": "https://www.polygon.com/rust-premium-character-customization-details/",
+   "source": "Polygon",
+   "title": "Rust Will Officially Introduce Premium Paid Service With a Most-Requested Feature",
+   "summary": "Facepunch has added Rust Premium and its perks to the staging branch build, including the highly anticipated model customization feature.",
+   "content": "In August, Facepunch removed the controversial Battle Pass system entry from this year's Rust roadmap. It was replaced with Rust Premium, a status that grants players who have at least $15 worth of items in their inventory access to premium servers , but not much else. This month's force wipe patch notes unveiled some additional details about the changes coming to Rust Premium \"soon.\" As it turns out, Rust Premium will become a paid monthly service with exclusive perks and rewards.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/rust-player-customization.jpg",
+   "ts": 1795606942.0731316
   }
  },
- "updated_at": "2026-11-25T10:47:18Z"
+ "updated_at": "2026-11-25T11:46:18Z"
 }
