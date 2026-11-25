@@ -153,7 +153,9 @@
   "c880d7c24c13": 1795566543.1603162,
   "2feda3b8ec94": 1795571563.9917922,
   "558d32223e51": 1795575017.6084228,
-  "19f2fe71deb7": 1795575019.3308258
+  "19f2fe71deb7": 1795575019.3308258,
+  "59883a57b623": 1795578482.0439265,
+  "4f19ee4648c8": 1795578483.8011594
  },
  "sent": [
   {
@@ -704,6 +706,24 @@
    "game": "Dinghai: The Ocean Pillar",
    "event": "dinghai the ocean pillar launches december 3",
    "msg": 546
+  },
+  {
+   "id": "59883a57b623",
+   "ts": 1795578482.6009822,
+   "source": "Gematsu",
+   "title": "Exoprimal to end service on September 29, 2027",
+   "game": "Exoprimal",
+   "event": "exoprimal to end service on september 29 2027",
+   "msg": 547
+  },
+  {
+   "id": "4f19ee4648c8",
+   "ts": 1795578484.35222,
+   "source": "Gematsu",
+   "title": "Desktop productivity game renal spring: Focus as a Kidney announced for PC",
+   "game": "renal spring: Focus as a Kidney",
+   "event": "renal spring focus as a kidney announced for pc",
+   "msg": 548
   }
  ],
  "pending": {
@@ -1228,7 +1248,25 @@
    "content": "Dinghai: The Ocean Pillar, a roguelike action RPG set in the mythic world of the … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Dinghai-Date_11-24-26.jpg",
    "ts": 1795575019.8121114
+  },
+  "59883a57b623": {
+   "url": "https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027",
+   "source": "Gematsu",
+   "title": "Exoprimal to end service on September 29, 2027",
+   "summary": "Dinosaur-themed team-based action game Exoprimal will end service on September 29, 2027, after which it …",
+   "content": "Dinosaur-themed team-based action game Exoprimal will end service on September 29, 2027, after which it … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Exoprimal-EoS_11-24-26.jpg",
+   "ts": 1795578482.600987
+  },
+  "4f19ee4648c8": {
+   "url": "https://www.gematsu.com/2026/11/desktop-productivity-game-renal-spring-focus-as-a-kidney-announced-for-pc",
+   "source": "Gematsu",
+   "title": "Desktop productivity game renal spring: Focus as a Kidney announced for PC",
+   "summary": "BOKURA developer Tokoronyori has announced renal spring: Focus as a Kidney, a desktop productivity game …",
+   "content": "BOKURA developer Tokoronyori has announced renal spring: Focus as a Kidney, a desktop productivity game … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/renal-spring-Focus-as-a-Kidney_2026_11-24-26_009.png",
+   "ts": 1795578484.3522246
   }
  },
- "updated_at": "2026-11-25T02:54:16Z"
+ "updated_at": "2026-11-25T03:52:01Z"
 }
