@@ -191,7 +191,10 @@
   "01338dd43384": 1795615492.022995,
   "ebbb3e8a71d2": 1795615492.0230575,
   "260c73494527": 1795615493.7542481,
-  "8155848f5f27": 1795615495.484552
+  "8155848f5f27": 1795615495.484552,
+  "810ad0ecfb7a": 1795619359.0066953,
+  "2c05b3ba6009": 1795619377.6173754,
+  "3d92eafd15a7": 1795619379.317658
  },
  "sent": [
   {
@@ -949,6 +952,24 @@
    "game": "Digimon Alysion",
    "event": "digimon alysion now available on mobile",
    "msg": 569
+  },
+  {
+   "id": "2c05b3ba6009",
+   "ts": 1795619378.117569,
+   "source": "Eurogamer",
+   "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 criminal profile ui settings",
+   "msg": 570
+  },
+  {
+   "id": "3d92eafd15a7",
+   "ts": 1795619379.6434646,
+   "source": "VGC",
+   "title": "GTA 6: Find and steal Paul Walker’s car, a Fast & Furious reference",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 paul walker fast furious car easter egg",
+   "msg": 571
   }
  ],
  "pending": {
@@ -1680,7 +1701,25 @@
    "content": "Digimon Alysion, the free-to-play mobile game based on Digimon Card Game, is now available for … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Digimon-Alysion-Launch_11-25-26_001.jpg",
    "ts": 1795615496.0163643
+  },
+  "2c05b3ba6009": {
+   "url": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+   "source": "Eurogamer",
+   "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
+   "summary": "Do you think you'd enjoy invasive UI elements in real life? You crouch to fuss your dog, and a little ping activates in your retina, informing you that you've just earned plus-three serotonin. Your boss chews you out for coming into work 15 minutes late thanks to a traffic accident holding you up on your way to work, a notification pings: \"-10 percent motivation (lasts 24 hours)\". Maybe you eat a bang-up meal, flirt with a hot stranger, beat your personal best on a run - ding, ding, ding. Well done, you win at being a human. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/gta-lucia-psycho.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795619378.1175716
+  },
+  "3d92eafd15a7": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-find-steal-paul-walkers-car-fast-furious/",
+   "source": "VGC",
+   "title": "GTA 6: Find and steal Paul Walker’s car, a Fast & Furious reference",
+   "summary": "How to find a reference to Paul Walker's iconic Fast & Furious vehicle in Grand Theft Auto 6",
+   "content": "How to find a reference to Paul Walker's iconic Fast & Furious vehicle in Grand Theft Auto 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Find-and-steal-Paul-Walkers-car-a-Fast-Furious-reference-4.jpg",
+   "ts": 1795619379.643467
   }
  },
- "updated_at": "2026-11-25T14:08:52Z"
+ "updated_at": "2026-11-25T15:13:35Z"
 }
