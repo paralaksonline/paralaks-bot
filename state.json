@@ -290,7 +290,20 @@
   "1565fff72504": 1795693407.2521257,
   "d530b8818326": 1795697531.5873685,
   "768e5600b73c": 1795697531.5874004,
-  "6a761dfe8ca1": 1795697533.1659493
+  "6a761dfe8ca1": 1795697533.1659493,
+  "ed2d66bbaa88": 1795701746.9306157,
+  "0905a9005906": 1795701746.9306157,
+  "797c26ec0588": 1795701746.9306157,
+  "d77e2e77dc8d": 1795701837.4116528,
+  "9675ea516879": 1795701839.0050554,
+  "ecf889bf3992": 1795701840.5469987,
+  "7a9dee8803fe": 1795701842.0906513,
+  "dfce377d6b12": 1795701843.65009,
+  "271f45594ba4": 1795701845.2502615,
+  "bd3e7aceb858": 1795701846.8341513,
+  "bbdb6a0186b7": 1795701848.371271,
+  "21e46148c5e3": 1795702050.507967,
+  "b3cc3ea8bb5a": 1795702052.0664816
  },
  "sent": [
   {
@@ -1426,6 +1439,87 @@
    "game": "",
    "event": "steam hosts games without ai event",
    "msg": 618
+  },
+  {
+   "id": "d77e2e77dc8d",
+   "ts": 1795701837.804919,
+   "source": "IGN",
+   "title": "Warhammer 40,000: Space Marine 2 Patch 16.0 Goes Live, Expands Vanguard Class, Makes Big Balance Changes, and Much More",
+   "game": "Warhammer 40,000: Space Marine 2",
+   "event": "warhammer 40000 space marine 2 patch 16 released",
+   "msg": 619
+  },
+  {
+   "id": "9675ea516879",
+   "ts": 1795701839.346885,
+   "source": "IGN",
+   "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+   "game": "The Last of Us Part 2",
+   "event": "modder uses ai to create tlou part 2 multiplayer mode",
+   "msg": 620
+  },
+  {
+   "id": "ecf889bf3992",
+   "ts": 1795701840.8905425,
+   "source": "Gematsu",
+   "title": "Fate/EXTRA Record characters trailer – Gatou Faction",
+   "game": "Fate/EXTRA Record",
+   "event": "fate extra record gatou faction trailer released",
+   "msg": 621
+  },
+  {
+   "id": "7a9dee8803fe",
+   "ts": 1795701842.449985,
+   "source": "IGN",
+   "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 weather issue workaround for ps5 players",
+   "msg": 622
+  },
+  {
+   "id": "dfce377d6b12",
+   "ts": 1795701844.050145,
+   "source": "VGC",
+   "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 secret capri mission guide",
+   "msg": 623
+  },
+  {
+   "id": "271f45594ba4",
+   "ts": 1795701845.634019,
+   "source": "Gematsu",
+   "title": "Famitsu Sales: 11/16/26 – 11/22/26",
+   "game": "",
+   "event": "famitsu physical game sales japan week of november 22 2026",
+   "msg": 624
+  },
+  {
+   "id": "bd3e7aceb858",
+   "ts": 1795701847.171161,
+   "source": "Eurogamer",
+   "title": "Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline",
+   "game": "Umamusume: Pretty Derby",
+   "event": "umamusume pretty derby ai clone removed from store",
+   "msg": 625
+  },
+  {
+   "id": "21e46148c5e3",
+   "ts": 1795702050.86637,
+   "source": "VGC",
+   "title": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+   "game": "GTA 6",
+   "event": "rockstar discusses chapter 1 twist and cut content",
+   "msg": 626
+  },
+  {
+   "id": "b3cc3ea8bb5a",
+   "ts": 1795702052.4221313,
+   "source": "Eurogamer",
+   "title": "\"I'm betting on the sickos\" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper",
+   "game": "",
+   "event": "signet city plans to expand rpg scope",
+   "msg": 627
   }
  ],
  "pending": {
@@ -2526,7 +2620,88 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795697533.4988086
+  },
+  "d77e2e77dc8d": {
+   "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more",
+   "source": "IGN",
+   "title": "Warhammer 40,000: Space Marine 2 Patch 16.0 Goes Live, Expands Vanguard Class, Makes Big Balance Changes, and Much More",
+   "summary": "Warhammer 40,000: Space Marine 2 still receives significant support two years after launch. We’re now up to patch 16, which makes significant balance changes to the game. Check out the patch notes.",
+   "content": "Warhammer 40,000: Space Marine 2 still receives significant support two years after launch. We’re now up to patch 16.0, which makes significant balance changes to the game. In terms of new features, we’ve got a major expansion of the Vanguard class’ combat abilities (the Grapnel Launcher can now be used at close range!), the new Revenge status effect (hitting enemies afflicted with Revenge also deals damage to nearby enemies), and Wargear 2.3 (Bulwark can now equip and customize Cloak!). As for cosmetics, the hotly anticipated Deathwatch Champion Pack is out now as part of the Season Pass. There’s also a Mortifactors Cosmetic Pack. I’ve put the balance changes as part of the patch notes below, if you want to skip to them to see what’s happened to your class. Also interesting is the note about tech improvements with patch 16. Publisher Focus Entertainment says loading times have improved, which players will welcome. There are also memory optimizations, “minor” performance improvements, and “general” connectivity improvements. Anyone who’s played or is still playing Space Marine 2 will hope these improvements are meaningful. Focus has said that next year, Space Marine 2 will receive three more updates until its third anniversary. Patch 17, 18 and 19 will offer free content as well as Season Pass 3 content with the cosmetic DLCs. There’s a lot of excitement around Patch 17, which adds a brand-new class, the Apothecary , complete with its signature Absolvor Bolt Pistol. Patch 17 also adds a new Operation and fresh Heroic weapons, and a rework of the Heavy class. A new Imperial Fist Champion Pack and a Cosmetic Pack for the Minotaurs chapter are also on the way. The Switch 2 version of Space Marine 2, however, is delayed out of 2026 into 2027. “Considering its current polishing needs, we are constrained to pushing the release to 2027,” Focus said. Warhammer 40,000: Space Marine 2 update 16 patch notes: NEW FEATURES New Feature: Vanguard Class Expansion The Vanguard class receives a major expansion to its combat capabilities. The Grapnel Launcher can now be used at close range, making the ability more versatile and responsive in the heat of battle. The class perk tree has also undergone significant changes, with numerous perks reworked and repositioned, alongside new key perks designed to improve crowd control and increase effectiveness against groups of enemies. These include a new perk that allows the Grapnel Launcher to apply Stun and Revenge status effects. New Feature: Revenge Status Effect Hitting enemies afflicted with Revenge status effect also deals damage to nearby enemies. 🟡Revenge base damage increased by 50%. 🟡Revenge damage radius increased from 10 to 12 meters. 🟡Revenge maximum number of targets increased from 4 to 5 enemies. 🟡Revenge effect duration increased from 8 to 10 seconds. New Feature: Wargear 2.3 The Bulwark class receives expanded customization options. Robes and tabards can now be customized through a dedicated Wargear slot instead of the Chest slot, offering more freedom to personalize its appearance. Additionally, Bulwark can now equip and customize Cloak. Chaos Siege Mode Map Expansion: Sector #3 The final part of the \"Hive\" map. Deep within the hive city of Avarax, the forces of Chaos are preparing a Daemon Host ritual. Loyalists are attempting to put an end to this heresy. New Heroic Items Added 6 Heroic Weapons to unlock with Accolades: Bolt Rifle Heavy Bolter Plasma Rifle Heavy Bolt Pistol Las Fusil Omnissian Axe Added 4 Heroic Armour Parts to unlock with Accolades: Iron Priest Helmet for Techmarine Class Mark VII Hybrid Helmet for all classes Mark VI Hybrid Helmet for all classes Mark VII Gravis Hybrid Helmet for Heavy Class New Season Pass Content ☠️ Deathwatch Champion Pack Vanguard Champion + Occulus Bolt Carbine weapon skin 💀 Mortifactors Cosmetic Pack Mark VII Helmet Breastplate L&R Pauldron ​ GAMEPLAY AND BALANCING TWEAKS Firearms in PvE Inferno Pistol Base damage is increased by 30%. Standar",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/sm3-1795689905963.png",
+   "ts": 1795701837.8049324
+  },
+  "9675ea516879": {
+   "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+   "source": "IGN",
+   "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+   "summary": "Another modder has used AI to make a multiplayer mode for The Last of Us Part 2, insisting there isn't much Sony can do about it \"even if they do shut me down.\"",
+   "content": "Another modder has used AI to make a multiplayer mode for The Last of Us Part 2 , insisting there isn't much Sony can do about it \"even if they do shut me down.\" The Last of Us had a brilliant multiplayer mode, with tense gunfights powered by weapon sway, smart cover, and nail-biting in-round crafting that forced you to dig around in your backpack as bullets whizzed over your bonce. That’s why so many people were excited when Naughty Dog announced a Factions multiplayer game in the works based on The Last of Us Part 2 . Naughty Dog, however, eventually realized that making a live-service game would change the studio forever, and cancelled the project to focus instead on its upcoming sci-fi game, Intergalactic: The Heretic Prophet . The Last of Us Part 2 made some brilliant tweaks to the combat, allowing for better mobility and deeper stealth. The feel of the weapons, the crunch of the impacts, the audiovisual spectacle of it all was just something else, but we can only experience it in single-player, officially. It’s no wonder people want to make Factions happen, even without Sony’s approval. And in September, a promising mod made some big strides towards getting multiplayer working in The Last of Us Part 2. As soon as it started to get traction, however, the mod was sent a cease and desist letter from Sony . “Hey everyone, as you all know, the TLOU 2 Multiplayer mod that has been in development since January was supposed to [be released] this month,” wrote creator 'Speclizer' at the time. “Unfortunately I recently received a letter on behalf of Sony Interactive Entertainment requesting for the mod not to be released. Extremely sad that this never got to see the light of day but I hope you’ll continue to follow me onto the next project, this time something of my own.” Now there’s a new mod hoping to avoid the eye of Sauron, and it’s already out. The mod is called Twelve Weeks and was built specifically for The Last of Us Part 2 Remastered on PC, using, its creator has admitted, generative AI. Modder 'Kellie' admitted to using Claude code for most of the game's development, and AI was even used to write the lore dumps you can find in the game. The art was, however, made using Blender . The Last of Us returns with a new online multiplayer mode called TWELVE WEEKS created for The Last of Us Part 2 Remastered on PC. This free mod is a work in progress allowing players to experience a new version of the beloved Factions multiplayer with tactical survival gameplay https://t.co/2P8Wv4abQb — 𝗩𝗢𝗬𝗔𝗚𝗘𝗥𝗦 𝗥𝗘𝗩𝗘𝗡𝗚𝗘 (@VoyagersRevenge) November 24, 2026 It features reworked levels — Supply Raid and Interrogation for now — with team-based 4v4 combat, new weapons, and character customization. Players can use gadgets like molotovs and smoke bombs, while fighting against other players as the WLF and Seraphites. The mod even adds brutal execution moves. You can grab Twelve Weeks on Nexus Mods . However, the mod probably won't last long. The modders have attempted to cover their backs with a repository disclaimer that said: \"Twelve Weeks is an unofficial fan project. It is not affiliated with, endorsed by or sponsored by Sony Interactive Entertainment or Naughty Dog. The Last of Us is a trademark of its owners. You need your own legitimately purchased copy of the game (Steam). This repository contains no game files and no assets taken from the game.\" Will Sony take action? In a reply to someone on YouTube , Kellie said the previous Factions mod got hit by Sony because it was paywalled. \"Mine is released already for free and in open source,\" they said. \"Since people have the source code to the full mod already, there ain't much they can do even if they do shut me down.\" While The Last of Us Online was canceled, there are hints that Naughty Dog may be ready to return to the series for The Last of Us 3 . And then there is HBO's The Last of Us TV series , which is currently shooting its third (and likely last) season.",
+   "image": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+   "ts": 1795701839.3468902
+  },
+  "ecf889bf3992": {
+   "url": "https://www.gematsu.com/2026/11/fate-extra-record-characters-trailer-gatou-faction",
+   "source": "Gematsu",
+   "title": "Fate/EXTRA Record characters trailer – Gatou Faction",
+   "summary": "Publisher Aniplex and developers Meteorise and TYPE-MOON have released a new trailer for Fate/EXTRA Record, …",
+   "content": "Publisher Aniplex and developers Meteorise and TYPE-MOON have released a new trailer for Fate/EXTRA Record… Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Fate-Extra-Record-PV_11-26-26.jpg",
+   "ts": 1795701840.8905473
+  },
+  "7a9dee8803fe": {
+   "url": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
+   "source": "IGN",
+   "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+   "summary": "Rockstar recently dropped the first post-launch patch for GTA 6 which, among other things, included a fix for the game’s lack of weather variety. Some players were left still experiencing issues, but now there’s seemingly a workaround for PS5 players specifically.",
+   "content": "Rockstar recently dropped the first post-launch patch for GTA 6 which, among other things, included a fix for the game’s lack of weather variety. Some players were left still experiencing issues, but now there’s seemingly a workaround for PS5 players specifically. Lack of weather variety was something I noticed myself during the game’s review period, but Rockstar deployed a small fix during that time too. It was hard to tell whether it was working as intended because the weather also grows more stark as you move through the game. “The weather types change throughout each day, and the overall weather pattern changes per chapter, evolving from generally very good weather in the first chapter to much more changeable and stormy in the last chapter,” said Owen Shepherd, vice president of art: lighting and rendering at Rockstar, when I asked. “This is analogous to Florida’s weather patterns in winter through to summer autumn. During the first chapters there are pockets of rain but due to the localization of weather it is possible to miss these.\" However, it seems like the issue persisted into the live version of the game, blurring the line between thematically appropriate and accurate weather patterns and unintended bug. The latest patch fixed this for the most part, but some players found they were still experiencing minimal weather changes. If you’re having the same issue, there might be a fix (discovered by X / Twitter user @mauricioce85796 ). On PS5, you need to turn off your console and boot it into safe mode by holding the power button down until it beeps. From there, choose option six and select “clear system cache.” According to people who have tested it, this forces the patch to do its job. “I have 56 hours in this game so far and I haven’t experienced any dramatic weather,” said Rockstar fan account Gameroll . “I did this and upon loading I was IMMEDIATELY met with this storm. I’m delighted.” Of course, this could be a placebo, but players in the replies have been trying it and immediately seeing results. “Guys, I can confirm, it’s working,” said one happy X / Twitter user who showcased a rainy clip. “Can confirm, weather is more varied!” said another . Clearing your cache on PS5 won’t delete game saves or installed games. It just deletes temporary system files and lets the console recreate fresh ones without erasing your games, saved data, screenshots, or account settings. It helps resolve system feature glitches, slow performance, stuttering, app or game launch errors, and network or sync hiccups. People have been doing it for years, claiming to see performance benefits as a result. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-55-1795692345300.jpg",
+   "ts": 1795701842.449989
+  },
+  "dfce377d6b12": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+   "source": "VGC",
+   "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+   "summary": "Here's how to trigger a secret mission in GTA 6",
+   "content": "Here's how to trigger a secret mission in GTA 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-secret-mission-capri-4.jpg",
+   "ts": 1795701844.0501497
+  },
+  "271f45594ba4": {
+   "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-16-26-11-22-26",
+   "source": "Gematsu",
+   "title": "Famitsu Sales: 11/16/26 – 11/22/26",
+   "summary": "Famitsu has published its estimated physical game software data for Japan for the week of …",
+   "content": "Famitsu has published its estimated physical game software data for Japan for the week of … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Famitsu-Sales_11-26-26_GTA6.jpg",
+   "ts": 1795701845.6340225
+  },
+  "bd3e7aceb858": {
+   "url": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+   "source": "Eurogamer",
+   "title": "Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline",
+   "summary": "An AI clone of Umamusume: Pretty Derby has been stuck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795701847.1711652
+  },
+  "21e46148c5e3": {
+   "url": "https://www.videogameschronicle.com/features/the-gta-6-spoiler-interview/",
+   "source": "VGC",
+   "title": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+   "summary": "Rockstar's Rob Nelson sits down for his most open interview yet",
+   "content": "Rockstar's Rob Nelson sits down for his most open interview yet… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/vgc-social-split-template.jpg",
+   "ts": 1795702050.866373
+  },
+  "b3cc3ea8bb5a": {
+   "url": "https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg",
+   "source": "Eurogamer",
+   "title": "\"I'm betting on the sickos\" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper",
+   "summary": "When I last spoke to Citizen Sleeper creator Gareth Damian Martin, it was on the eve of Citizen Sleeper 2's release . Like its predecessor, the game was a critical hit, cemented Damian Martin's reputation as one of the most successful independent game developers around. But they weren't content. They wanted to do more, to push more, to stretch the idea of what a role-playing video game could be. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/signet-city-no-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795702052.4221342
   }
  },
- "updated_at": "2026-11-26T12:56:09Z"
+ "updated_at": "2026-11-26T14:11:28Z"
 }
