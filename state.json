@@ -1,5 +1,5 @@
 {
- "telegram_offset": 990434145,
+ "telegram_offset": 990434149,
  "seen": {
   "4d088d3cc7ff": 1795460673.37676,
   "52aa77fab725": 1795460673.37676,
@@ -349,7 +349,11 @@
   "3fda6074280a": 1795724058.9770133,
   "9419c6de0db1": 1795726787.1786337,
   "ada7084186df": 1795726945.8211844,
-  "3c4313737c47": 1795726947.4885414
+  "3c4313737c47": 1795726947.4885414,
+  "513a5f13696b": 1795730217.7277737,
+  "43126273a1e6": 1795730219.326502,
+  "f3e432c39e1a": 1795730220.9080822,
+  "a2e0aee92316": 1795730222.4641063
  },
  "sent": [
   {
@@ -1836,6 +1840,42 @@
    "game": "The Sims 4",
    "event": "the sims 4 makes 13 dlcs free for limited time",
    "msg": 657
+  },
+  {
+   "id": "513a5f13696b",
+   "ts": 1795730218.1263602,
+   "source": "IGN",
+   "title": "GTA 6 Fashion in the IGN Community",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 fashion in the ign community",
+   "msg": 661
+  },
+  {
+   "id": "43126273a1e6",
+   "ts": 1795730219.7079644,
+   "source": "Polygon",
+   "title": "GTA: Boston Would Go Wicked Hard, Kid",
+   "game": "Grand Theft Auto VI",
+   "event": "opinion on a potential gta boston setting",
+   "msg": 662
+  },
+  {
+   "id": "f3e432c39e1a",
+   "ts": 1795730221.2639775,
+   "source": "IGN",
+   "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+   "game": "Grand Theft Auto VI",
+   "event": "lucia actress manni l perez first statement",
+   "msg": 663
+  },
+  {
+   "id": "a2e0aee92316",
+   "ts": 1795730222.7981324,
+   "source": "Polygon",
+   "title": "Star Trek: Voyager Officially Revisits the Series' Best Two-Parter in a Brand-New Way",
+   "game": "Star Trek: Voyager - Across the Unknown",
+   "event": "star trek voyager across the unknown year of hell dlc",
+   "msg": 664
   }
  ],
  "pending": {
@@ -3287,7 +3327,43 @@
    "content": "The Sims 4 has received a steady stream of content since it launched 12 years ago. However, 2026 has been particularly dry. The last major expansion, Royalty & Legacy , was released in February, and aside from kits, the game hasn't received much content this year. This may be because of the team's focus on Project Renee (which may be on hold) or because of internal matters related to Electronic Arts' private-equity buyout .",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19683316/Same_Sex_Couple_16x9.jpg",
    "ts": 1795726947.866624
+  },
+  "513a5f13696b": {
+   "url": "https://www.ign.com/articles/gta-6-fashion-in-the-ign-community",
+   "source": "IGN",
+   "title": "GTA 6 Fashion in the IGN Community",
+   "summary": "",
+   "content": "It’s hard to believe it’s only been seven days since the launch of Grand Theft Auto 6 . Still, with the staggering number of screenshots, videos, and everything else filling up social media feeds, anyone out of the loop would never know. I think much of this is due to just how many types of games Rockstar managed to cram into GTA 6. Everything from fixing up Jason’s house in the prologue to racing, billiards, birdwatching , and, of course, all the other gameplay we expect in GTA has created an almost Sims-like experience that is getting more people than ever to try the series. Seriously, though, the early sales numbers are bonkers. My and many others' favorite things about GTA 6, in addition to just being a general menace to society, have been experiencing all the different kinds of gameplay and Rockstar fitting into it. I’ve been checking in with our IGN community across our various platforms to see how their time in Leonida has been going. I’m still gathering stories for that (If you’re interested in sharing your thoughts, join the IGN Discord); however, in the meantime, I wanted to share the fashion that various members of the IGN Community and Staff have for Jason and Lucia as they make their way through the story. Want to share your best screenshots of GTA 6, join the IGN Discord and submit them in our GTA 6 channel. Keep an eye out for next week's prompt. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-jason-and-lucia-cigar-1795473956655.jpg",
+   "ts": 1795730218.126364
+  },
+  "43126273a1e6": {
+   "url": "https://www.polygon.com/gta-6-boston-massachussetts/",
+   "source": "Polygon",
+   "title": "GTA: Boston Would Go Wicked Hard, Kid",
+   "summary": "Grand Theft Auto 6 is a perfect Florida satire, and now I'm dying to see Rockstar's take on Massachusetts.",
+   "content": "Considering that Grand Theft Auto 6 just launched after a 13-year wait, it’s safe to say that we won’t be getting another one any time soon. That’s fine, because Leonida is so enormous that I know I’ll still be finding secrets in it years from now. And yet, I can’t help myself. I’m already wondering where the series could possibly go next. Allow me to offer one unsolicited idea: Massachusetts.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/image-10.png",
+   "ts": 1795730219.7079682
+  },
+  "f3e432c39e1a": {
+   "url": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
+   "source": "IGN",
+   "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+   "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
+   "content": "Manni L. Perez, the actress who plays Lucia in GTA 6 , has issued her first statement since the game came out. Perez’s role as Lucia Caminos was confirmed when she was nominated in the Best Performance category for this year’s The Game Awards , a day before GTA 6 launched on November 19. She’s now considered the favorite following the game’s critically acclaimed, record-breaking launch. Now, a week later, Perez took to social media to thank fans for the reception to GTA 6. “Life has been such a whirlwind these past couple of days and I just want to take a moment to say thank you,” an Instagram Stories post began. “Thank you to all the new followers, to all the beautiful messages, and the positive reception the game and my character have received. “I've dedicated almost a decade bringing Lucia to life. She's been such a significant part of mine and I am beyond grateful she now gets to be a small part of yours.” “Happy Holiday's y'all.” Perez is an actress with a smattering of credits to her acting resume, including TV guest roles in Jessica Jones, Chicago P.D., and Law & Order: Special Victims Unit. While she hasn't been up to much else over the past few years, it's easy to know why — GTA 6 sounds like it was a pretty involved project. Indeed, Lucia isn’t Perez's first GTA role. In GTA 5, she plays the background character of \"Clubber #2,\" while in GTA Online she voices a blackjack dealer. Meanwhile, Jason actor Dylan Rourke also posted a message of gratitude on Instagram Stories, saying: “Thankful for this wild ride. Gratitude won’t cut it. Make today about the ones you love.” Manni L. Perez shouldn't be confused with Manny Perez, who plays Raul Bautista in GTA 6. This week, Manny Perez bought a PS5 just so he could play the game, saying in a video posted to social media: “Guy, I’m playing and this s**t is crazy! Look how real that looks. I’m learning, I’m loving this, it’s crazy.” Other GTA 6 actors who've started to talk about their work on the game include Lexie Shoaibi, who recently spoke out about her \"bittersweet\" newfound fame after her character, Mandy, went viral online, and Cocoteo FM radio host Issa Lopez, who described the wild non-disclosure agreement she had to sign before working on the game . Last month, the actors behind GTA 5's Franklin, Michael, and Trevor shared their advice for GTA 6's cast in a bid to ready them for the kind of fame few video game actors achieve. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg",
+   "ts": 1795730221.2639809
+  },
+  "a2e0aee92316": {
+   "url": "https://www.polygon.com/star-trek-voyager-across-the-unknown-year-of-hell-dlc-announced/",
+   "source": "Polygon",
+   "title": "Star Trek: Voyager Officially Revisits the Series' Best Two-Parter in a Brand-New Way",
+   "summary": "Star Trek: Voyager - Across the Unknown strategy game officially reveals Year of Hell DLC",
+   "content": "One of the best two-episode arcs in Star Trek: Voyager , if not the entire Star Trek franchise, is the \"Year of Hell\" duology. The story from the show's fourth season pitted the crew of Voyager against a unique threat that tested their perseverance more than any previous enemy had.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/star-trek-voyager.jpg",
+   "ts": 1795730222.798136
   }
  },
- "updated_at": "2026-11-26T21:06:23Z"
+ "updated_at": "2026-11-26T22:00:58Z"
 }
