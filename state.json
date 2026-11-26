@@ -273,7 +273,10 @@
   "99e215e677f9": 1795657480.3025835,
   "4271e6207dc9": 1795657482.1152062,
   "8170b182a863": 1795660937.4594264,
-  "34e09dac08f8": 1795660937.4594588
+  "34e09dac08f8": 1795660937.4594588,
+  "3370d5aa30a8": 1795664574.9505553,
+  "7293b5883762": 1795664574.950585,
+  "4017bdd97522": 1795664576.67035
  },
  "sent": [
   {
@@ -1346,6 +1349,24 @@
    "game": "Team Fortress 2",
    "event": "team fortress 2 new update released",
    "msg": 611
+  },
+  {
+   "id": "7293b5883762",
+   "ts": 1795664575.4702284,
+   "source": "Gematsu",
+   "title": "Dragon Quest Monsters: The Withered World ‘Final’ trailer",
+   "game": "Dragon Quest Monsters: The Withered World",
+   "event": "dragon quest monsters the withered world final trailer released",
+   "msg": 612
+  },
+  {
+   "id": "4017bdd97522",
+   "ts": 1795664577.1702423,
+   "source": "Gematsu",
+   "title": "Funghi Days announced for console",
+   "game": "Funghi Days",
+   "event": "funghi days announced for console",
+   "msg": 613
   }
  ],
  "pending": {
@@ -2383,7 +2404,25 @@
    "content": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: For mod developers: Updated Rubikon",
    "image": null,
    "ts": 1795660938.4010901
+  },
+  "7293b5883762": {
+   "url": "https://www.gematsu.com/2026/11/dragon-quest-monsters-the-withered-world-final-trailer",
+   "source": "Gematsu",
+   "title": "Dragon Quest Monsters: The Withered World ‘Final’ trailer",
+   "summary": "Square Enix has released the final trailer for monster raising RPG Dragon Quest Monsters: The …",
+   "content": "Square Enix has released the final trailer for monster raising RPG Dragon Quest Monsters: The … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/DQM4-Trailer_11-25-26.jpg",
+   "ts": 1795664575.4702394
+  },
+  "4017bdd97522": {
+   "url": "https://www.gematsu.com/2026/11/funghi-days-announced-for-console",
+   "source": "Gematsu",
+   "title": "Funghi Days announced for console",
+   "summary": "SUCCESS Corporation has announced Funghi Days, a new console game in celebration of the Nameko …",
+   "content": "SUCCESS Corporation has announced Funghi Days, a new console game in celebration of the Nameko … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Funghi-Days-Ann_11-25-26.jpg",
+   "ts": 1795664577.1702466
   }
  },
- "updated_at": "2026-11-26T02:46:14Z"
+ "updated_at": "2026-11-26T03:46:53Z"
 }
