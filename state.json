@@ -340,7 +340,11 @@
   "a4b20c53118e": 1795716494.9790761,
   "50554f1f9975": 1795716494.9791474,
   "bb132cd26f7a": 1795716494.9791648,
-  "0cacc6366dda": 1795716628.2024367
+  "0cacc6366dda": 1795716628.2024367,
+  "f66b9317cb14": 1795719674.6319697,
+  "5a5e8e08025f": 1795719896.7800941,
+  "30adb5fc353f": 1795719898.4114347,
+  "1cf8f1f66ff5": 1795719900.0564451
  },
  "sent": [
   {
@@ -1782,6 +1786,24 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 side characters that steal the show",
    "msg": 652
+  },
+  {
+   "id": "5a5e8e08025f",
+   "ts": 1795719897.2113109,
+   "source": "VGC",
+   "title": "Ubisoft defends calling Skull & Bones a ‘quadruple-A’ game in lawsuit",
+   "game": "Skull & Bones",
+   "event": "ubisoft defends quadruple a term in lawsuit",
+   "msg": 653
+  },
+  {
+   "id": "30adb5fc353f",
+   "ts": 1795719898.8562646,
+   "source": "Eurogamer",
+   "title": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
+   "game": "",
+   "event": "team ninja uses ai for qa workflow",
+   "msg": 654
   }
  ],
  "pending": {
@@ -3188,7 +3210,25 @@
    "content": "Although Jason and Lucia are the stars of Grand Theft Auto 6 and amazing characters in their own right, there are lots of side characters who steal the show whenever they show up. From folks critical to the main story path to weirdos you meet if you take the time to stop and chat with someone on the side of the road, GTA 6 constantly introduces wild, memorable characters almost every hour.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-brian-heder.jpg",
    "ts": 1795716495.3484285
+  },
+  "5a5e8e08025f": {
+   "url": "https://www.videogameschronicle.com/news/ubisoft-defends-calling-skull-bones-a-quadruple-a-game-in-lawsuit/",
+   "source": "VGC",
+   "title": "Ubisoft defends calling Skull & Bones a ‘quadruple-A’ game in lawsuit",
+   "summary": "Ubisoft argues that the \"quadruple-A\" comments were just Yves Guillemot's opinion",
+   "content": "Ubisoft argues that the \"quadruple-A\" comments were just Yves Guillemot' Source",
+   "image": "https://www.videogameschronicle.com/files/2020/11/Skull-and-Bones-d.jpg",
+   "ts": 1795719897.2113168
+  },
+  "30adb5fc353f": {
+   "url": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands",
+   "source": "Eurogamer",
+   "title": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
+   "summary": "Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be \"crafted by human hands.\" Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/nioh-3-gameplay-screen-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795719898.8562694
   }
  },
- "updated_at": "2026-11-26T18:14:22Z"
+ "updated_at": "2026-11-26T19:08:54Z"
 }
