@@ -346,7 +346,10 @@
   "30adb5fc353f": 1795719898.4114347,
   "1cf8f1f66ff5": 1795719900.0564451,
   "87447f573558": 1795723702.5292125,
-  "3fda6074280a": 1795724058.9770133
+  "3fda6074280a": 1795724058.9770133,
+  "9419c6de0db1": 1795726787.1786337,
+  "ada7084186df": 1795726945.8211844,
+  "3c4313737c47": 1795726947.4885414
  },
  "sent": [
   {
@@ -1815,6 +1818,24 @@
    "game": "The Witcher 3: Wild Hunt",
    "event": "the witcher 3 new patch adds cross-platform mods and fixes bugs",
    "msg": 655
+  },
+  {
+   "id": "ada7084186df",
+   "ts": 1795726946.2884116,
+   "source": "Eurogamer",
+   "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
+   "game": "Skate",
+   "event": "skate drops seasonal structure for regular updates",
+   "msg": 656
+  },
+  {
+   "id": "3c4313737c47",
+   "ts": 1795726947.8666184,
+   "source": "Polygon",
+   "title": "The Sims 4 Officially Makes 13 DLCs Free for a Limited Time",
+   "game": "The Sims 4",
+   "event": "the sims 4 makes 13 dlcs free for limited time",
+   "msg": 657
   }
  ],
  "pending": {
@@ -3248,7 +3269,25 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795724059.4274907
+  },
+  "ada7084186df": {
+   "url": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
+   "source": "Eurogamer",
+   "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
+   "summary": "EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern. Here, the publisher assured players the transition will lead to more regular updates since devs can now push out new features without waiting for the next season to roll around. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/skate-header_g4XD29A.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795726946.2884173
+  },
+  "3c4313737c47": {
+   "url": "https://www.polygon.com/the-sims-4-free-maker-pack-holiday-giveaway-2026/",
+   "source": "Polygon",
+   "title": "The Sims 4 Officially Makes 13 DLCs Free for a Limited Time",
+   "summary": "The Sims 4 is hosting a holiday giveaway that allows players to claim up to 13 free Maker Packs throughout the next eight weeks.",
+   "content": "The Sims 4 has received a steady stream of content since it launched 12 years ago. However, 2026 has been particularly dry. The last major expansion, Royalty & Legacy , was released in February, and aside from kits, the game hasn't received much content this year. This may be because of the team's focus on Project Renee (which may be on hold) or because of internal matters related to Electronic Arts' private-equity buyout .",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19683316/Same_Sex_Couple_16x9.jpg",
+   "ts": 1795726947.866624
   }
  },
- "updated_at": "2026-11-26T20:18:15Z"
+ "updated_at": "2026-11-26T21:06:23Z"
 }
