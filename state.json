@@ -303,7 +303,16 @@
   "bd3e7aceb858": 1795701846.8341513,
   "bbdb6a0186b7": 1795701848.371271,
   "21e46148c5e3": 1795702050.507967,
-  "b3cc3ea8bb5a": 1795702052.0664816
+  "b3cc3ea8bb5a": 1795702052.0664816,
+  "637c1ceb546a": 1795705457.7975767,
+  "183babe3e4b4": 1795705457.7975767,
+  "4f8dd1b6ed6b": 1795705650.2503343,
+  "7740705183ed": 1795705651.8294368,
+  "33125f4cecc6": 1795705653.4020102,
+  "f842ca61b818": 1795705654.9437532,
+  "4f63fd399d43": 1795705656.4945614,
+  "7409ffe443a2": 1795705658.032006,
+  "60730915b520": 1795705659.5911045
  },
  "sent": [
   {
@@ -1520,6 +1529,69 @@
    "game": "",
    "event": "signet city plans to expand rpg scope",
    "msg": 627
+  },
+  {
+   "id": "4f8dd1b6ed6b",
+   "ts": 1795705650.6292822,
+   "source": "Gematsu",
+   "title": "Origament: A Paper Adventure now available for PS5, Switch",
+   "game": "Origament: A Paper Adventure",
+   "event": "origament a paper adventure released for ps5 and switch",
+   "msg": 628
+  },
+  {
+   "id": "7740705183ed",
+   "ts": 1795705652.2018697,
+   "source": "Eurogamer",
+   "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 player survey reveals amusing in-game habits",
+   "msg": 629
+  },
+  {
+   "id": "33125f4cecc6",
+   "ts": 1795705653.7436612,
+   "source": "Gematsu",
+   "title": "Card-based hacking adventure game Hack ’95 to be published by PQube",
+   "game": "Hack ’95",
+   "event": "hack 95 published by pqube",
+   "msg": 630
+  },
+  {
+   "id": "f842ca61b818",
+   "ts": 1795705655.2944443,
+   "source": "Eurogamer",
+   "title": "We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says",
+   "game": "Citizen Sleeper",
+   "event": "citizen sleeper creator talks about human made game promotion",
+   "msg": 631
+  },
+  {
+   "id": "4f63fd399d43",
+   "ts": 1795705656.831879,
+   "source": "Gematsu",
+   "title": "Retail Hell coming to PS5, Xbox Series, and Switch",
+   "game": "Retail Hell",
+   "event": "retail hell announced for ps5 xbox series and switch",
+   "msg": 632
+  },
+  {
+   "id": "7409ffe443a2",
+   "ts": 1795705658.3909912,
+   "source": "VGC",
+   "title": "Despite being a code in a box, GTA 6’s physical release broke sales records",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 physical release breaks sales records in europe",
+   "msg": 633
+  },
+  {
+   "id": "60730915b520",
+   "ts": 1795705660.0230045,
+   "source": "Polygon",
+   "title": "The One Reason Nintendo and Rockstar Can Make Games Like Ocarina of Time and GTA 6",
+   "game": "",
+   "event": "analysis on long term talent retention in game development",
+   "msg": 634
   }
  ],
  "pending": {
@@ -2701,7 +2773,70 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/signet-city-no-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795702052.4221342
+  },
+  "4f8dd1b6ed6b": {
+   "url": "https://www.gematsu.com/2026/11/origament-a-paper-adventure-now-available-for-ps5-switch",
+   "source": "Gematsu",
+   "title": "Origament: A Paper Adventure now available for PS5, Switch",
+   "summary": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch …",
+   "content": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Origament-Console_11-23-26.jpg",
+   "ts": 1795705650.6292875
+  },
+  "7740705183ed": {
+   "url": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+   "source": "Eurogamer",
+   "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+   "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795705652.201875
+  },
+  "33125f4cecc6": {
+   "url": "https://www.gematsu.com/2026/11/card-based-hacking-adventure-game-hack-95-to-be-published-by-pqube",
+   "source": "Gematsu",
+   "title": "Card-based hacking adventure game Hack ’95 to be published by PQube",
+   "summary": "PQube will publish Village Studio-developed card-based hacking adventure game Hack ’95 when it launches for …",
+   "content": "PQube will publish Village Studio-developed card-based hacking adventure game Hack ’95 when it launches for … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hack-95_11-26-26.jpg",
+   "ts": 1795705653.7436655
+  },
+  "f842ca61b818": {
+   "url": "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city",
+   "source": "Eurogamer",
+   "title": "We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says",
+   "summary": "Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI saturation whereby game-makers are starting to counter-promote games as being human-made. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795705655.2944474
+  },
+  "4f63fd399d43": {
+   "url": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch",
+   "source": "Gematsu",
+   "title": "Retail Hell coming to PS5, Xbox Series, and Switch",
+   "summary": "Publisher Feardemic and developer LEAP Game Studios will release simulation horror game Retail Hell for …",
+   "content": "Publisher Feardemic and developer LEAP Game Studios will release simulation horror game Retail Hell for … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Retail-Hell_11-26-26.jpg",
+   "ts": 1795705656.8318822
+  },
+  "7409ffe443a2": {
+   "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
+   "source": "VGC",
+   "title": "Despite being a code in a box, GTA 6’s physical release broke sales records",
+   "summary": "Across Europe, GTA 6 has enjoyed one of the most successful physical launches of all time",
+   "content": "Across Europe, GTA 6 has enjoyed one of the most successful physical launches of all time… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/06/gta6box.jpg",
+   "ts": 1795705658.390994
+  },
+  "60730915b520": {
+   "url": "https://www.polygon.com/gta-6-ocarina-of-time-layoffs/",
+   "source": "Polygon",
+   "title": "The One Reason Nintendo and Rockstar Can Make Games Like Ocarina of Time and GTA 6",
+   "summary": "GTA 6 and the Zelda: Ocarina of Time remake are proof of the value of retaining talent long-term",
+   "content": "Though wildly different in tone and scope, both Rockstar Games’ Grand Theft Auto 6 and Nintendo’s remake of The Legend of Zelda: Ocarina of Time exemplify the craft of making video games at its finest. Each one is redolent with attention to detail. Whether it’s the achingly nostalgic aesthetic of Ocarina or Rockstar’s Borg-like hive-mind of interconnected gameplay systems, there is a staggering amount of talent and dedication on display in these games. There are the kinds of endeavors that take years to pull off — and a company dedicated to helping its employees learn and grow over time. These are not the sort of games that can be produced by a company that lays people off every six months.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+   "ts": 1795705660.0230072
   }
  },
- "updated_at": "2026-11-26T14:11:28Z"
+ "updated_at": "2026-11-26T15:11:35Z"
 }
