@@ -242,7 +242,7 @@ def send_card(tg: Telegram, item: rf.NewsItem, tri: dict) -> int:
     caption = (
         f"<b>{esc(title)}</b>\n\n{esc(tri.get('ozet_tr') or item.summary[:250])}{game}\n\n"
         f"📰 <b>Kaynak:</b> {esc(item.source)} · <a href=\"{esc(item.url)}\">habere git</a>"
-    )[:1020]
+    )[:920] + "\n<i>↩️ Sonra hazırlatmak için bu karta «hazırla» yazarak yanıt ver.</i>"
     markup = card_buttons(item.id)
     image = item.image
     if not image:
@@ -379,29 +379,71 @@ def handle_callback(tg: Telegram, ai, cfg, state, cq: dict) -> None:
         tg.answer_callback(cq["id"], "Hazırlanıyor…")
         if tg.limited:  # boşa AI çağrısı yapma; buton sonraki çalıştırmada tekrar işlenecek
             return
-        tg.set_buttons(mid, [[("⏳ Hazırlanıyor…", "x:0")]])
-        try:
-            deliver_package(tg, ai, item["url"], item.get("source"), fallback=item, reply_to=mid)
-            tg.set_buttons(mid, [[("✅ Hazırlandı", "x:0")]])
-            state["pending"].pop(news_id, None)
-        except Exception as exc:
-            log(f"[PKG] hata: {exc}")
-            tg.set_buttons(mid, [[("🔁 Tekrar Dene", f"p:{news_id}"), ("⏭ Pas Geç", f"s:{news_id}")]])
-            tg.send_text(f"⚠️ Haber hazırlanamadı: <code>{esc(str(exc)[:300])}</code>", reply_to=mid)
+        prepare_pending(tg, ai, state, news_id, mid)
+
+
+def prepare_pending(tg: Telegram, ai, state, news_id: str, card_mid: int | None) -> None:
+    """Bekleyen bir haber kartı için içerik paketini üretir (buton veya karta 'hazırla' yanıtı)."""
+    item = state["pending"].get(news_id)
+    if not item:
+        return
+    tg.set_buttons(card_mid, [[("⏳ Hazırlanıyor…", "x:0")]])
+    try:
+        deliver_package(tg, ai, item["url"], item.get("source"), fallback=item, reply_to=card_mid)
+        tg.set_buttons(card_mid, [[("✅ Hazırlandı", "x:0")]])
+        state["pending"].pop(news_id, None)
+    except Exception as exc:
+        if tg.limited:
+            raise
+        log(f"[PKG] hata: {exc}")
+        tg.set_buttons(card_mid, [[("🔁 Tekrar Dene", f"p:{news_id}"), ("⏭ Pas Geç", f"s:{news_id}")]])
+        tg.send_text(f"⚠️ Haber hazırlanamadı: <code>{esc(str(exc)[:300])}</code>", reply_to=card_mid)
+
+
+PREPARE_WORDS = re.compile(r"^\s*(hazırla|hazirla|haz[ıi]rla|hazır|h|prep)\s*[.!]*\s*$", re.I)
+SKIP_WORDS = re.compile(r"^\s*(pas|pas geç|pas gec|geç|gec|skip)\s*[.!]*\s*$", re.I)
+
+
+def pending_id_for_card(state, card_mid: int) -> str | None:
+    for nid, item in state["pending"].items():
+        if item.get("msg") == card_mid:
+            return nid
+    for rec in reversed(state["sent"]):  # eski kayıtlar: kart mesaj no'su 'sent' listesinde
+        if rec.get("msg") == card_mid and rec.get("id") in state["pending"]:
+            return rec["id"]
+    return None
 
 
 def handle_message(tg: Telegram, ai, cfg, state, msg: dict) -> None:
+    """Grup mesajı veya kanal gönderisi (channel_post)."""
     if str((msg.get("chat") or {}).get("id")) != tg.chat_id:
         return
     sender = msg.get("from") or {}
     if sender.get("is_bot"):
         return
     allowed = [str(u) for u in cfg.get("allowed_user_ids") or []]
-    if allowed and str(sender.get("id")) not in allowed:
+    if allowed and sender and str(sender.get("id")) not in allowed:
         return
     text = msg.get("text") or msg.get("caption") or ""
     if text.strip().lower().startswith("/ping"):
         tg.send_text("🏓 PARALAKS haber masası çalışıyor.", reply_to=msg["message_id"])
+        return
+
+    # Bir habere kartına "hazırla" / "pas" diye yanıt: butonun kalıcı alternatifi
+    reply = (msg.get("reply_to_message") or {}).get("message_id")
+    if reply and (PREPARE_WORDS.match(text) or SKIP_WORDS.match(text)):
+        news_id = pending_id_for_card(state, reply)
+        if not news_id:
+            tg.send_text("ℹ️ Bu kartın kaydı bulunamadı (hazırlanmış, pas geçilmiş ya da süresi dolmuş olabilir).",
+                         reply_to=msg["message_id"])
+            return
+        if SKIP_WORDS.match(text):
+            log(f"[YANIT] Pas Geç: {state['pending'][news_id].get('title', '')[:80]}")
+            tg.set_buttons(reply, [[("⏭ Pas geçildi", "x:0")]])
+            state["pending"].pop(news_id, None)
+            return
+        log(f"[YANIT] Hazırla: {state['pending'][news_id].get('title', '')[:80]}")
+        prepare_pending(tg, ai, state, news_id, reply)
         return
     urls = []
     for ent in (msg.get("entities") or []) + (msg.get("caption_entities") or []):
@@ -429,15 +471,16 @@ def process_updates(tg: Telegram, ai, cfg, state, wait: int = 0) -> int:
     updates = tg.call("getUpdates", {
         "offset": state.get("telegram_offset", 0) or None,
         "timeout": wait,
-        "allowed_updates": ["message", "callback_query"],
+        # channel_post: PARALAKS Haber bir kanal; kanal gönderileri (link, "hazırla" yanıtı) bu türde gelir
+        "allowed_updates": ["message", "channel_post", "callback_query"],
     }, timeout=wait + 20)
     for upd in updates:
         state["telegram_offset"] = upd["update_id"] + 1
         try:
             if "callback_query" in upd:
                 handle_callback(tg, ai, cfg, state, upd["callback_query"])
-            elif "message" in upd:
-                handle_message(tg, ai, cfg, state, upd["message"])
+            elif "message" in upd or "channel_post" in upd:
+                handle_message(tg, ai, cfg, state, upd.get("message") or upd["channel_post"])
         except Exception as exc:
             log(f"[TG] güncelleme işlenemedi: {exc}")
         if tg.limited:
@@ -517,7 +560,7 @@ def run_rss(tg: Telegram, ai, cfg, state) -> None:
                                   "game": tri.get("oyun", ""), "event": tri.get("olay", ""), "msg": mid})
             state["pending"][it.id] = {"url": it.url, "source": it.source, "title": it.title,
                                        "summary": it.summary, "content": it.content[:4000],
-                                       "image": it.image, "ts": time.time()}
+                                       "image": it.image, "ts": time.time(), "msg": mid}
             time.sleep(1.2)  # Telegram grup limiti: ~20 mesaj/dk
         if start + batch < len(fresh):
             time.sleep(cfg.get("ai_pause_seconds", 5))
@@ -545,7 +588,9 @@ def run_test(tg: Telegram, ai, cfg) -> None:
         log("[TEST] Aktif webhook kaldırıldı (getUpdates için gerekli) ✓")
     chat = tg.call("getChat", {"chat_id": tg.chat_id})
     log(f"[TEST] Grup: {chat.get('title') or chat.get('id')} ✓")
-    if chat.get("type") in ("group", "supergroup") and not me.get("can_read_all_group_messages"):
+    if chat.get("type") == "channel":
+        log("[TEST] Sohbet bir KANAL: bot'un kanalda yönetici olması yeterli (gizlilik ayarı kanalları etkilemez)")
+    elif chat.get("type") in ("group", "supergroup") and not me.get("can_read_all_group_messages"):
         log("[TEST] ⚠️ Gizlilik modu AÇIK: bot gruba yapıştırdığınız linkleri göremez. "
             "BotFather -> /setprivacy -> Disable yapın ya da botu grupta yönetici yapın.")
     res = ai.generate_json('Yalnızca {"durum": "..."} biçiminde JSON döndür.',
