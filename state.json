@@ -283,7 +283,11 @@
   "39b6790f89ed": 1795686069.2483609,
   "cc4aca128376": 1795686119.1773005,
   "bf070608b97f": 1795686119.1773317,
-  "41a4868bd4a5": 1795689827.2857482
+  "41a4868bd4a5": 1795689827.2857482,
+  "49b9da034e2f": 1795693272.3072388,
+  "6ab5dc6e0c29": 1795693405.6699805,
+  "4344ab89d4a2": 1795693407.2520347,
+  "1565fff72504": 1795693407.2521257
  },
  "sent": [
   {
@@ -1383,6 +1387,24 @@
    "game": "Grand Theft Auto 6",
    "event": "gta 6 boosts ps5 and xbox series sales in us",
    "msg": 614
+  },
+  {
+   "id": "6ab5dc6e0c29",
+   "ts": 1795693406.0519109,
+   "source": "Eurogamer",
+   "title": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+   "game": "World of Warcraft: Forever",
+   "event": "blizzard adjusts battleground to stop power grinding",
+   "msg": 615
+  },
+  {
+   "id": "1565fff72504",
+   "ts": 1795693407.6246097,
+   "source": "VGC",
+   "title": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
+   "game": "",
+   "event": "ken kutaragi intended to convince microsoft to make xbox",
+   "msg": 616
   }
  ],
  "pending": {
@@ -2447,7 +2469,25 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795686119.7420537
+  },
+  "6ab5dc6e0c29": {
+   "url": "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched",
+   "source": "Eurogamer",
+   "title": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+   "summary": "Many World of Warcraft: Forever players are currently in the midst of a substantial PvP reputation grind. However, this process has been disrupted due to a sudden change to one of the game's battleground PvP arenas. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/world-of-warcraft-alterac-valley.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795693406.0519147
+  },
+  "1565fff72504": {
+   "url": "https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/",
+   "source": "VGC",
+   "title": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
+   "summary": "Ken Kutaragi claims partial credit for Microsoft’s decision to launch Xbox",
+   "content": "Ken Kutaragi claims partial credit for Microsoft’s decision to launch Xbox… Source",
+   "image": "https://www.videogameschronicle.com/files/2024/09/Ken-Kutaragi.jpg",
+   "ts": 1795693407.624614
   }
  },
- "updated_at": "2026-11-26T10:47:41Z"
+ "updated_at": "2026-11-26T11:47:23Z"
 }
