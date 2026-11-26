@@ -287,7 +287,10 @@
   "49b9da034e2f": 1795693272.3072388,
   "6ab5dc6e0c29": 1795693405.6699805,
   "4344ab89d4a2": 1795693407.2520347,
-  "1565fff72504": 1795693407.2521257
+  "1565fff72504": 1795693407.2521257,
+  "d530b8818326": 1795697531.5873685,
+  "768e5600b73c": 1795697531.5874004,
+  "6a761dfe8ca1": 1795697533.1659493
  },
  "sent": [
   {
@@ -1405,6 +1408,24 @@
    "game": "",
    "event": "ken kutaragi intended to convince microsoft to make xbox",
    "msg": 616
+  },
+  {
+   "id": "768e5600b73c",
+   "ts": 1795697531.9658375,
+   "source": "Eurogamer",
+   "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+   "game": "",
+   "event": "ubisoft mandates generative ai use for new game projects",
+   "msg": 617
+  },
+  {
+   "id": "6a761dfe8ca1",
+   "ts": 1795697533.4988046,
+   "source": "Eurogamer",
+   "title": "Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead",
+   "game": "",
+   "event": "steam hosts games without ai event",
+   "msg": 618
   }
  ],
  "pending": {
@@ -2487,7 +2508,25 @@
    "content": "Ken Kutaragi claims partial credit for Microsoft’s decision to launch Xbox… Source",
    "image": "https://www.videogameschronicle.com/files/2024/09/Ken-Kutaragi.jpg",
    "ts": 1795693407.624614
+  },
+  "768e5600b73c": {
+   "url": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
+   "source": "Eurogamer",
+   "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+   "summary": "Ubisoft is clearly serious about implementing generative-AI deeply into the game development process. The French publisher now expects teams pitching new project ideas to be prepared to explain how gen-AI will help with developing the game.Teams who don't want to use gen-AI will need to clearly justify their reasoning to the higher-ups. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/Screenshot-2025-01-27-152746.png?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795697531.9658475
+  },
+  "6a761dfe8ca1": {
+   "url": "https://www.eurogamer.net/games-without-ai-steam-event",
+   "source": "Eurogamer",
+   "title": "Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead",
+   "summary": "Yesterday, a new Steam event went live that claims all games featured in it have avoided AI entirely during development. The event, called 'Games Without AI', has been set up by a third party rather than Valve - by Dev Land Marketing, All Ages Of Geek, and Dark Cocooning - to \"support real creators\" and runs from 25th November to 6th December. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795697533.4988086
   }
  },
- "updated_at": "2026-11-26T11:47:23Z"
+ "updated_at": "2026-11-26T12:56:09Z"
 }
