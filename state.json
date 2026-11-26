@@ -312,7 +312,16 @@
   "f842ca61b818": 1795705654.9437532,
   "4f63fd399d43": 1795705656.4945614,
   "7409ffe443a2": 1795705658.032006,
-  "60730915b520": 1795705659.5911045
+  "60730915b520": 1795705659.5911045,
+  "f84558de24d1": 1795709215.0161152,
+  "6f2332e9a001": 1795709262.9106796,
+  "592086181c5d": 1795709264.5322337,
+  "1bc582e3cba2": 1795709266.13203,
+  "3c1609e390a0": 1795709267.720501,
+  "218fddb39c33": 1795709269.3131933,
+  "68bd172f94bc": 1795709270.9249694,
+  "0a0783cb3faf": 1795709270.9250612,
+  "963b96fb6b75": 1795709272.5768514
  },
  "sent": [
   {
@@ -1592,6 +1601,69 @@
    "game": "",
    "event": "analysis on long term talent retention in game development",
    "msg": 634
+  },
+  {
+   "id": "6f2332e9a001",
+   "ts": 1795709263.3321323,
+   "source": "IGN",
+   "title": "GTA 6's Cartel Heist Might Be Rockstar's Best Ever Mission, But Only If You Do It Badly",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 cartel heist mission details",
+   "msg": 635
+  },
+  {
+   "id": "592086181c5d",
+   "ts": 1795709264.9319422,
+   "source": "IGN",
+   "title": "Watching TV in GTA 6 Is More Depressing Than Fun, Except for One Show",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 tv shows and entertainment analysis",
+   "msg": 636
+  },
+  {
+   "id": "1bc582e3cba2",
+   "ts": 1795709266.520397,
+   "source": "IGN",
+   "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 fast atm robbery method found",
+   "msg": 637
+  },
+  {
+   "id": "3c1609e390a0",
+   "ts": 1795709268.113103,
+   "source": "Gematsu",
+   "title": "Thrifty Business for Switch now available",
+   "game": "Thrifty Business",
+   "event": "thrifty business switch version released",
+   "msg": 638
+  },
+  {
+   "id": "218fddb39c33",
+   "ts": 1795709269.7248304,
+   "source": "VGC",
+   "title": "75% of Rockstar’s workers have voted against a union deal",
+   "game": "",
+   "event": "rockstar games employees vote against union",
+   "msg": 639
+  },
+  {
+   "id": "0a0783cb3faf",
+   "ts": 1795709271.3767638,
+   "source": "Eurogamer",
+   "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 breaks massive livestreaming records",
+   "msg": 640
+  },
+  {
+   "id": "963b96fb6b75",
+   "ts": 1795709272.9777713,
+   "source": "Gematsu",
+   "title": "HARK THE GHOUL launches January 21, 2027 for PS5, Xbox Series, Switch 2, Switch, and PC",
+   "game": "HARK THE GHOUL",
+   "event": "hark the ghoul release date announced",
+   "msg": 641
   }
  ],
  "pending": {
@@ -2836,7 +2908,70 @@
    "content": "Though wildly different in tone and scope, both Rockstar Games’ Grand Theft Auto 6 and Nintendo’s remake of The Legend of Zelda: Ocarina of Time exemplify the craft of making video games at its finest. Each one is redolent with attention to detail. Whether it’s the achingly nostalgic aesthetic of Ocarina or Rockstar’s Borg-like hive-mind of interconnected gameplay systems, there is a staggering amount of talent and dedication on display in these games. There are the kinds of endeavors that take years to pull off — and a company dedicated to helping its employees learn and grow over time. These are not the sort of games that can be produced by a company that lays people off every six months.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
    "ts": 1795705660.0230072
+  },
+  "6f2332e9a001": {
+   "url": "https://www.ign.com/articles/gta-6s-cartel-heist-might-be-rockstars-best-ever-mission-chapter-3-explained",
+   "source": "IGN",
+   "title": "GTA 6's Cartel Heist Might Be Rockstar's Best Ever Mission, But Only If You Do It Badly",
+   "summary": "GTA 6's chapter three heist might be Rockstar's best ever mission, but only if you do it badly.",
+   "content": "Warning: This article contains spoilers for chapter three of GTA 6. Chapter 3 of GTA 6 ends with a bang. It’s arguably Rockstar’s greatest ever mission and a culmination of every bank job the developer has designed since GTA 4’s Three Leaf Clover burst onto the scene. A daring raid on the Sinfrontera National Bank in downtown Vice City, what starts out as a slick operation quickly goes haywire, resulting in shootouts with armored police, helicopters chasing a bus that has had the roof ripped off, and the death of one of your gang members. The funny thing is, you may be reading that and thinking that’s not what happened to you at all. That’s because the back half of The Cartel Heist can go in wildly different directions. You can do it much more cleanly, but it’s nowhere near as fun. Sorry, Nicole. A lot has to go in your favour to execute the perfect heist. Making sure you correctly prep is key, meaning you’ll have to extract all of the info possible out of Monty when he’s dangling over reptilian teeth, protect Pete’s shipment of weapons correctly, and plant enough explosives on the cell towers. Then there’s also everything you have to get going your way inside the mission itself, which is mainly tied to not wasting time and nailing the vault minigame. You can get the full details on everything you’ll need to do, step-by-step, on our excellent guides page . Nail it, and your getaway driver will turn up as planned by the underground entrance; you’ll load up the truck with stacks of cash and simply drive off undetected. There are obvious benefits to doing this. Not only is there the satisfaction of pulling off such a complex job cleanly, but you’ll earn $150,000 from it, rather than the $100,000 you’d otherwise get, plus Nicole, your charming safecracking tutor, will survive. What you will miss out on, though, is one of Rockstar’s finest blockbuster sequences. It makes Three Leaf Clover firmly look like the first draft that it was back in 2008. The path truly branches once you leave the bank’s vault, but in all truth, your fate has likely been long sealed by that point. You’ll have needed to keep a keen eye on your time in the bottom right corner and have made sure all ten bundles of bills have been secured by the time the alarm goes off and all hell breaks loose. That’s when things kick up a notch, and legions of Vice City police and NOOSE enforcers turn up at the front doors. A lobby shootout commences, with enemies turning up from all directions in an effort to stop you from leaving with your haul. It's a fantastic encounter that borders on sensory overload thanks to the rattle of gunfire, thick smoke, and blaring alarms. The slick transitions between characters only add to the sense of cinema, with Lucia throwing a smoke grenade launcher up to the balcony for Jason to catch, punctuated by a highly satisfying second or two of slow motion. This elegantly moves the action onto the streets, allowing you to get a glimpse of the full challenge awaiting you and your gang outside. Michael Mann’s Heat has long been an influence on Grand Theft Auto, but never has the sensation of watching the movie’s signature heist been replicated as well as it has here. It makes Three Leaf Clover firmly look like the first draft that it was back in 2008. As the fight moves outdoors, Raul’s backup plan comes to fruition with Karim arriving behind the wheel of a public bus. Up to this point in GTA 6’s story, the heist leader has remained a mysterious presence, slinking in and out of scenes with an undeniable air of cool. It’s not until now, though, that we get to see him in full flow, leading with calm authority. He’s quickly become one of my favourite characters across the whole Grand Theft Auto series — embodying the swagger and ruthless execution of a lusciously long-maned Danny Ocean. Of course, it would all be too simple for everyone to walk onto the bus and drive off into the sunset. Lucia, Raul, Andrea, and Karim all make it on board, but have t",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/heist-blog-1795698388839.jpg",
+   "ts": 1795709263.3321412
+  },
+  "592086181c5d": {
+   "url": "https://www.ign.com/articles/watching-tv-in-gta-6-is-more-depressing-than-fun-except-for-one-show",
+   "source": "IGN",
+   "title": "Watching TV in GTA 6 Is More Depressing Than Fun, Except for One Show",
+   "summary": "GTA 6's TV content is impressive on a technical level, but apart from one standout show, it's not all that fun to actually watch.",
+   "content": "It seems there’s almost nothing you can’t do in Grand Theft Auto VI, other than solicit prostitutes . Far more than just being a murder and crime spree simulator, the game allows you to kick back and do everything from play basketball to remodel your house to work out at the gym. And yes, that long list of side activities includes watching television. GTA 6 includes multiple channels of original programming , featuring everything from breaking Vice City news reports to Adult Swim-style animated sitcoms to cheesy telenovelas. As with so much about the new game, the level of detail Rockstar undertook here is impressive. But despite all that, I found that actually sitting down to watch TV in-game wasn’t quite the entertaining experience I was hoping for. If anything, it was a little depressing. Weazel News: Satire or Sad Reality? To recap, there are three live TV channels in GTA 6 - the Fox News-spoofing Weazel News, the Telemundo parody Megamundo, and the travel-focused Visit Leonida. For the purposes of this piece, I’m mostly focusing on the former channel. Megamundo is a fun sendup of traditional Spanish-language soap operas, but not having any real attachment to that genre, it’s a joke that only has so much mileage for me. And Visit Leonida is definitely the most limited of the three channels. With Weazel News, you have a smorgasbord of faux-TV content, all of which focuses on lampooning the right-wing news sector, reality TV, and general American culture. This stream cycles through various breaking news reports, a mockumentary-style series called “The Tyrone Show,” and several different animated sitcoms. And commercials. Dozens and dozens of satirical commercials for all sorts of in-universe products and services. Initially, you can’t help but sit back and admire the sheer effort that went into making all this content. The TV channels are a very minor feature in the game, and I’m sure many people won’t even really pay attention to them amid all the other countless side activities. The simple fact that you can spend literal hours just sitting in front of a fake TV and not really see any repeat content is impressive. But once the initial novelty wears off, watching TV isn’t what I’d describe as one of the more rewarding pastimes in GTA 6. Weazel News actually left me feeling a bit stressed out and unhappy after a while. It was hard to put my finger on it at first, but I think what it comes down to is that the political and social satire hits a little too close to home. For a Scottish-based studio, Rockstar North is generally pretty adept at satirizing American culture with these games - whether it’s remixing the best elements of classic crime films or lampooning the average American’s love of fast food, beer, and guns. You get a heaping helping of all of that with Weazel TV, particularly in the many faux-commercials where colorful characters hawk various brands of alcohol or campaign for a missile launcher in every home or what have you. The problem is that this material no longer feels as outlandish as it once might have. The sad truth is that real life in the US moved beyond parody at some point in the last 10-15 years. It’s something that a lot of sources of satire have dealt with lately, from South Park to The Onion. How do you top reality when reality has become so unhinged and unbelievable? GTA’s TV content is in the same boat. A lot of it doesn’t feel particularly far removed from reality anymore. There really are people unironically spouting the same kind of jingoistic nonsense you see in these fake commercials. Between extreme right-wing news channels and the digital hellscape that is social media, there’s a real cultural brain rot that’s taken hold. Watching Weazel TV is more an uncomfortable reminder of where we are as a society than a truly unbelievable parody. That’s part of it, anyway. The other issue is that some of the Weazel TV humor feels a bit unnecessarily mean-spirited, particularly anything involving the ",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/mixcollage-25-nov-2026-04-48-pm-3970-1795644000393.jpg",
+   "ts": 1795709264.9319468
+  },
+  "1bc582e3cba2": {
+   "url": "https://www.ign.com/articles/robbing-gta-6-atms-quickly",
+   "source": "IGN",
+   "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+   "summary": "Somewhere around the middle of GTA 6 you unlock the ability to rob ATMs. Any ATM marked green can be pulled out of the wall and cracked open.",
+   "content": "Warning! Potential spoilers for GTA 6 follow. Somewhere around the middle of GTA 6 you unlock the ability to rob ATMs. Any ATM marked green can be pulled out of the wall and cracked open (check out IGN's guide to all ATM locations in GTA 6 if you need help finding one). First, though, you need to be able to deal with marked bills through a fence called Yasmini, otherwise the money inside the ATM is worthless and a dye pack will explode in your face. When I got to snatching ATMs, I thought it was cool, but the juice didn’t seem worth the squeeze. It’s kinda hard to keep things on the downlow when you’re backing a truck up to an ATM, ripping it out of a wall, and tearing down the street with the thing still attached, hoping it’ll burst open and spill its contents onto the street. And when it finally does break open, you have to shoot the money drawers open to get to the goods inside — all for a payout between $6,000-$10,000. It wasn’t worth the effort, honestly. But there’s a new trick players have discovered to crack those eggs immediately and move onto the next before the cops even know you’re there. I’ve tried it, and like Todd Howard famously once said: it just works. How to quickly steal an ATM in GTA 6 Here’s what you do. First, you need a truck or other heavy vehicle with a winch attachment at the back. You reverse up to the ATM like normal, and the winch connects to the machine. Now drive forward until the line is taut. From there, get out of your vehicle and walk up to the ATM with a C4 charge. Hold down aim, and a prompt to place it on the ATM should show up, allowing you to set it on the front with Circle/B. Or throw it at the front of the machine — whatever works. Once it’s in place, you want to get back in your car and accelerate hard. When it pulls out of the wall, keep dragging it but immediately press unhook, followed by the same button to detonate your charge. It’s important these two actions happen immediately after each other, because the ATM needs to be moving when the explosion happens or the drawers can stay inside the machine. Done correctly, you can walk over and scoop up the cash and escape before the cops even arrive at the scene. They’ll still be figuring out what happened while you’re hooking up to the next machine, pulling, and sparking up a Cuban. If you need more C4, there’s a free stash of the stuff in the back of Yasmani’s. You can also top up at any Ammunation. A Simple Trick for Faster ATM Robberies GTA 6 https://t.co/lo6aWdupew — LUCKY (@Badboy1B) November 25, 2026 Players have been trying to find ways to make quick money in GTA 6 since launch, but most of them are boring exploits. This, though, I can get onboard with because it’s just playing the game as intended in an efficient way, and it’s great fun to slip in and out without the cops getting a whiff of you. We’ve got the Official Grand Theft Auto 6 guide here on IGN, complete with comprehensive walkthroughs up to Chapter 4 , guides for the Optional Missions and Illegal Operations you’ll find in Leonida, and much more. Just getting started in Chapter 1 ? Check out our Beginner's Guide - 67 Tips and Tricks , and make a note of the Best Free Weapons to Find Early . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-12-1795702599377.jpg",
+   "ts": 1795709266.5204003
+  },
+  "3c1609e390a0": {
+   "url": "https://www.gematsu.com/2026/11/thrifty-business-for-switch-now-available",
+   "source": "Gematsu",
+   "title": "Thrifty Business for Switch now available",
+   "summary": "The Switch version of cozy thrift shop management game Thrifty Business is now available for …",
+   "content": "The Switch version of cozy thrift shop management game Thrifty Business is now available for … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Thrifty-Business-Switch_11-24-26.jpg",
+   "ts": 1795709268.1131067
+  },
+  "218fddb39c33": {
+   "url": "https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/",
+   "source": "VGC",
+   "title": "75% of Rockstar’s workers have voted against a union deal",
+   "summary": "The workers rejected a deal that would recognize the Rockstar Game Workers Union",
+   "content": "The workers rejected a deal that would recognize the Rockstar Game Workers Union… Source",
+   "image": "https://www.videogameschronicle.com/files/2025/11/Screenshot-2025-11-12-175145.jpg",
+   "ts": 1795709269.7248342
+  },
+  "0a0783cb3faf": {
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+   "source": "Eurogamer",
+   "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+   "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch , YouTube, and Kick. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795709271.376767
+  },
+  "963b96fb6b75": {
+   "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+   "source": "Gematsu",
+   "title": "HARK THE GHOUL launches January 21, 2027 for PS5, Xbox Series, Switch 2, Switch, and PC",
+   "summary": "Dungeon crawler HARK THE GHOUL will launch for PlayStation 5, Xbox Series, Switch 2, Switch, …",
+   "content": "Dungeon crawler HARK THE GHOUL will launch for PlayStation 5, Xbox Series, Switch 2, Switch… Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hark-Ghoul_11-26-26.jpg",
+   "ts": 1795709272.9777749
   }
  },
- "updated_at": "2026-11-26T15:11:35Z"
+ "updated_at": "2026-11-26T16:11:48Z"
 }
