@@ -344,7 +344,9 @@
   "f66b9317cb14": 1795719674.6319697,
   "5a5e8e08025f": 1795719896.7800941,
   "30adb5fc353f": 1795719898.4114347,
-  "1cf8f1f66ff5": 1795719900.0564451
+  "1cf8f1f66ff5": 1795719900.0564451,
+  "87447f573558": 1795723702.5292125,
+  "3fda6074280a": 1795724058.9770133
  },
  "sent": [
   {
@@ -1804,6 +1806,15 @@
    "game": "",
    "event": "team ninja uses ai for qa workflow",
    "msg": 654
+  },
+  {
+   "id": "3fda6074280a",
+   "ts": 1795724059.4274867,
+   "source": "Eurogamer",
+   "title": "The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and \"various lighting issues\"",
+   "game": "The Witcher 3: Wild Hunt",
+   "event": "the witcher 3 new patch adds cross-platform mods and fixes bugs",
+   "msg": 655
   }
  ],
  "pending": {
@@ -3228,7 +3239,16 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/nioh-3-gameplay-screen-6.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795719898.8562694
+  },
+  "3fda6074280a": {
+   "url": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs",
+   "source": "Eurogamer",
+   "title": "The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and \"various lighting issues\"",
+   "summary": "Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, which squashes dozens of bugs and adds 40 cross-platform mods with \"more on the way.\" Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795724059.4274907
   }
  },
- "updated_at": "2026-11-26T19:08:54Z"
+ "updated_at": "2026-11-26T20:18:15Z"
 }
