@@ -331,7 +331,16 @@
   "efa259c97c67": 1795713301.9202478,
   "b07d389dfe0a": 1795713303.432781,
   "46086f83d325": 1795713304.9600303,
-  "e4d380bf362b": 1795713306.4801388
+  "e4d380bf362b": 1795713306.4801388,
+  "2319aa08ff10": 1795716491.7891915,
+  "af3e183395b4": 1795716491.7892277,
+  "0b17d9f6721a": 1795716491.7892406,
+  "b1b188e9d883": 1795716491.7892487,
+  "65d0d42d3ca1": 1795716493.379696,
+  "a4b20c53118e": 1795716494.9790761,
+  "50554f1f9975": 1795716494.9791474,
+  "bb132cd26f7a": 1795716494.9791648,
+  "0cacc6366dda": 1795716628.2024367
  },
  "sent": [
   {
@@ -1746,6 +1755,33 @@
    "game": "Grand Theft Auto VI",
    "event": "powerwash simulator developers talk about gta 6 powerwashing",
    "msg": 649
+  },
+  {
+   "id": "b1b188e9d883",
+   "ts": 1795716492.1795595,
+   "source": "IGN",
+   "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+   "game": "Grand Theft Auto VI",
+   "event": "rockstar explains missing violent weapons in gta 6",
+   "msg": 650
+  },
+  {
+   "id": "65d0d42d3ca1",
+   "ts": 1795716493.7789836,
+   "source": "IGN",
+   "title": "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
+   "game": "Grand Theft Auto VI",
+   "event": "github celebrates anyps5 repo after gta 6 launch",
+   "msg": 651
+  },
+  {
+   "id": "bb132cd26f7a",
+   "ts": 1795716495.3484254,
+   "source": "Polygon",
+   "title": "Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 side characters that steal the show",
+   "msg": 652
   }
  ],
  "pending": {
@@ -3125,7 +3161,34 @@
    "content": "",
    "image": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795713306.8138087
+  },
+  "b1b188e9d883": {
+   "url": "https://www.ign.com/articles/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing",
+   "source": "IGN",
+   "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
+   "summary": "Rockstar has explained why some extra violent weapons like chainsaws and katanas are missing from GTA 6.",
+   "content": "You can commit an extreme amount of violence in GTA 6 , with a wide variety of weaponry. Guns, baseball bats, even tanks can be your chosen tool of destruction. But that hasn’t stopped some from wondering where some series favourites have disappeared to. Among those are the likes of katanas and chainsaws, which were staples during Grand Theft Auto’s “3D universe” games, including Vice City and San Andreas. The chainsaw, in particular, holds a special connection to Vice City given its clear Scarface inspirations, and memorable scene involving the power tool from the 1983 movie. But despite some being spotted around the latest version of Leonida in GTA 6, neither Jason nor Lucia can wield them as weapons. Why? Well, Rockstar co-studio head Rob Nelson explained the decision in an interview with VGC . “As far as the chainsaw — I think it would have been too much for this game at this resolution and these characters,” Nelson says. \"It’s not a resource thing. Even at the most psycho, did Jason and Lucia really need that — what’s that going to look like?” When asked specifically about why chainsaws are lying about the world, but can’t be picked up, Nelson explained that, “you’re always trying to find what is the right sort of line and the right balance; it really just depends — you want to feel like you can interact with as much of the world as possible.” I have to somewhat agree that it just wouldn’t feel like it fit either Jason or Lucia’s characters to be roaming around looking for limbs to chop off with a mechanised serrated blade. Ultimately, their story is one about committing crime to escape to a better, more “normal” life, not one about two psychopaths with a lust for blood going on a rampage. That being said, when whatever the online component of GTA 6 launches, I could see objects like this becoming weapons, allowing for people to roleplay as whatever brand of criminal, psychopath, or tree sculptor they wish. There’s a world of possibilities out there. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-15-1795709349508.jpg",
+   "ts": 1795716492.179565
+  },
+  "65d0d42d3ca1": {
+   "url": "https://www.ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft",
+   "source": "IGN",
+   "title": "Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet",
+   "summary": "In a post that’s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo “passing 58k stars” from users on the platform as a result of the launch of GTA 6. GitHub even told followers \"Happy GTA VImas!\" in a tweet that will almost certainly have infurated Rockstar Games, parent company Take-Two, PlayStation, and Xbox.",
+   "content": "In a post that’s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo “passing 58k stars” from users on the platform as a result of the launch of GTA 6. GitHub even told followers \"Happy GTA VImas!\" in a tweet that will almost certainly have infurated Rockstar Games, parent company Take-Two, PlayStation, and Xbox. “GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on GitHub,” the post said, before jumping into celebrating the repo. “Does changing where games run cross a legal line?” the tweet asked. This is insane https://t.co/mwU6VIy1nI — MVG (@ModernVintageG) November 26, 2026 There was also an official video attached to the tweet, which highlighted a post from an AnyPS5 coder, via Kotaku . The post in the video said: “We have 3 days until GTA 6 everyone[…]get your agents or deevs[sic] and work.” While the post could easily be the work of a rogue social media person, the optics aren’t good at all. GTA 6 is only officially available on PS5 and Xbox Series X and S, so both Sony and Microsoft have benefited greatly from the game's record-breaking launch. To see a the Microsoft-owned GitHub post a message to its followers essentially encouraging potential piracy is remarkable. IGN has asked for comment, but GitHub obviously realized its mistake — it deleted the tweet, after all — but how it even got approved in the first place is a mystery until the company comments. Take-Two is currently working to take down various homebrew community efforts from GitHub, as the race to release an unofficial GTA 6 PC port heats up. This follows Cyberleek's alleged released of the executable file for the incomplete GTA 6 Xbox build they reportedly leaked the week prior. There’s even a website tracking the various attempts to recompile, emulate, or port the leaked Xbox Series build to PC. The big question for Take-Two is, can it do anything meaningful to stop a working, playable build of GTA 6 on PC from getting into people's hands? GitHub takedowns can only go so far, as the homebrew scenes uses AI to speed along development. Take-Two stands to make billions of dollars more from the official PC release of GTA 6, so any unofficial version is a significant business risk. In a recent interview with IGN sister site RPS , former Rockstar North technical director Obbe Vermeij said that Rockstar Games may be keen to port GTA 6 to PC as soon as possible , due to the explosion of AI-generated clones and ports. It's also worth noting that there is extra interest in a PC version of GTA 6 because the console versions target 30fps. The PC version, resumably, will run at 60fps or whatever frame rate your rig is capable of . Earlier this month, Strauss Zelnick, the boss of Take-Two, responded to the threat of AI-assisted reverse-engineering and decompilation of games in an interview with IGN. He said he was taking the issue seriously, and insisted that fans will prefer to play GTA 6 officially, with all its bells and whistles as Rockstar intended, over an unofficial PC version. Here’s the exchange: IGN: We've seen hackers using AI to clone games much faster than ever before, even try to jailbreak consoles. And there is some concern about this leading to potentially GTA 6 being made available on PC unofficially or places that you aren't releasing it. I was just wondering how much of a threat this is to your business? And, is there anything meaningful you can do about it? Strauss Zelnick: I don't think it’s a financial matter, in terms of a threat to our business. I do think it’s a creative matter. It's important to everyone, our developers and our consumers alike, to deliver the experience Rockstar envisions. And at the same time, of course, we protect our intellectual property vigilantly. So we are focused on these concerns. We're not in the least cavalier about them. Technology is advancing quickly. And at the same time, I do think that pretty much everyone wants the Rockst",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-21-1795712312400.jpg",
+   "ts": 1795716493.7789922
+  },
+  "bb132cd26f7a": {
+   "url": "https://www.polygon.com/gta-6-best-side-characters/",
+   "source": "Polygon",
+   "title": "Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In",
+   "summary": "Jason and Lucia aren’t GTA 6's only great characters, as these 5 have really endeared themselves to Polygon’s writers",
+   "content": "Although Jason and Lucia are the stars of Grand Theft Auto 6 and amazing characters in their own right, there are lots of side characters who steal the show whenever they show up. From folks critical to the main story path to weirdos you meet if you take the time to stop and chat with someone on the side of the road, GTA 6 constantly introduces wild, memorable characters almost every hour.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-brian-heder.jpg",
+   "ts": 1795716495.3484285
   }
  },
- "updated_at": "2026-11-26T17:19:02Z"
+ "updated_at": "2026-11-26T18:14:22Z"
 }
