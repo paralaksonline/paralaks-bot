@@ -269,7 +269,9 @@
   "4e009236c5f6": 1795646030.1918259,
   "c05caf0c7bc7": 1795649223.3886757,
   "6b03a8c53ae9": 1795649223.3886757,
-  "a1ad1410ab20": 1795652225.113143
+  "a1ad1410ab20": 1795652225.113143,
+  "99e215e677f9": 1795657480.3025835,
+  "4271e6207dc9": 1795657482.1152062
  },
  "sent": [
   {
@@ -1315,6 +1317,24 @@
    "game": "Exoprimal",
    "event": "capcom shutting down exoprimal in 2027",
    "msg": 608
+  },
+  {
+   "id": "99e215e677f9",
+   "ts": 1795657480.9150612,
+   "source": "IGN",
+   "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+   "game": "Grand Theft Auto 6",
+   "event": "spotify reveals massive spike in gta 6 music streams",
+   "msg": 609
+  },
+  {
+   "id": "4271e6207dc9",
+   "ts": 1795657482.6670306,
+   "source": "Gematsu",
+   "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition ‘Overview’ trailer",
+   "game": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+   "event": "xenoblade chronicles 3 switch 2 edition overview trailer",
+   "msg": 610
   }
  ],
  "pending": {
@@ -2325,7 +2345,25 @@
    "content": "Four years after the game's launch , Capcom is officially shutting down Exoprimal , the company's 5v5 action game about a futuristic dinosaur crisis. Capcom announced Tuesday that service for Exoprimal will be discontinued in September 2027 — meaning that Exoprimal will no longer be playable — and that the game will no longer be sold starting in March 2027.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ss_e86abd66a1098f48451d0659216b16c2a75f1b84-1920x1080.jpg",
    "ts": 1795646028.991714
+  },
+  "99e215e677f9": {
+   "url": "https://www.ign.com/articles/spotify-reveals-massive-spike-in-streams-for-music-featured-in-gta-6",
+   "source": "IGN",
+   "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+   "summary": "Spotify has released new data that shows huge spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song from over a decade ago.",
+   "content": "Spotify has released new data that shows huge spikes in streams for music featured in GTA 6 , including a Carly Rae Jepsen song from over a decade ago. In an email sent to IGN, Spotify revealed that the GTA 6 hype is inspiring listeners to add tons of music from the game to their playlists. In addition to hype for the original music created specifically for the game, such as Justice's Flower in a Hurricane, Carly Rae Jepsen's 2015 song Run Away With Me saw a 940% increase in streams following the game's release. The song plays during a pivotal moment in GTA 6's first chapter and is arguably one of the best sections in the game. Additionally, fans are listening to the official GTA 6 playlist en masse and are actively searching for things related to the game. You can view the full breakdown courtesy of Spotify below. Following the release of GTA 6, streams of Carly Rae Jepsen's “Run Away With Me” spiked on Nov. 24, increasing by 940% in the U.S. and 1,255% in Canada compared to its average streams. On Nov. 23, “Flower In A Hurricane” by Justice, Tame Impala, SZA and King Gizzard & the Lizard Wizard hit number 1 on BOTH Spotify’s Daily Top Songs charts globally and in the U.S. Streams of The Official Grand Theft Auto Playlist surged week over week, rising 275% globally and 355% in the U.S. (on Nov. 19 as compared to Nov. 12). GTA had fans searching for more. Searches containing “GTA,” “GTA6/VI” or “Grand Theft Auto” surged about 510% globally and 600% in the U.S. compared with the week prior (Nov. 19 vs. Nov. 12). GTA 6 has been shattering all kinds of records and setting new trends. The game had the biggest launch in the history of PlayStation and sold nearly $4 billion worth of copies in its first 24 hours , making it the highest-grossing entertainment launch of all time by a significant margin. The game has also set viewership records on platforms like Twitch , led to a massive increase in internet traffic , and so much more. It's a massive cultural moment that's likely not going to end anytime soon. Not only will this game likely get bigger, but it also has more big events on the horizon. It's also expected to release on PC early next year, and an online mode is also heavily speculated to come in the future. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/25/eb1fd55d-3234-4275-bf63-9d4b3c91e9d7-1795648223400.png",
+   "ts": 1795657480.9150677
+  },
+  "4271e6207dc9": {
+   "url": "https://www.gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer",
+   "source": "Gematsu",
+   "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition ‘Overview’ trailer",
+   "summary": "Publisher Nintendo and developer Monolith Soft have released a three-minute overview trailer for Xenoblade Chronicles …",
+   "content": "Publisher Nintendo and developer Monolith Soft have released a three-minute overview trailer for Xenoblade Chronicles … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Xenoblade-Chronicles-3-Nintendo-Switch-2-Edition_2026_11-25-26_002.jpg",
+   "ts": 1795657482.667035
   }
  },
- "updated_at": "2026-11-26T00:21:00Z"
+ "updated_at": "2026-11-26T01:48:39Z"
 }
