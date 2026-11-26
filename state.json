@@ -353,7 +353,8 @@
   "513a5f13696b": 1795730217.7277737,
   "43126273a1e6": 1795730219.326502,
   "f3e432c39e1a": 1795730220.9080822,
-  "a2e0aee92316": 1795730222.4641063
+  "a2e0aee92316": 1795730222.4641063,
+  "0967be1d254d": 1795733156.4964404
  },
  "sent": [
   {
@@ -1876,6 +1877,15 @@
    "game": "Star Trek: Voyager - Across the Unknown",
    "event": "star trek voyager across the unknown year of hell dlc",
    "msg": 664
+  },
+  {
+   "id": "0967be1d254d",
+   "ts": 1795733156.8965209,
+   "source": "VGC",
+   "title": "Rare co-founder reveals footage of cancelled Conker 64",
+   "game": "Conker 64",
+   "event": "cancelled conker 64 footage revealed",
+   "msg": 666
   }
  ],
  "pending": {
@@ -3363,7 +3373,17 @@
    "content": "One of the best two-episode arcs in Star Trek: Voyager , if not the entire Star Trek franchise, is the \"Year of Hell\" duology. The story from the show's fourth season pitted the crew of Voyager against a unique threat that tested their perseverance more than any previous enemy had.",
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/05/star-trek-voyager.jpg",
    "ts": 1795730222.798136
+  },
+  "0967be1d254d": {
+   "url": "https://www.videogameschronicle.com/news/rare-co-founder-reveals-footage-of-cancelled-conker-64/",
+   "source": "VGC",
+   "title": "Rare co-founder reveals footage of cancelled Conker 64",
+   "summary": "Rare's co-founder gives us a new look at Conker 64, before it became Conker's Bad Fur Day",
+   "content": "Rare's co-founder gives us a new look at Conker 64, before it became Conker' Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/Conker-64.jpg",
+   "ts": 1795733156.8965287,
+   "msg": 666
   }
  },
- "updated_at": "2026-11-26T22:00:58Z"
+ "updated_at": "2026-11-26T22:49:52Z"
 }
