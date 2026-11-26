@@ -278,7 +278,11 @@
   "7293b5883762": 1795664574.950585,
   "4017bdd97522": 1795664576.67035,
   "33432d486e6c": 1795672267.2289784,
-  "a4430136afc8": 1795672267.2289784
+  "a4430136afc8": 1795672267.2289784,
+  "8cc32232b4cc": 1795686069.2483609,
+  "39b6790f89ed": 1795686069.2483609,
+  "cc4aca128376": 1795686119.1773005,
+  "bf070608b97f": 1795686119.1773317
  },
  "sent": [
   {
@@ -1369,6 +1373,15 @@
    "game": "Funghi Days",
    "event": "funghi days announced for console",
    "msg": 613
+  },
+  {
+   "id": "bf070608b97f",
+   "ts": 1795686119.7420504,
+   "source": "Eurogamer",
+   "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+   "game": "Grand Theft Auto 6",
+   "event": "gta 6 boosts ps5 and xbox series sales in us",
+   "msg": 614
   }
  ],
  "pending": {
@@ -2424,7 +2437,16 @@
    "content": "SUCCESS Corporation has announced Funghi Days, a new console game in celebration of the Nameko … Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Funghi-Days-Ann_11-25-26.jpg",
    "ts": 1795664577.1702466
+  },
+  "bf070608b97f": {
+   "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+   "source": "Eurogamer",
+   "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+   "summary": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6 . Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795686119.7420537
   }
  },
- "updated_at": "2026-11-26T08:30:59Z"
+ "updated_at": "2026-11-26T09:45:55Z"
 }
