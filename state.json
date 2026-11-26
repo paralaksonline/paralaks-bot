@@ -321,7 +321,17 @@
   "218fddb39c33": 1795709269.3131933,
   "68bd172f94bc": 1795709270.9249694,
   "0a0783cb3faf": 1795709270.9250612,
-  "963b96fb6b75": 1795709272.5768514
+  "963b96fb6b75": 1795709272.5768514,
+  "96c04477ebdd": 1795713237.1375797,
+  "3cfaed8e60c2": 1795713237.1375797,
+  "bbf48198cfd0": 1795713295.829416,
+  "29db6cc294a1": 1795713297.3524077,
+  "af50b0c69262": 1795713298.8794632,
+  "33c7b839cb1c": 1795713300.395405,
+  "efa259c97c67": 1795713301.9202478,
+  "b07d389dfe0a": 1795713303.432781,
+  "46086f83d325": 1795713304.9600303,
+  "e4d380bf362b": 1795713306.4801388
  },
  "sent": [
   {
@@ -1664,6 +1674,78 @@
    "game": "HARK THE GHOUL",
    "event": "hark the ghoul release date announced",
    "msg": 641
+  },
+  {
+   "id": "bbf48198cfd0",
+   "ts": 1795713296.1522362,
+   "source": "IGN",
+   "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 clothes and customisation details revealed",
+   "msg": 642
+  },
+  {
+   "id": "29db6cc294a1",
+   "ts": 1795713297.6793094,
+   "source": "IGN",
+   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+   "game": "Grand Theft Auto VI",
+   "event": "rockstar north chief talks about gta 6 story leak prevention",
+   "msg": 643
+  },
+  {
+   "id": "af50b0c69262",
+   "ts": 1795713299.1952748,
+   "source": "IGN",
+   "title": "Everything You Need To Know Ahead of The Delta Force Invitationals Grand Final",
+   "game": "Delta Force",
+   "event": "delta force invitationals grand final details",
+   "msg": 644
+  },
+  {
+   "id": "33c7b839cb1c",
+   "ts": 1795713300.720139,
+   "source": "Polygon",
+   "title": "Epic Games Store Officially Makes a Top Co-op Game Free for a Limited Time",
+   "game": "",
+   "event": "epic games store offers top coop game for free",
+   "msg": 645
+  },
+  {
+   "id": "efa259c97c67",
+   "ts": 1795713302.2326496,
+   "source": "Polygon",
+   "title": "Spring Tokyo City region treasure hunt location in Forza Horizon 6",
+   "game": "Forza Horizon 6",
+   "event": "forza horizon 6 spring tokyo city treasure hunt location",
+   "msg": 646
+  },
+  {
+   "id": "b07d389dfe0a",
+   "ts": 1795713303.7599063,
+   "source": "VGC",
+   "title": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 xbox one port analysis",
+   "msg": 647
+  },
+  {
+   "id": "46086f83d325",
+   "ts": 1795713305.280025,
+   "source": "VGC",
+   "title": "GTA 6: All Secret Radio Stations and how to unlock them",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 all secret radio stations and how to unlock",
+   "msg": 648
+  },
+  {
+   "id": "e4d380bf362b",
+   "ts": 1795713306.8138046,
+   "source": "Eurogamer",
+   "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+   "game": "Grand Theft Auto VI",
+   "event": "powerwash simulator developers talk about gta 6 powerwashing",
+   "msg": 649
   }
  ],
  "pending": {
@@ -2971,7 +3053,79 @@
    "content": "Dungeon crawler HARK THE GHOUL will launch for PlayStation 5, Xbox Series, Switch 2, Switch… Source",
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hark-Ghoul_11-26-26.jpg",
    "ts": 1795709272.9777749
+  },
+  "bbf48198cfd0": {
+   "url": "https://www.ign.com/articles/creating-fresh-looks-is-more-important-in-gta-6-than-any-game-before",
+   "source": "IGN",
+   "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+   "summary": "GTA 6 has Rockstar's best-ever customisation, with hundreds of amazing pieces. But it's about more that creating a fresh fit - clothes are key to surviving the cops.",
+   "content": "This is an opinion piece from writer Jess Kinghorn. IGN's opinion columns represent the personal viewpoints of the writer, drawing on their own experiences and research to explore the exciting world of video games. There comes a time in every professional criminal’s life when you’ve got to make a dear friend disappear. I’ll keep the spoilers light on when that happens in Grand Theft Auto 6 , but all you need to know is that our man Jason has been tasked with getting rid of a former contact’s car – plus all of their worldly possessions. Now, had I actually checked the trunk I would have seen a bright red gas can and then set the whole thing ablaze – unfortunately, I didn’t check the trunk. Instead, I drove the departed’s wheels straight into Leonida Bay in full view of witnesses. Now, our lad Jason is a wanted man looking to disappear himself. Camped out in a bush, the police scanner crackles to life. “Suspect is a white male wearing a baseball cap” – well, the cap's the first thing to go, then, as I leg it back to the Ganado. I could keep running and try to outpace the police’s BOLO, but GTA 6 offers a fair few options for escaping suspicion. Losing yourself in customisation and creating a well-stocked wardrobe has become well worth your while beyond simply looking sharp, and it’s now as much a part of your criminal arsenal as carrying a piece. I didn’t fully appreciate how GTA 6’s wealth of customisation options and the Wanted system interact until chapter two. I was already looking forward to playing dress up with Lucia, so when my new drug-shifting mum-doing-her-best pal Vicki points out the local vintage store, I can’t help but rub my grubby little gamer mitts together. But besides introducing more fashion options I’m personally inclined towards, chapter two also introduces new crimes to commit. Stick-ups are hit-it-and-quit-it criminal operations – brandish a gun, take the money, and then run. Lucia got her criminal start boosting cars when she was a young teen, so carjacking is a big, lucrative part of this chapter as well. These opportunistic crimes are a complementary contrast to chapter one’s more organised approach – but better yet, Lucia's working for herself rather than Jason playing passive errand boy. Dispatch advises to be on the lookout for someone matching my description. It's all the excuse I need to finally check out the vintage store. But, my Lucia has too much business to take care of to waste time hiding in bushes, waiting for the heat to subside. Sure, in a stick-up, I can scout around for security camera footage and destroy it like a true professional, or try to control a crowd to stop someone calling the police. Still though, it's tough to be a solo act when Lucia is striking out on her own – given my twitchy trigger fingers have flubbed entering the safe code three times already, I can't rely on making a clean exit every time. As Lucia pelts out the back door, I keep an ear out for the police scanner on her phone (I’m not gonna think too hard about how that would actually work in real life, and I'm definitely not gonna Google it). Right on cue dispatch says “Suspect is a slim woman in her twenties” (Dispatch, you flatter me), and advises nearby personnel to be on the lookout for someone matching that description, wearing a bandana, a leather jacket, and cargo pants. Well, that’s all the excuse I need to finally check out the vintage store Vicki recommended earlier. Stashing the bandana and putting on a more friendly face, I use my very recently ill-gotten gains to buy a whole new look. All the usual frumpy suspects are here – well worn trainers, faded sweatshirts, holy-moly jeans – but there are plenty of bangers too. When I’m done, Lucia strides out of the vintage store a whole new woman in a red dress and a pair of trainers a sneaker head would approve of. But diving into a clothes store and improvising a fresh outfit is just one avenue for misdirection. After a fair few stick-ups, I’ve amassed quit",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-cool-fits-1795683417625.jpg",
+   "ts": 1795713296.1522458
+  },
+  "29db6cc294a1": {
+   "url": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
+   "source": "IGN",
+   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+   "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out.",
+   "content": "Warning! This article contains spoilers for the prologue of GTA 6 . GTA 6’s prologue hides a surprise that somehow managed to stay a secret all the way up to players finding out for themselves. And Rockstar North, it turns out, was praying for it not to leak ahead of launch. During the game’s opening stretch, the story of how Lucia ends up in a Leonida prison is told. This isn’t the surprising part — ever since GTA 6 Trailer 1 we’ve known she’d end up behind bars at some point — but the person she was at a diner moments before her arrest is. Tomás, a few-month-old baby and son of Lucia and Jason, is left behind by his mother in GTA 6’s first truly shocking reveal. Given the history of leaks associated with GTA 6 , it feels like a minor miracle that Tommy’s existence remained a complete unknown until launch. This was something that Rob Nelson, co-studio head at Rockstar North, was keenly aware of. “No, we never were going to [reveal it],\" he told VGC in an interview that took place just before GTA 6 came out last week. \"I am still holding on. Fingers crossed, how many more days? I’m praying it stays under wraps. Given everything that we’ve gone through, every day I’m just like, ‘Please, please don’t do that, please don’t do that.'” As we’ve written about at IGN, the existence of Tomás in GTA 6 is the key to its whole design . It’s what powers Jason and Lucia’s tale, and encourages the player to strive to make more and more money as those family savings goals get higher and higher. It connects us to the characters, and creates a shared objective between us and them. We aren’t simply committing crime for crime’s sake, but doing so with the prospect of being reunited with their son at the end of it. You can see why such a powerful and surprising narrative device would want to have been kept under wraps by Rockstar. It’s the first, and by no means the only, shocking revelation of GTA 6, all the more effective when witnessed firsthand. “We never were going to [reveal it],” Nelson explained. “It’s meant to shock. We were watching everyone speculate about the nature of their relationship and Jason’s character, and that takes it in a completely different context. You have something to strive for beyond a huge bank account at the end.” We’ve got the Official Grand Theft Auto 6 guide here on IGN, complete with comprehensive walkthroughs up to Chapter 4 , guides for the Optional Missions and Illegal Operations you’ll find in Leonida, and much more. Just getting started in Chapter 1 ? Check out our Beginner's Guide - 67 Tips and Tricks , and make a note of the Best Free Weapons to Find Early . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-16-1795703303348.jpg",
+   "ts": 1795713297.6793141
+  },
+  "af50b0c69262": {
+   "url": "https://www.ign.com/articles/everything-you-need-to-know-ahead-of-the-delta-force-invitationals-grand-final",
+   "source": "IGN",
+   "title": "Everything You Need To Know Ahead of The Delta Force Invitationals Grand Final",
+   "summary": "",
+   "content": "After last year’s inaugural event in Hangzhou, this weekend sees the Delta Force Invitational make its first move outside Asia, as an official competitive title at DreamHack in Stockholm, Sweden, from 27th-29th November. The Grand Final of the tournament will take place on November 29th at 11am UTC+0 through to 4pm UTC+0 after three days of global competitive action. It’s the first Chinese esports title to reach DreamHack, featuring teams that have been selected through a full professional league system. Six regions offered a route to the offline finals, and the twelve squads competing this weekend are as follows: Americas: Spacestation Gaming and GODL, via the 2026 RISE Series Americas Chinese Mainland: TES, RSG and IBG, via the Delta Force Pro League Korea: Nongshim RedForce, via RISE Series Korea Japan: FENNEL, via the 2026 Delta Force: Invitational Japan Qualifier Pan-Pacific: RX, MKK and ONIC via the Pan-Pacific Operations Cup S2 EMEA: Alliance and Fnatic, via the 2026 RISE Series EMEA Fnatic are, of course, well known to DreamHack audiences, having won the first League of Legends World Championship there back in 2011, as well as the first CS:GO Major in 2013. Alliance, being a Swedish team, will be playing on home soil, but only time will tell if this gives them an additional boost. They, and the ten other teams to have gone the distance, will once again be competing for a share of a $500,000 prize pool. One core aspect of Delta Force that’s attracted new fans over the last twelve months is its commitment to extraction as an esport. Whereas in traditional FPS competitions there’s an obvious focus on winning fights, in Delta Force’s Operations mode, information gathering, firefights, resource management and extraction decisions all play out within a single match. Viewers who tune in to watch on Twitch via @DeltaForceGameOfficial or @DeltaForce_Esports can also bag a bunch of in-game rewards: 15 minutes: Armament Voucher 20 minutes: Calling Card - Delta Force Invitational 30 minutes: Standing Gear Ticket 45 minutes: AKM - Wandering Dragon 60 minutes: Action - Cheer Plus, GOTAGA, HutchMF, Summit1G, Panda and Timmy will also be streaming the matches on their channels during the event. There’s also a tonne of in-game incentives around the event, so be sure to login between the 11th November and 3rd December to get your hands on these: Log in for 1 day during the event - DFI-themed Spray Paint ×1 Log in for a total of 2 days - Elite Gear Ticket ×2 Log in for a total of 3 days - Featured Keycard Copy Pack ×1 Log in for a total of 4 days - Elite Gear Ticket ×2 If you correctly predict the outcome of the Invitational in-game, there’s a couple of other other rewards to be had: One of your selected teams reaches the Grand Final - Cosmetic Item: ASV - Northern Frontier - Assault Vehicle ×1 One of your selected teams wins the championship - Cosmetic Item: Overtime - AK 12 - Unstoppable (orange-tier weapon) In the two years since its launch, Delta Force has steadily gained momentum, with developers Team Jade determined to grow the tactical FPS into a globally recognised esports title. With three days of intense competition on the horizon, its future certainly looks bright. Delta Force is free to play and available now on PlayStation 5, Xbox Series X|S, Android, iOS, Google Play, Epic Games Store, and Steam.",
+   "image": "https://assets-prd.ignimgs.com/2025/12/11/event-modes-1765453407381.png",
+   "ts": 1795713299.1952782
+  },
+  "33c7b839cb1c": {
+   "url": "https://www.polygon.com/epic-games-store-free-games-11-26-2026-download/",
+   "source": "Polygon",
+   "title": "Epic Games Store Officially Makes a Top Co-op Game Free for a Limited Time",
+   "summary": "The Epic Games Store has a selection of free PC games that changes every week. The latest free offering will be available until Dec. 3.",
+   "content": "Thanksgiving is today in the US, and what better way to spend time with your family and friends than by playing video games? For a limited time, the Epic Games Store has a great co-op PC game for free as well as free content for an idle RPG.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/polygon-graphic-free-game-sale-banner-epic-games.jpg",
+   "ts": 1795713300.720143
+  },
+  "efa259c97c67": {
+   "url": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
+   "source": "Polygon",
+   "title": "Spring Tokyo City region treasure hunt location in Forza Horizon 6",
+   "summary": "The spring treasure hunt is located in the Tokyo City region of Forza Horizon 6. Here's its exact location and how to reach it.",
+   "content": "The spring Tokyo City region treasure hunt is one of the weekly activities in Forza Horizon 6 Series 7, \"City Life.\" Whenever a new hunt begins, a box appears somewhere on the map and, to locate it, the only hints you have are the region's name and a picture. Completing this challenge helps you get closer to claiming the weekly and the Series cars.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/image0.jpeg",
+   "ts": 1795713302.2326539
+  },
+  "b07d389dfe0a": {
+   "url": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+   "source": "VGC",
+   "title": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis",
+   "summary": "Analysis of GTA 6 on Xbox One shows that it can handle streaming the Series S port",
+   "content": "Analysis of GTA 6 on Xbox One shows that it can handle streaming the Series S port… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Xbox-One-vs-Series-S.jpg",
+   "ts": 1795713303.7599103
+  },
+  "46086f83d325": {
+   "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+   "source": "VGC",
+   "title": "GTA 6: All Secret Radio Stations and how to unlock them",
+   "summary": "Unlock the secret radio and on-demand services in Grand Theft Auto 6",
+   "content": "Unlock the secret radio and on-demand services in Grand Theft Auto 6… Source",
+   "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-All-Secret-Radio-Stations-and-how-to-unlock-them-11.jpg",
+   "ts": 1795713305.2800293
+  },
+  "e4d380bf362b": {
+   "url": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+   "source": "Eurogamer",
+   "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+   "summary": "Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts made of it all. Had Rockstar, with its legendary attention to detail, accurately captured the intricacies of powerwashing in those leisurely moments of carefree squirting? Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/gta-powerwash-header.png?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795713306.8138087
   }
  },
- "updated_at": "2026-11-26T16:11:48Z"
+ "updated_at": "2026-11-26T17:19:02Z"
 }
