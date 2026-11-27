@@ -421,7 +421,10 @@
   "ecd23e64c7c9": 1795804685.5443516,
   "137bc11b77ea": 1795804685.5444193,
   "278c0a27da96": 1795804687.275889,
-  "911580103d41": 1795804689.061618
+  "911580103d41": 1795804689.061618,
+  "5c24e0b6637c": 1795808347.204076,
+  "71ca0ee7448c": 1795808349.0527987,
+  "66c0798aedc8": 1795808350.8087013
  },
  "sent": [
   {
@@ -2232,6 +2235,24 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 food mechanics and restaurant options review",
    "msg": 704
+  },
+  {
+   "id": "5c24e0b6637c",
+   "ts": 1795808347.8526814,
+   "source": "Polygon",
+   "title": "GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 sales reach 53 million copies",
+   "msg": 705
+  },
+  {
+   "id": "71ca0ee7448c",
+   "ts": 1795808349.608578,
+   "source": "Eurogamer",
+   "title": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
+   "game": "Yooka-Laylee and the Impossible Lair",
+   "event": "yooka laylee definitive edition skips xbox",
+   "msg": 706
   }
  ],
  "pending": {
@@ -4029,7 +4050,27 @@
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-27-at-10-43-04-am.jpg",
    "ts": 1795804689.5729377,
    "msg": 704
+  },
+  "5c24e0b6637c": {
+   "url": "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/",
+   "source": "Polygon",
+   "title": "GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In",
+   "summary": "Grand Theft Auto 6's week-one sales estimated at 53 million copies, with PS5 taking the lion’s share thanks to marketing deal with Rockstar",
+   "content": "We might have to stop saying something sold like hotcakes and start saying something sold like Grand Theft Auto 6 . Rockstar's latest has sold about as well as we expected, with estimates after only one week putting sales at over 50 million copies . That number will only go up in the weeks and months to come, especially if a new GTA Online mode and a PC version are eventually announced, as rumored .",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-dancing.jpg",
+   "ts": 1795808347.852688,
+   "msg": 705
+  },
+  "71ca0ee7448c": {
+   "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
+   "source": "Eurogamer",
+   "title": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
+   "summary": "Yooka-Laylee and the Impossible Lair : Definitive Edition is notably skipping Xbox Series X/S consoles, and the studio blames \"technical challenges and costs.\" Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/yooka-replayee.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795808349.6085818,
+   "msg": 706
   }
  },
- "updated_at": "2026-11-27T18:42:06Z"
+ "updated_at": "2026-11-27T19:43:06Z"
 }
