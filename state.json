@@ -384,7 +384,23 @@
   "eaafd3ea1c9d": 1795790694.2301364,
   "162325a40f4c": 1795790702.0700169,
   "92c0501f5b7a": 1795790703.74229,
-  "e47142d7fc82": 1795790703.742383
+  "e47142d7fc82": 1795790703.742383,
+  "b7b063e696eb": 1795794189.7321818,
+  "da7a52bd2edd": 1795794189.7321818,
+  "cbbb3bec7c96": 1795794189.7321818,
+  "f1d808364c0d": 1795794189.7321818,
+  "c73756746d47": 1795794270.741218,
+  "2d7ff776f070": 1795794272.279812,
+  "80ec11885065": 1795794273.837143,
+  "098ca97dc6f0": 1795794273.8372474,
+  "215b6d9817ec": 1795794273.8372598,
+  "41c3c5aec90b": 1795794275.3605223,
+  "97faffc4a458": 1795794276.9269927,
+  "c8aa4b504432": 1795794278.4540558,
+  "1b79c91f5669": 1795794344.8040006,
+  "426c288e969a": 1795794344.8040304,
+  "ad543304b8b0": 1795794344.8040357,
+  "273d7dc9ef5f": 1795794344.804039
  },
  "sent": [
   {
@@ -2033,6 +2049,69 @@
    "game": "The Streamer’s Alt Account Labyrinth",
    "event": "the streamers alt account labyrinth release date announced",
    "msg": 679
+  },
+  {
+   "id": "c73756746d47",
+   "ts": 1795794271.0796504,
+   "source": "IGN",
+   "title": "BioWare Fans Hit Out at EA for Selling New Dragon Age Merch After Killing the Studio",
+   "game": "Dragon Age",
+   "event": "bioware fans criticise ea dragon age merch",
+   "msg": 680
+  },
+  {
+   "id": "2d7ff776f070",
+   "ts": 1795794272.6370325,
+   "source": "IGN",
+   "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
+   "game": "Hollow Knight: Silksong",
+   "event": "hollow knight silksong expansion release date revealed",
+   "msg": 681
+  },
+  {
+   "id": "215b6d9817ec",
+   "ts": 1795794274.1603444,
+   "source": "IGN",
+   "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 stealth sandbox gameplay details",
+   "msg": 682
+  },
+  {
+   "id": "41c3c5aec90b",
+   "ts": 1795794275.7268884,
+   "source": "Gematsu",
+   "title": "Team Cherry Presents and Rohan Fraser announce mystery puzzle adventure game Blokkan: Secret of the Walking City for PC",
+   "game": "Blokkan: Secret of the Walking City",
+   "event": "blokkan secret of the walking city announced",
+   "msg": 683
+  },
+  {
+   "id": "97faffc4a458",
+   "ts": 1795794277.2539103,
+   "source": "Gematsu",
+   "title": "Team Cherry Presents and Studio Stobie announce moody platform adventure game Radio Rain for PC",
+   "game": "Radio Rain",
+   "event": "radio rain announced for pc",
+   "msg": 684
+  },
+  {
+   "id": "c8aa4b504432",
+   "ts": 1795794278.774363,
+   "source": "Gematsu",
+   "title": "Team Cherry Presents and Makoto Koji announce plant mystery adventure game The Botanist and the Translator for PC",
+   "game": "The Botanist and the Translator",
+   "event": "the botanist and the translator announced for pc",
+   "msg": 685
+  },
+  {
+   "id": "273d7dc9ef5f",
+   "ts": 1795794385.8835742,
+   "source": "Polygon",
+   "title": "The Witcher 3 Remastered’s Mod Library Just Got a Massive Update",
+   "game": "The Witcher 3: Wild Hunt",
+   "event": "the witcher 3 mod library update",
+   "msg": 686
   }
  ],
  "pending": {
@@ -3660,7 +3739,77 @@
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Streamer-Alt-Account_11-27-26.jpg",
    "ts": 1795790702.5421734,
    "msg": 679
+  },
+  "c73756746d47": {
+   "url": "https://www.ign.com/articles/bioware-fans-hit-out-at-ea-for-selling-new-dragon-age-merch-after-killing-the-studio",
+   "source": "IGN",
+   "title": "BioWare Fans Hit Out at EA for Selling New Dragon Age Merch After Killing the Studio",
+   "summary": "A new Dragon Age hoodie is available on the BioWare Gear store, as EA continues to sell merch based on BioWare's now dead franchises.",
+   "content": "EA's decision to shut down BioWare sparked a mix of shock and sadness across the internet , with both fans and developers fondly remembering the many role-playing games the Canadian studio put out over the years. The Mass Effect community has been especially vocal , given that Mass Effect 5 was cancelled alongside the studio closure . But Dragon Age fans certainly aren't happy either, and they're making it known. Despite BioWare's closure, the BioWare Gear merch store is still being updated. A bunch of new items were added for N7 Day , but we just got a new Dragon Age merch drop too. For example, the Dragon Age Inquisition Seven of Swords Nightmare Hoodie features a piece of tarot card art that appears in Dragon Age: Inquisition. Better still, the art depicts fan-favourite character Duncan from Dragon Age: Origins. But given that we're only getting this hoodie after everyone who worked on the Dragon Age series lost their job, it isn't sitting well with fans. \"Do not give #EA the privilege of royalties on IP they have killed, and will not sell or forfeit,\" one fan said . \"If you want your voice heard and want to #SaveDragonAge and #SaveMassEffect, EA needs to reckon with the consequences of their bad financial decisions. #BoycottEA and licensed merch.\" \"Save Mass Effect. Save Dragon Age. Dragon Age was failed massively by EA. You destroyed what Veilguard could have/should have been because you pushed for it to be live service then backtracked. You never gave Dragon Age the chance it deserved,\" another person replied to the BioWare Gear Store's post promoting the hoodie . \"No studio, No Game = No money,\" Olarcadia said on X / Twitter . \"What you're doing is a pure lack of respect.\" \"It's so cute how you think putting out merch is going to make us hate you any less,\" onedcdame agreed. \"Keep it. BioWare is closed, we're not giving you any of our money EA,\" replied SignWithBlood. \"You should offer to sell back the IP to the founders, including the BioWare brand and name,\" added @inkpot__gods. \"We bought merch to support the devs who made the games we loved; you fired all the devs and stopped making those games, so there’s no one left for us to financially support,\" said LouEaglesham. It appears that the community plans to boycott EA's continued use of BioWare's IPs, at least until it allows a team of devs to make a new game in these universes. Right now, both Dragon Age and Mass Effect are on ice. Dragon Age fans in particular have a lot to be upset about. The last game in the series, Dragon Age: The Veilguard, largely failed to impress the community. But it has long been known that the game languished in development hell and suffered from various changes in direction. Former BioWare executive producer Mark Darrah recently shared the original vision for the fourth Dragon Age game , before EA allegedly mandated that it had to be a live service. EA would then go on to allow the game to be retooled as a single-player RPG, but The Veilguard had to be built from the bones of this live service work, meaning the developers didn't have time to return to this original outline. It remains to be seen what EA does next with the Dragon Age series. EA is not in the habit of selling off IP, but if enough fans are boycotting the merch, it leaves EA without much to do other than just sit on it.",
+   "image": "https://assets-prd.ignimgs.com/2023/05/03/cass-1683150827677.jpg",
+   "ts": 1795794271.0796547,
+   "msg": 680
+  },
+  "2d7ff776f070": {
+   "url": "https://www.ign.com/articles/excitement-builds-for-hollow-knight-silksong-news-ahead-of-cherry-time-special-presentation",
+   "source": "IGN",
+   "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
+   "summary": "Hollow Knight: Silksong developer Team Cherry is set to issue a long-awaited update on expansion Sea of Sorrow during a Direct-style special presentation today, and IGN is reporting live.",
+   "content": "Hollow Knight: Silksong developer Team Cherry's Cherry Time! Special Presentation wrapped up with a release date for expansion Sea of Sorrow. It's free for all players from December 11. The trailer is below: If you need a catch up on the presentation, check out our live blow below.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/cherry-main-1795789809266.jpg",
+   "ts": 1795794272.6370378,
+   "msg": 681
+  },
+  "215b6d9817ec": {
+   "url": "https://www.ign.com/articles/on-top-of-everything-else-gta-6-is-a-solid-stealth-sandbox",
+   "source": "IGN",
+   "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+   "summary": "I came to GTA 6 for its wild car chases and explosive shootouts, but its the really solid stealth that has me hooked.",
+   "content": "This is an opinion piece from writer Samuel Horti. IGN's opinion columns represent the personal viewpoints of the writer, drawing on their own experiences and research to explore the exciting world of video games. Grand Theft Auto is a boisterous, brash series full of loud characters and louder explosions. GTA 6 continues that tradition for many of its main story beats, chaining showy set-pieces into lethal car chases, but in my 35 hours roaming Leonda I've found plenty of chances to engage with its surprisingly robust stealth system. In some cases, it even feels like Rockstar specifically designed areas with sneaking and silencers in mind. Illegal operations are lucrative robbery opportunities dotted around the map that hide cash, jewellery, drugs, and unique items – cars, weapons, watches – guarded by armies of enemies. I struggled with them early on: shooting my way to the valuables attracted GTA 6's menacing police, curtailing my heists before I could grab all the loot and forcing me to flee across entire counties while a chopper buzzed overhead. Now, I treat these scenarios like stealth vignettes, my goal to remain hidden for as long as possible. I've screwed silencers onto my weapons and prioritized headshot precision over spraying power, carrying a pistol alongside either a tactical rifle or a sniper. My shotgun is purely for backup, just in case. Skirting around these hideouts reveals hidden entrances. For Janjak's Garage in Vice City, for example, you can mantle a dumpster in a neighbouring alley to reach the garage's sheet metal roof. Out West, on the edge of Port Gellhorn, you can avoid the main gates of the giant Brooks Boatworks and slip through holes in the fence. Stealth detection is intuitive. Crouching reduces noise, sightlines feel realistic, and you'll be warned by a yellow arrow over an enemy's head before they fully spot you, allowing you a window to nip back into cover. Knives silently slice enemies' open or you can choke them quietly from behind. And if you need space, you can whistle from cover to draw foes over, or throw bottles to distract them. It's classic stealth game fare. But I've found that guns with silencers are actually the best option because they avoid the risk of an enemy spinning around at the wrong moment and catching you, knife raised. They mask shots almost completely: I've stood close to enemies and shot at others without being detected. Not everything in GTA 6 adopts Rockstar's general pursuit of realism. Illegal operations feel like the real test of your sneakiness, and I'm relishing each new one that pops up on my map. Clusters of enemies are tricky because as soon as you shoot one, the others will spin and look for you. Here, I use focus mode to slow time and pop a series of headshots, plink, plink, plink. Three bodies thud simultaneously. I feel like prime Sam Fisher. High ground is vital and from the right vantage I can survey the area, plan my route, and pick off enemies from distance. I always clamber to the loftiest point and use the D-pad to tag visible hostiles, which tracks them through walls. In a pinch, focus mode will highlight enemies through walls too, although only if they're nearby. Some of the level design feels like it's steering you down this silent route. Back at the Boatworks, the first thing I saw after sneaking in was a platform lift to the roof of the main warehouse, high above every enemy. A drop in the ceiling led me to an empty top floor – I've seen this trick repeated in other hideouts, so I always look for ladders or other ways to reach the roof. In the bigger compounds, staying silent for longer than a few minutes is a real challenge. No matter how many times I ran the Boatworks (I saved before I tried, and reloaded when I failed) I was always eventually spotted by some unaccounted-for enemy. But I reached a point where I could reliably clear the main warehouse floor-by-floor and empty the safe without anyone spotting me. That gave me a headstart on th",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-lucia-stealth-1795690930066.jpg",
+   "ts": 1795794274.160353,
+   "msg": 682
+  },
+  "41c3c5aec90b": {
+   "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-rohan-fraser-announce-mystery-puzzle-adventure-game-blokkan-secret-of-the-walking-city-for-pc",
+   "source": "Gematsu",
+   "title": "Team Cherry Presents and Rohan Fraser announce mystery puzzle adventure game Blokkan: Secret of the Walking City for PC",
+   "summary": "Team Cherry Presents, a new publishing label under Hollow Knight developer Team Cherry, and developer …",
+   "content": "Team Cherry Presents, a new publishing label under Hollow Knight developer Team Cherry, and developer … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Blokkan-Ann_11-27-26.jpg",
+   "ts": 1795794275.7268918,
+   "msg": 683
+  },
+  "97faffc4a458": {
+   "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-studio-stobie-announce-moody-platform-adventure-game-radio-rain-for-pc",
+   "source": "Gematsu",
+   "title": "Team Cherry Presents and Studio Stobie announce moody platform adventure game Radio Rain for PC",
+   "summary": "Team Cherry Presents, a new publishing label under Hollow Knight developer Team Cherry, and developer …",
+   "content": "Team Cherry Presents, a new publishing label under Hollow Knight developer Team Cherry, and developer … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Radio-Rain-Ann_11-27-26.jpg",
+   "ts": 1795794277.2539132,
+   "msg": 684
+  },
+  "c8aa4b504432": {
+   "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-makoto-koji-announce-plant-mystery-adventure-game-the-botanist-and-the-translator-for-pc",
+   "source": "Gematsu",
+   "title": "Team Cherry Presents and Makoto Koji announce plant mystery adventure game The Botanist and the Translator for PC",
+   "summary": "Team Cherry Presents, a new publishing label under Hollow Knight developer Team Cherry, and developer …",
+   "content": "Team Cherry Presents, a new publishing label under Hollow Knight developer Team Cherry, and developer … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/The-Botanist-Ann_11-27-26.jpg",
+   "ts": 1795794278.7743661,
+   "msg": 685
+  },
+  "273d7dc9ef5f": {
+   "url": "https://www.polygon.com/witcher-3-remastered-cross-platform-mod-support/",
+   "source": "Polygon",
+   "title": "The Witcher 3 Remastered’s Mod Library Just Got a Massive Update",
+   "summary": "The Witcher 3 Remastered patch introduces 40 new cross-platform mods for players to play with",
+   "content": "One of the best features in The Witcher 3: Wild Hunt Remastered is the ability to use mods across all available platforms. CD Projekt Red included a fair number of popular mods when the Remastered version launched at the end of September, but console players had far fewer options than PC players . CD Projekt Red is looking to bridge that gap with a new update.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tw3re_launch_finisher_pc_16x9_clean.png",
+   "ts": 1795794385.8835776,
+   "msg": 686
   }
  },
- "updated_at": "2026-11-27T14:48:58Z"
+ "updated_at": "2026-11-27T15:50:21Z"
 }
