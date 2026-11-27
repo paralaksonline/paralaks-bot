@@ -373,7 +373,14 @@
   "18867592a453": 1795783002.0145528,
   "41f8cd4ddd55": 1795783002.0145593,
   "87d4ad0d7b0d": 1795783002.0145643,
-  "ea5be13a4f83": 1795783003.7537386
+  "ea5be13a4f83": 1795783003.7537386,
+  "1f0dd337b0f1": 1795787720.7392952,
+  "a41ab977022a": 1795787720.7392952,
+  "dcdd7b402a78": 1795787728.7558718,
+  "886e18ef139e": 1795787730.4338021,
+  "c7e1a25fe1a2": 1795787732.1050243,
+  "af9db3412a8b": 1795787733.76862,
+  "aa3f8a13d53e": 1795787735.516618
  },
  "sent": [
   {
@@ -1968,6 +1975,51 @@
    "game": "Faraway",
    "event": "faraway game played after 16 years",
    "msg": 673
+  },
+  {
+   "id": "dcdd7b402a78",
+   "ts": 1795787729.233671,
+   "source": "IGN",
+   "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 fan pc port creator vows to continue despite takedown",
+   "msg": 674
+  },
+  {
+   "id": "886e18ef139e",
+   "ts": 1795787730.9049306,
+   "source": "IGN",
+   "title": "Someone Is Making One of Baldur's Gate 3's Most Popular Villains Romanceable",
+   "game": "Baldur's Gate 3",
+   "event": "baldurs gate 3 mod makes gortash romanceable",
+   "msg": 675
+  },
+  {
+   "id": "c7e1a25fe1a2",
+   "ts": 1795787732.5685017,
+   "source": "IGN",
+   "title": "Former Gran Turismo World Series Competitor Helped Tune GTA 6 Car Physics",
+   "game": "Grand Theft Auto VI",
+   "event": "former gran turismo player helped tune gta 6 car physics",
+   "msg": 676
+  },
+  {
+   "id": "af9db3412a8b",
+   "ts": 1795787734.3165057,
+   "source": "IGN",
+   "title": "It Turns Out Jason Might Have a History With Mandy in GTA 6 After All",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 jason and mandy relationship details",
+   "msg": 677
+  },
+  {
+   "id": "aa3f8a13d53e",
+   "ts": 1795787735.9825165,
+   "source": "VGC",
+   "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+   "game": "The Simpsons Hit & Run",
+   "event": "simpsons hit and run remake reportedly cancelled",
+   "msg": 678
   }
  ],
  "pending": {
@@ -3535,7 +3587,57 @@
    "image": "https://assetsio.gnwcdn.com/20261026151726_1.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795783004.3077197,
    "msg": 673
+  },
+  "dcdd7b402a78": {
+   "url": "https://www.ign.com/articles/despite-take-two-takedown-vibecoding-teen-behind-nuked-gta-6-pc-port-project-leonida-vows-to-continue",
+   "source": "IGN",
+   "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
+   "summary": "The 15-year-old vibecoder behind a GTA 6 PC port project Take-Two recently shut down has vowed to continue their work despite the potential for further action from the company.",
+   "content": "The 15-year-old vibecoder behind a GTA 6 PC port project Take-Two recently shut down has vowed to continue their work despite the potential for further action from the company. ‘NotRexed’ is behind ‘Project Leonida,’ which was at one point leading the race to create a PC port of GTA 6 following the recent leak of an Xbox build. Cyberleek, the infamous leaker behind many early GTA 6 gameplay clips, reportedly released the Xbox build of GTA 6 last week, and vibecoders have been attempting to port the game to PC since. Fueled by AI, progress has been swift, with clips showing GTA 6 running on PC at a higher frame rate than on console, and one video even showing basic multiplayer. Obviously, Rockstar Games, which will no doubt release GTA 6 on PC officially at some point, and parent company Take-Two will be watching the homebrew scene’s every move like a hawk. In the case of Project Leonida, Take-Two has already taken action. NotRexed was organizing and sharing work on a Discord group, and hosting their findings on a GitHub repository, when cease and desists from Take-Two hauled everything offline. NotRexed then took to social media to announce they'd decided to call it a day. “I quit guys. I’m sorry,” NotRexed said. “I really want to make cool stuff but every single time s**t happens that I can’t control so I’m stepping away. Thank you everybody, especially in the Discord that allowed me to have this opportunity.” NotRexed went on to insist that they were finding it tough to run Project Leonida while also going to school. “Rockstar taking my server down was only part of the reason. Like I’ve said before, I’m a 15-year-old kid,” they said. “Managing school and sports is hard enough without having middle aged men yell and complain to you on Discord. Goodbye.” However, NotRexed has now returned, and promised to continue the project. “Ignore my other posts,” NotRexed said after changing their mind. “Something’s coming soon. Leonida is NOT dead. I have been doing a lot of work behind the scenes. I’ll have some stuff to show all of you soon.” IGN spoke to NotRexed to find out why they’re doing this, whether they understand the risks, what they’ll do if they get in legal trouble, and what their parents think of it all. “It’s just a hobby of mine,” NotRexed said in a private message. “I started doing similar things with porting games to the web back in the start of 2026, and I’ve always just thought of it to be cool.” Before generative AI, NotRexed had no interest in porting games to other platforms, they said. But after finding out it was possible in 2025, they’re now taking on one of the most powerful publishers in video games. Interestingly, there’s no real motive behind it. “I’ve always been interested in tech and mess around with it a lot,” they said. According to them, even their parents are aware of what they do and are largely supportive of it. “Yes, they know about all my projects and work I do, and they’re pretty encouraging about it,” they claimed. It made me wonder if they were fully aware of the legal risks involved in such an undertaking. “Yea, they have warned me about what could happen,” NotRexed insisted when I asked if their parents knew about the potential legal issues. “I’m still continuing my work as of now tho because even tho T2 took down my repo and Discord they have never sent an email or message directly to me. If I do get into legal trouble I’m probably gonna stop working on it but possibly have a friend continue it.” How feasible is this? IGN asked Matt Freedman, a veteran game developer with expertise in both traditional development and the controversial emerging technology of AI. “A recompilation is different from a port,” Freedman said. “But yes, an AI driven recompilation of GTA 6 is very doable and wouldn't have the same 'game feel' problems that an AI-driven port would have.” He went on to explain the differences between decompilations, recompilations, and ports. A decomp is where someone manually revers",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/gtavi-35-1795780213314.jpg",
+   "ts": 1795787729.233681,
+   "msg": 674
+  },
+  "886e18ef139e": {
+   "url": "https://www.ign.com/articles/baldurs-gate-3-gortash-romance-mod",
+   "source": "IGN",
+   "title": "Someone Is Making One of Baldur's Gate 3's Most Popular Villains Romanceable",
+   "summary": "One of Baldur's Gate 3's main villains, Gortash, could be romanceable soon thanks to this new fan-made mod.",
+   "content": "Baldur's Gate 3 has no shortage of romances and romantic encounters, but not everyone in Faerûn is up for a smooch. When developer Larian was still rolling out updates, fans would often ask for more romances to be added, whether it be for Jaheira or Rolan, but it was never meant to be. One of the most popular requests was actually for one of Baldur's Gate 3's main villains, Gortash. Larian was very much aware of this, and actually addressed these fans in the patch notes in 2024. \"Listen, he’s a complicated guy who’s busy contemplating the minutia of death cult office politics,\" Larian said at the time. \"Babygurl doesn’t have time to kiss.\" But now, a fan is stepping up, adding the Gortash romance that so many were asking for. TikTok user Equipouet has shared some clips from the mod, which is still a work in progress. It shows the player character being invited to spend time with Gortash, played by Lucius Malfoy actor Jason Isaacs, after his coronation in Act 3, all with new dialogue and animations. We're told that we'll be able to make our own choices when we meet Gortash, specifically whether we want to \"charm him, keep him guessing, or walk away.\" So, if you really hate Gortash, you could also use the mod to let him down. Much more is teased for the mod, like a ball held by Gortash, letters to exchange with him, and \"choices with consequences.\" There will also be changes to how the story plays out if your character is The Dark Urge, since it's in your backstory that you already have a history with Gortash. The mod is still being worked on, but the author says they will submit it for console release approval once it's done. That process can be lengthy, however, and there's no guarantee that it will pass the approval stage, especially if it's too bulky for console. In the meantime, Gortash kissers will keep having to use their imagination. Like us would-be Jaheira kissers. There are also plenty of other mods to try out, including a bunch that have Larian's seal of approval and can be installed within the game's own mod manager. Image credit: Larian.",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/gortash-baldurs-gate-3-1795776334118.jpg",
+   "ts": 1795787730.9049344,
+   "msg": 675
+  },
+  "c7e1a25fe1a2": {
+   "url": "https://www.ign.com/articles/former-gran-turismo-world-series-competitor-helped-tune-gta-6-car-physics",
+   "source": "IGN",
+   "title": "Former Gran Turismo World Series Competitor Helped Tune GTA 6 Car Physics",
+   "summary": "A former Gran Turismo World Series competitor helped Rockstar tune GTA 6's car physics.",
+   "content": "A lot of people have complained about the Ganado, Jason’s starting car in GTA 6 , for being tricky to drive. The small pickup is a little unwieldy and prone to swinging out at the back end because it’s based on the Ford Ranchero, a rear-wheel drive whip manufactured between 1957–1979 in North America. While there are no licensed vehicles in GTA 6, cars are recognisable based on real-world counterparts, with small visual changes to make them legally distinct. But the accuracy doesn’t stop at the car model — it also extends to how they drive. That variety in handling is in part because Rockstar hired Lewis Bentley, a former Gran Turismo World Series competitor, to work on the vehicle physics team. Bentley announced the news in a now-deleted YouTube video. “We put the auto in the Grand Theft Auto,” he said from the driver’s seat of his Lotus Elise. Bentley is best known for qualifying for the final in the GT Sport World Tour event at the Nürburgring 24 Hours, in 2018. “Everyone on the physics team’s amazing,” he said in the same video. He claimed to have worked on GTA 6 for around three years in total, and is listed in the game’s credits as a developer in the physics department. Bentley isn’t the only gearhead who worked on the game, however. Rockstar North has its own in-house racing team , and they’re pretty good on the track — they won a team-based 24h Nürburgring event back in 2022. You can see this attention to detail in the game, both in vehicle handling models on cars and on the tracks. For the first time in the series, GTA 6 features a closed asphalt circuit called Gellhorn International Raceway, which stitches together a bunch of iconic corners and racing lines from some of the most famous real-world tracks in existence, turning them into the ultimate speedway. We’ve got the Official Grand Theft Auto 6 guide here on IGN, complete with comprehensive walkthroughs up to Chapter 5 , guides for the Optional Missions and Illegal Operations you’ll find in Leonida, and much more. Just getting started in Chapter 1 ? Check out our Beginner's Guide - 67 Tips and Tricks , and make a note of the Best Free Weapons to Find Early . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/vintage-vice-city-pack-vapid-stanier-02-1795782728767.jpg",
+   "ts": 1795787732.5685053,
+   "msg": 676
+  },
+  "af9db3412a8b": {
+   "url": "https://www.ign.com/articles/it-turns-out-jason-might-have-a-history-with-mandy-in-gta-6-after-all",
+   "source": "IGN",
+   "title": "It Turns Out Jason Might Have a History With Mandy in GTA 6 After All",
+   "summary": "Mandy is obsessed with Jason in GTA 6, but there's dialogue that suggests they hooked up at least once.",
+   "content": "As soon as GTA 6 was in our hands, an early game character quickly became a fan favourite: Mandy. Warning! Spoilers for GTA 6 follow. It's not hard to see why. Mandy certainly knows how to make an entrance, as she tries in vain to entice Jason away from Lucia . But alas, it is not meant to be. Fans then did a little digging and found out that Mandy is almost definitely hiding a dark secret ; she's probably killed people. That makes her advances towards Jason — like insisting they were supposed to be married — look dangerously delusional. Jason might have dodged a literal bullet. However, there is some easy-to-miss dialogue in GTA 6 that suggests Mandy wasn't basing her infatuation with Jason on nothing. You can come across this dialogue as soon as you take control of Lucia and find a meditation spot . The meditation sequence will play some audio from the character's past, usually centred around their insecurities. AAAAAAAAAH https://t.co/4xxj8rHZAR — 𐔌 . ⋮ ιvσɾყ ֹ ₊ ꒱ (@ivysmores) November 25, 2026 In one of Lucia's medititation sequences, she recounts a conversation with Jason that she must have had off-screen after they got back in touch. \"Yeah, okay, we hooked up once, but, you know, barely. And it was a long time ago,\" we can hear Jason say in Lucia's thoughts. \"You don't need to worry about her, Lu. Have you seen you? I know how good I got it. I'm not gonna screw that up again.\" Of course, Jason doesn't mention Mandy by name here, but the wording makes it pretty clear it's her. Jason mentions not letting Lucia go again, so it would be after their initial breakup. That means the conversation likely happened after she was released from prison, meaning Lucia was living in the same neighbourhood as Mandy — and was aware of how obsessed she was with Jason. In fact, another easy-to-miss scene does show that Lucia knows about Mandy. At the end of Chapter 1, during the sequence when you're running away from Jason's house as Lucia, you can find Mandy giving a statement to the cops (and, of course, exaggerating how close she was with Jason). This game really has everything lol — Never break kayfabe (@Quadripolar_B) November 25, 2026 If you come out of hiding, Lucia can finally confront Mandy, saying, \"Stay the f**k away from Jason, you crazy b*tch.\" Better yet, the encounter gives us another clue that Mandy is a killer, as she tells the police she \"wanted to light [Jason's] house on fire so many times.\" With all of this in mind, it's no wonder that Jason was eager to stay away from Mandy early on in GTA 6 — it doesn't seem that she understood he wasn't looking for anything long term with her. Luckily for him, it sounds like Lucia is ready to run to his defence. Mandy went viral pretty much as soon as GTA 6 came out, with countless social media posts discussing the character's motivations. Mandy actress Lexie Shoaibi has spoken out about her \"bittersweet\" newfound fame , pointing out that people keep trying to impersonate her on social media. Shoaibi has also revealed she spent around 10 days on set playing Mandy, but she also did a few other NPC voices while working with Rockstar. We’ve got the Official Grand Theft Auto 6 guide here on IGN, complete with comprehensive walkthroughs up to Chapter 5 , guides for the Optional Missions and Illegal Operations you’ll find in Leonida, and much more. Just getting started in Chapter 1 ? Check out our Beginner's Guide - 67 Tips and Tricks , and make a note of the Best Free Weapons to Find Early . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .",
+   "image": "https://assets-prd.ignimgs.com/2026/11/27/mandymain-1795783965057.jpg",
+   "ts": 1795787734.3165092,
+   "msg": 677
+  },
+  "aa3f8a13d53e": {
+   "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+   "source": "VGC",
+   "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+   "summary": "Speculation surrounding a remake has been rife since Matt Groening suggested it was coming",
+   "content": "Speculation surrounding a remake has been rife since Matt Groening suggested it was coming… Source",
+   "image": "https://www.videogameschronicle.com/files/2023/01/The-Simpsons-Hit-and-Run.jpg",
+   "ts": 1795787735.9825203,
+   "msg": 678
   }
  },
- "updated_at": "2026-11-27T12:40:40Z"
+ "updated_at": "2026-11-27T13:59:32Z"
 }
