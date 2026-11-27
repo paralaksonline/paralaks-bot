@@ -424,7 +424,15 @@
   "911580103d41": 1795804689.061618,
   "5c24e0b6637c": 1795808347.204076,
   "71ca0ee7448c": 1795808349.0527987,
-  "66c0798aedc8": 1795808350.8087013
+  "66c0798aedc8": 1795808350.8087013,
+  "748c601c041c": 1795811523.2605934,
+  "8bbb11e73a4d": 1795811523.2605934,
+  "95127b02b5b5": 1795811523.2605934,
+  "a627e9d971b0": 1795811523.2605934,
+  "75fd53812e18": 1795811554.2588162,
+  "330e786c048a": 1795811554.2588513,
+  "ebaae9508d60": 1795811555.8828452,
+  "4efffa2eb800": 1795811555.8829238
  },
  "sent": [
   {
@@ -2253,6 +2261,24 @@
    "game": "Yooka-Laylee and the Impossible Lair",
    "event": "yooka laylee definitive edition skips xbox",
    "msg": 706
+  },
+  {
+   "id": "330e786c048a",
+   "ts": 1795811554.6827397,
+   "source": "Eurogamer",
+   "title": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking",
+   "game": "Warframe",
+   "event": "warframe tau update details revealed",
+   "msg": 707
+  },
+  {
+   "id": "4efffa2eb800",
+   "ts": 1795811556.3246238,
+   "source": "Eurogamer",
+   "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
+   "game": "Marvel's Iron Man",
+   "event": "marvels iron man game awards appearance teased",
+   "msg": 708
   }
  ],
  "pending": {
@@ -4070,7 +4096,27 @@
    "image": "https://assetsio.gnwcdn.com/yooka-replayee.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795808349.6085818,
    "msg": 706
+  },
+  "330e786c048a": {
+   "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
+   "source": "Eurogamer",
+   "title": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking",
+   "summary": "Warframe 's latest devstream has just gone live, revealing more about the new Tau solar system players will be able to explore as part of December's \"massive\" new update, which arrives on 9th December. Additions include a two-hour long quest, new explorable areas, and even chill nighttime dog walking. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/WF_TauUpdate_MajorKeyart_1080p.png?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795811554.682744,
+   "msg": 707
+  },
+  "4efffa2eb800": {
+   "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
+   "source": "Eurogamer",
+   "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
+   "summary": "EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry. The wait to finally, officially see the superhero romp in action might be over soon, at least if the developer's updated website - two weeks before The Game Awards, no less - is any indication. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/ea-motive-new-title-teaser-16x9.jpg.adapt.1456w.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795811556.3246279,
+   "msg": 708
   }
  },
- "updated_at": "2026-11-27T19:43:06Z"
+ "updated_at": "2026-11-27T20:36:32Z"
 }
