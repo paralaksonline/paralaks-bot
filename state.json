@@ -416,7 +416,12 @@
   "ba3bbab9637a": 1795801807.3461752,
   "c2c363ac0dd1": 1795801809.2406971,
   "35f9378e68fc": 1795801811.4733543,
-  "6b9136062714": 1795801811.4734585
+  "6b9136062714": 1795801811.4734585,
+  "5512c1237d72": 1795804683.7455,
+  "ecd23e64c7c9": 1795804685.5443516,
+  "137bc11b77ea": 1795804685.5444193,
+  "278c0a27da96": 1795804687.275889,
+  "911580103d41": 1795804689.061618
  },
  "sent": [
   {
@@ -2191,6 +2196,42 @@
    "game": "Fortnite",
    "event": "fortnite chapter 7 mini season gold treasure hours schedule",
    "msg": 694
+  },
+  {
+   "id": "5512c1237d72",
+   "ts": 1795804684.3442261,
+   "source": "Polygon",
+   "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+   "game": "",
+   "event": "forza horizon 6 vs gta 6 racing mechanics",
+   "msg": 701
+  },
+  {
+   "id": "137bc11b77ea",
+   "ts": 1795804686.07578,
+   "source": "Polygon",
+   "title": "'Pokémon Winds and Waves' Fans Will End 2026 On A Good Note",
+   "game": "Pokémon Winds and Waves",
+   "event": "pokemon winds and waves news expected late 2026",
+   "msg": 702
+  },
+  {
+   "id": "278c0a27da96",
+   "ts": 1795804687.8614995,
+   "source": "Polygon",
+   "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 players perform heists using only beer",
+   "msg": 703
+  },
+  {
+   "id": "911580103d41",
+   "ts": 1795804689.5729342,
+   "source": "Polygon",
+   "title": "GTA 6 Players Are Not, In Fact, Eating Good",
+   "game": "Grand Theft Auto VI",
+   "event": "gta 6 food mechanics and restaurant options review",
+   "msg": 704
   }
  ],
  "pending": {
@@ -3948,7 +3989,47 @@
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261127_1001_fn_gold.jpg",
    "ts": 1795801810.2732286,
    "msg": 694
+  },
+  "5512c1237d72": {
+   "url": "https://www.polygon.com/gta-6-racing-vs-forza-horizon-6/",
+   "source": "Polygon",
+   "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
+   "summary": "Rockstar's Grand Theft Auto 6 makes a stab at being a proper racing game, but the competition from Playground's series can't be beat",
+   "content": "\"This taught us a huge amount about how to modify, design, and set up real cars to go fast and what happens to them when things go wrong, like bursting tires and crashing,\" Lyons told Polygon in a statement. (As if to underline the point, Lyons' LinkedIn profile pic shows him proudly holding up a blown racecar tire in a pit garage.) \"We also took the same approach with rally-racing dirt bikes — it’s important to us to understand the difference between racing on two and four wheels and on- versus off-road so we can give our players as convincing authentic experience as we can,\" he said. \"For this game, we completely rewrote the vehicle simulation for every vehicle type so we could add more detail and realism, as well as authenticity and believability, to the game.\"",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_wyman_car_collection_04.jpg",
+   "ts": 1795804684.3442302,
+   "msg": 701
+  },
+  "137bc11b77ea": {
+   "url": "https://www.polygon.com/pokemon-winds-waves-starters-ponbom-gecqua-browt-plush/",
+   "source": "Polygon",
+   "title": "'Pokémon Winds and Waves' Fans Will End 2026 On A Good Note",
+   "summary": "Fans of Pokémon starters Browt, Pombon and Gecqua have something to look forward to before 2026 ends, ahead of Winds and Waves' release",
+   "content": "Nintendo seems intent on letting The Legend of Zelda: Ocarina of Time stay in the Switch 2 spotlight this year, so Pokémon fans still don't know when they'll be able to play Game Freak's next big RPG. Honestly, Pokémon Winds and Waves has been in a full-on information drought since the release of the reveal trailer back in early 2026 . Well, there's at least one thing fans have to look forward in the realm of pocket monsters now, and it's happening sooner than anyone expected.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-winds-and-waves.png",
+   "ts": 1795804686.075784,
+   "msg": 702
+  },
+  "278c0a27da96": {
+   "url": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
+   "source": "Polygon",
+   "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+   "summary": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
+   "content": "If you're like me, then you approach Grand Theft Auto 6 's heists with anxiety. You case the joint inside and out. You plan meticulously, leaving the getaway car running nearby with the trunk open. You know exactly where all the cameras are, and have a plan for what to do if anyone tries anything funny. Well, what if I told you that you didn't need to do any of that to steal everything from a store in a way that inches your criminal profile closer to professional status?",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg",
+   "ts": 1795804687.8615036,
+   "msg": 703
+  },
+  "911580103d41": {
+   "url": "https://www.polygon.com/gta-6-food-restaurants/",
+   "source": "Polygon",
+   "title": "GTA 6 Players Are Not, In Fact, Eating Good",
+   "summary": "GTA 6's Jason and Lucia don't get much chance to savor Leonida's finest foods, and that's a shame",
+   "content": "There are countless ways to spend your time in Grand Theft Auto 6 . You can scoop up pricey bundles of cocaine in a seaplane, do deadlifts to get sick gains, and scuba dive to discover marine life and lost pirate treasure. You can steal an elderly woman's mobility scooter and go to a yard sale to find cool vintage T-shirts . But sadly, one thing you cannot do is savor a delicious meal, whether it's on a solo outing or even on a date night with Jason and Lucia. GTA 6 has a vast, deep world with astonishing attention to detail in almost every capacity. But there's one area where the game comes up surprisingly short — the food.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-27-at-10-43-04-am.jpg",
+   "ts": 1795804689.5729377,
+   "msg": 704
   }
  },
- "updated_at": "2026-11-27T17:54:05Z"
+ "updated_at": "2026-11-27T18:42:06Z"
 }
