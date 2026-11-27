@@ -356,7 +356,8 @@
   "a2e0aee92316": 1795730222.4641063,
   "0967be1d254d": 1795733156.4964404,
   "604f844ede6b": 1795736342.559818,
-  "bc322ad47a5a": 1795739830.9770467
+  "bc322ad47a5a": 1795739830.9770467,
+  "006357569dca": 1795747926.1716702
  },
  "sent": [
   {
@@ -1897,6 +1898,15 @@
    "game": "Infinity Nikki",
    "event": "infinity nikki update 3.0 impressions",
    "msg": 667
+  },
+  {
+   "id": "006357569dca",
+   "ts": 1795747926.682767,
+   "source": "Gematsu",
+   "title": "WPCA: World Phasebound Control Authority ‘World’ trailer, closed alpha test set for December 16 to 22",
+   "game": "WPCA: World Phasebound Control Authority",
+   "event": "wpca world phasebound control authority alpha test announced",
+   "msg": 668
   }
  ],
  "pending": {
@@ -3404,7 +3414,17 @@
    "image": "https://assets-prd.ignimgs.com/2026/11/26/infinity-nikki-3-0-1795691870186.jpg",
    "ts": 1795739831.4507904,
    "msg": 667
+  },
+  "006357569dca": {
+   "url": "https://www.gematsu.com/2026/11/wpca-world-phasebound-control-authority-world-trailer-closed-alpha-test-set-for-december-16-to-22",
+   "source": "Gematsu",
+   "title": "WPCA: World Phasebound Control Authority ‘World’ trailer, closed alpha test set for December 16 to 22",
+   "summary": "Publisher KRAFTON and developer 5minlab have released a new trailer for cooperative supernatural anomaly containment …",
+   "content": "Publisher KRAFTON and developer 5minlab have released a new trailer for cooperative supernatural anomaly containment … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/WPCA-Closed-Alpha_11-26-26.jpg",
+   "ts": 1795747926.6827726,
+   "msg": 668
   }
  },
- "updated_at": "2026-11-27T02:02:16Z"
+ "updated_at": "2026-11-27T02:56:03Z"
 }
