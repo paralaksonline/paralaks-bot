@@ -1,5 +1,5 @@
 {
- "telegram_offset": 990434149,
+ "telegram_offset": 990434150,
  "seen": {
   "4d088d3cc7ff": 1795460673.37676,
   "52aa77fab725": 1795460673.37676,
@@ -410,7 +410,13 @@
   "7d4018a1d348": 1795798274.9218502,
   "f031ac9e4cf9": 1795798274.9219205,
   "20c5c0ef355e": 1795798276.557667,
-  "fa7684762364": 1795798278.147809
+  "fa7684762364": 1795798278.147809,
+  "620b0884d5d5": 1795801593.5806646,
+  "98ef1fd1bc60": 1795801807.3461459,
+  "ba3bbab9637a": 1795801807.3461752,
+  "c2c363ac0dd1": 1795801809.2406971,
+  "35f9378e68fc": 1795801811.4733543,
+  "6b9136062714": 1795801811.4734585
  },
  "sent": [
   {
@@ -2167,6 +2173,24 @@
    "game": "Grand Theft Auto",
    "event": "rockstar no future gta set outside usa",
    "msg": 691
+  },
+  {
+   "id": "ba3bbab9637a",
+   "ts": 1795801808.0405738,
+   "source": "Polygon",
+   "title": "Steam's Black Friday Sale Is Here With Some Great PC Gaming Steals",
+   "game": "",
+   "event": "steam black friday sale starts",
+   "msg": 693
+  },
+  {
+   "id": "c2c363ac0dd1",
+   "ts": 1795801810.273225,
+   "source": "Polygon",
+   "title": "Gold treasure hours schedule in the Fortnite Chapter 7 mini season",
+   "game": "Fortnite",
+   "event": "fortnite chapter 7 mini season gold treasure hours schedule",
+   "msg": 694
   }
  ],
  "pending": {
@@ -3865,16 +3889,6 @@
    "ts": 1795794385.8835776,
    "msg": 686
   },
-  "684310f7c31b": {
-   "url": "https://www.ign.com/articles/ghost-of-yotei-plummets-to-35-in-stellar-50-off-black-friday-deal-from-playstation",
-   "source": "IGN",
-   "title": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
-   "summary": "Ghost of Yotei on PS5 has been discounted to $35 as part of PlayStation's Black Friday sale, making for a 50% discount off its original MSRP and its lowest price yet.",
-   "content": "Been waiting to play Ghost of Yotei? We've got some good news. PlayStation's Black Friday sale is in full swing now, offering savings on physical games, controllers , and digital game deals . And, if you've missed out so far on the follow up to Ghost of Tsushima, there's a whopping 50% discount on Ghost of Yōtei . Save 50% on Ghost of Yotei In PlayStation’s Black Friday Sale The physical copy is currently on sale for $35 as part of the sale, which is a huge drop from its original $69.99 MSRP and marks a brand new all-time low price for the game, according to our research. That's a pretty great Black Friday deal to have pop up, especially considering the game is only a year old. If you've been eager to pick it up for your PS5 library, now is the perfect time to strike. It's certainly worth the cost, especially in the eyes of our reviewer , Michael Higham. Back when it was released, he gave the game an 8/10 and said that it features a \"predictable but well-executed story\" that \"takes you through Ghost of Yotei's gorgeous landscapes and satisfying, fluid action combat.\" I managed to play through it earlier this year as well and certainly agree with Michael's thoughts here. If you enjoyed Tsushima, you're sure to have a blast running around in Yōtei, and the combat may actually be even better than its predecessor. It's not just Atsu's adventure seeing discounts in PlayStation's Black Friday sale, either. 2026 launches like Marvel's Wolverine has dropped to $50 as part of the sale, and Saros has also seen a big drop - ideal for anyone looking for a spiritual successor to Returnal. There's also a solid selection of PS5 exclusives on sale for $30 or less right now, including big, beloved titles like God of War Ragnarok, Stellar Blade, and even Ghost of Tsushima (if you want to play Yōtei's predecessor).",
-   "image": "https://assets-prd.ignimgs.com/2026/11/16/ghost-of-yotei-deal-1794842279840.jpg",
-   "ts": 1795798272.1275606,
-   "msg": 687
-  },
   "b76290a7b131": {
    "url": "https://www.ign.com/articles/i-tried-to-get-six-stars-in-gta-6-with-just-one-bullet-and-broke-the-game",
    "source": "IGN",
@@ -3914,7 +3928,27 @@
    "image": "https://assetsio.gnwcdn.com/GTA-6-review-5.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795798278.5595489,
    "msg": 691
+  },
+  "ba3bbab9637a": {
+   "url": "https://www.polygon.com/steam-sale-actual-black-friday-2026-gaming-deals-pc-discount-best/",
+   "source": "Polygon",
+   "title": "Steam's Black Friday Sale Is Here With Some Great PC Gaming Steals",
+   "summary": "Valve comes through with some actual Black Friday video sales on games rated Overwhelmingly Positive and some titles on sale for the first time ever",
+   "content": "Valve is known for its seasonal sales, so, of course, the PC gaming giant has cooked up some good deals for the day after Thanksgiving. Here are some of the best Steam promotions to look out for, from major releases to smaller indie games you might've missed.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg",
+   "ts": 1795801808.040578,
+   "msg": 693
+  },
+  "c2c363ac0dd1": {
+   "url": "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/",
+   "source": "Polygon",
+   "title": "Gold treasure hours schedule in the Fortnite Chapter 7 mini season",
+   "summary": "Here's what time you can expect the next batch of Fortnite treasure hours, as well as what bonuses are coming with them.",
+   "content": "Fortnite is continuing the tradition of special Saturday hourly events during the Chapter 7 mini season , though this time they're treasure hours , centered around the pirate-themed \"Treasure Hunters\" season. During these hours, certain sprites will get increased drop rates, and you'll drop into the game with special items.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261127_1001_fn_gold.jpg",
+   "ts": 1795801810.2732286,
+   "msg": 694
   }
  },
- "updated_at": "2026-11-27T16:55:14Z"
+ "updated_at": "2026-11-27T17:54:05Z"
 }
