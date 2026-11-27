@@ -361,7 +361,8 @@
   "17049eb0bec2": 1795751411.3705037,
   "b7e598102ad4": 1795755116.848695,
   "26b59aaac5f3": 1795758798.2633283,
-  "04d0ef7bf410": 1795772484.4811907
+  "04d0ef7bf410": 1795772484.4811907,
+  "10bb0f9a1d19": 1795775894.0162241
  },
  "sent": [
   {
@@ -1911,6 +1912,15 @@
    "game": "WPCA: World Phasebound Control Authority",
    "event": "wpca world phasebound control authority alpha test announced",
    "msg": 668
+  },
+  {
+   "id": "10bb0f9a1d19",
+   "ts": 1795775894.352625,
+   "source": "Eurogamer",
+   "title": "Marvelous, developer of the Story of Seasons series, opens up voluntary redundancy scheme as it seeks to reduce headcount by 65 employees",
+   "game": "",
+   "event": "marvelous voluntary redundancy scheme 65 employees",
+   "msg": 669
   }
  ],
  "pending": {
@@ -3428,7 +3438,17 @@
    "image": "https://www.gematsu.com/wp-content/uploads/2026/11/WPCA-Closed-Alpha_11-26-26.jpg",
    "ts": 1795747926.6827726,
    "msg": 668
+  },
+  "10bb0f9a1d19": {
+   "url": "https://www.eurogamer.net/marvelous-developer-volentary-redundancy-amidst-console-business-restructuring",
+   "source": "Eurogamer",
+   "title": "Marvelous, developer of the Story of Seasons series, opens up voluntary redundancy scheme as it seeks to reduce headcount by 65 employees",
+   "summary": "Marvelous, the studio known for its work on the Story of Seasons series as well as the upcoming Eternal Anima, has announced the introduction of a voluntary redundancy scheme. Through this program, it's aiming to lower its headcount by 65 employees. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/eternal-anima-key-art.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795775894.3526294,
+   "msg": 669
   }
  },
- "updated_at": "2026-11-27T09:45:19Z"
+ "updated_at": "2026-11-27T10:42:09Z"
 }
