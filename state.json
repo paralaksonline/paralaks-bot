@@ -355,7 +355,8 @@
   "f3e432c39e1a": 1795730220.9080822,
   "a2e0aee92316": 1795730222.4641063,
   "0967be1d254d": 1795733156.4964404,
-  "604f844ede6b": 1795736342.559818
+  "604f844ede6b": 1795736342.559818,
+  "bc322ad47a5a": 1795739830.9770467
  },
  "sent": [
   {
@@ -1887,6 +1888,15 @@
    "game": "Conker 64",
    "event": "cancelled conker 64 footage revealed",
    "msg": 666
+  },
+  {
+   "id": "bc322ad47a5a",
+   "ts": 1795739831.450784,
+   "source": "IGN",
+   "title": "After Playing Infinity Nikki 3.0 for Four Hours, its New Cities and Outfits Are Just Some of the Additions Worth Returning For",
+   "game": "Infinity Nikki",
+   "event": "infinity nikki update 3.0 impressions",
+   "msg": 667
   }
  ],
  "pending": {
@@ -3384,7 +3394,17 @@
    "image": "https://www.videogameschronicle.com/files/2026/11/Conker-64.jpg",
    "ts": 1795733156.8965287,
    "msg": 666
+  },
+  "bc322ad47a5a": {
+   "url": "https://www.ign.com/articles/after-playing-infinity-nikki-30-for-four-hours-its-new-cities-and-outfits-are-just-some-of-the-additions-worth-returning-for",
+   "source": "IGN",
+   "title": "After Playing Infinity Nikki 3.0 for Four Hours, its New Cities and Outfits Are Just Some of the Additions Worth Returning For",
+   "summary": "The new 3.0 update has tons of new stuff to explore including new locations, outfits and gameplay systems, although don't expect any kind of proper challenge.",
+   "content": "When Infinity Nikki first launched in 2024, it introduced players around the world to the dress-up world of mobile game star Nikki in her first 3D console/PC adventure, an open world filled with wholesome fun, fashion and friendship. 2025’s V2.0 update introduced a new area to the world of Miraland, as well as new ways to traverse it. But now with the new V3.0 update titled Of Yesterday and Tomorrow, Nikki’s wonderful world has been expanded significantly – with its richest locations yet, and even a cute convertible to traverse it with. To give you an idea of how huge this update is, I played for over four hours at developer Infold’s Shanghai office, focusing mainly on story content and with only the slightest bit of open-world exploration and lifestyle simulation gameplay, and didn't even see all of one of its two new cities. The golden path apparently offers some nine hours of story content, with two dense and exciting new areas to get lost in. Between the V3.0 launch and Nikki’s birthday celebration campaign, players can get 160 free draws and 19 new sets of clothing. I spent most of my time in Cicia, a city of art, based loosely on Paris among other places, and lined with cobblestone streets and beatific brickwork architecture. Cicia was previously featured as a location in the mobile game Shining Nikki, and makes its 3D debut here. It’s a world where art nouveau, belle epoque and art deco collide, and home to the Cicia Art Academy where Miraland’s most promising students are taught lessons of art creation and appraisal by the finest tutors. When Nikki receives an invitation to study there, she and her catlike companion Momo embark on a new adventure of aesthetic discovery. But is everything at the academy truly as it seems? Some of the outfits in the update grant Nikki new skills. Unlock and craft the preppy four-star Leaping Breeze outfit to gain a higher double-jump and airborne dash abilities, while the much darker and sexier Night’s Hidden Side outfit allows Nikki to “bind” with objects around the environment (think Mario’s possession skill in Mario Odyssey) and use them to warp to hard-to-reach places. These new skills allow for a new level of verticality in Cicia’s map and dungeons, helping you explore the castle spires or negotiate intricate dungeon maps. You can also find a musket for long-range attacks (which is a new Whimtech item), and dress for the occasion in Cicia’s three-star, nine-piece outfit Song of Endless Youth. V3.0 also introduces a new outfit category, Star Crown Resonance. The Star Crown Resonance outfit named Where Stars Shine Again comes with a musket and staff, and is designed for tougher combat situations. With either weapon equipped, Nikki’s unused dashes are stored, and you can release them all at once or use them one at a time, creating a sort of combo system that deals more damage. While previous Infinity Nikki maps tended towards countryside locations, Cicia is a bustling city. Arriving by airship to take in the stunning views, Nikki and Momo step into a throng of students, teachers and residents, each with voiced dialogue to idly eavesdrop on as they prepare for a huge school festival, building an air of excitement as Nikki starts academy life. In this maelstrom of culture, recruiters for the drama club and literature club compete for Nikki’s attention. And then she meets Béatrice Laviolette. A young ducal heiress, at first Béatrice is quite brusque, standoffish and snobby. It started to feel like meeting Glinda in the heightened magical environs of Shiz University, and when it was announced in a cutscene that the students would compete for the right to wear a legendary Miracle Outfit, I assumed Nikki and Béatrice were heading into a bitter rivalry. But Nikki has always been a relentlessly positive character, with a deep and forgiving heart and a desire to encourage those around her. Without wanting to spoil anything, let’s just say that she, Béatrice and earnest classmate Déphine Garnier",
+   "image": "https://assets-prd.ignimgs.com/2026/11/26/infinity-nikki-3-0-1795691870186.jpg",
+   "ts": 1795739831.4507904,
+   "msg": 667
   }
  },
- "updated_at": "2026-11-26T23:42:57Z"
+ "updated_at": "2026-11-27T00:41:07Z"
 }
