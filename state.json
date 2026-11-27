@@ -380,7 +380,11 @@
   "886e18ef139e": 1795787730.4338021,
   "c7e1a25fe1a2": 1795787732.1050243,
   "af9db3412a8b": 1795787733.76862,
-  "aa3f8a13d53e": 1795787735.516618
+  "aa3f8a13d53e": 1795787735.516618,
+  "eaafd3ea1c9d": 1795790694.2301364,
+  "162325a40f4c": 1795790702.0700169,
+  "92c0501f5b7a": 1795790703.74229,
+  "e47142d7fc82": 1795790703.742383
  },
  "sent": [
   {
@@ -2020,6 +2024,15 @@
    "game": "The Simpsons Hit & Run",
    "event": "simpsons hit and run remake reportedly cancelled",
    "msg": 678
+  },
+  {
+   "id": "162325a40f4c",
+   "ts": 1795790702.54217,
+   "source": "Gematsu",
+   "title": "The Streamer’s Alt Account Labyrinth launches January 29, 2027 for PC, later for Switch",
+   "game": "The Streamer’s Alt Account Labyrinth",
+   "event": "the streamers alt account labyrinth release date announced",
+   "msg": 679
   }
  ],
  "pending": {
@@ -3637,7 +3650,17 @@
    "image": "https://www.videogameschronicle.com/files/2023/01/The-Simpsons-Hit-and-Run.jpg",
    "ts": 1795787735.9825203,
    "msg": 678
+  },
+  "162325a40f4c": {
+   "url": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch",
+   "source": "Gematsu",
+   "title": "The Streamer’s Alt Account Labyrinth launches January 29, 2027 for PC, later for Switch",
+   "summary": "Dungeon RPG and visual novel The Streamer’s Alt Account Labyrinth will launch for PC via …",
+   "content": "Dungeon RPG and visual novel The Streamer’s Alt Account Labyrinth will launch for PC via … Source",
+   "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Streamer-Alt-Account_11-27-26.jpg",
+   "ts": 1795790702.5421734,
+   "msg": 679
   }
  },
- "updated_at": "2026-11-27T13:59:32Z"
+ "updated_at": "2026-11-27T14:48:58Z"
 }
