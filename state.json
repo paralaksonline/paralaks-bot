@@ -367,7 +367,13 @@
   "6ba6cfbe5329": 1795779095.5711055,
   "aadc52925da3": 1795779113.5007105,
   "1566069872fe": 1795779115.1953962,
-  "74205f5337c4": 1795779115.1954632
+  "74205f5337c4": 1795779115.1954632,
+  "711221d73ade": 1795782986.1239674,
+  "436c45c76be1": 1795783002.014522,
+  "18867592a453": 1795783002.0145528,
+  "41f8cd4ddd55": 1795783002.0145593,
+  "87d4ad0d7b0d": 1795783002.0145643,
+  "ea5be13a4f83": 1795783003.7537386
  },
  "sent": [
   {
@@ -1944,6 +1950,24 @@
    "game": "Grand Theft Auto VI",
    "event": "gta 6 prologue twist secrets revealed",
    "msg": 671
+  },
+  {
+   "id": "87d4ad0d7b0d",
+   "ts": 1795783002.5536213,
+   "source": "Eurogamer",
+   "title": "Are you a warlock tired of being summon-kicked in World of Warcraft: Forever? There's now a mod to fight back with",
+   "game": "World of Warcraft",
+   "event": "world of warcraft warlock summoning mod created",
+   "msg": 672
+  },
+  {
+   "id": "ea5be13a4f83",
+   "ts": 1795783004.3077133,
+   "source": "Eurogamer",
+   "title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+   "game": "Faraway",
+   "event": "faraway game played after 16 years",
+   "msg": 673
   }
  ],
  "pending": {
@@ -3491,7 +3515,27 @@
    "image": "https://assetsio.gnwcdn.com/GTA-6-review-21.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795779115.6577208,
    "msg": 671
+  },
+  "87d4ad0d7b0d": {
+   "url": "https://www.eurogamer.net/world-of-warcraft-forever-summon-kicking-warlock-addon",
+   "source": "Eurogamer",
+   "title": "Are you a warlock tired of being summon-kicked in World of Warcraft: Forever? There's now a mod to fight back with",
+   "summary": "Being recruited to a World of Warcraft party as a warlock, only to be swiftly kicked again after using your powers to magically summon the party members together in the same place, may soon become a thing of the past. All thanks to a mod made by one especially peeved warlock. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_7.jpeg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795783002.553628,
+   "msg": 672
+  },
+  "ea5be13a4f83": {
+   "url": "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here",
+   "source": "Eurogamer",
+   "title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+   "summary": "For 16 years I've been watching the skies. It was 16 years ago, back in the first giddy rush of smartphone gaming, that I saw a 30-second trailer for a game set in space. It was a game about a comet, hurtling through the unknown. It wasn't clear what you'd do in this game, whether you'd control the comet itself or the space it moved through. It wasn't clear if this was some kind of arcade game, or a new spin on the endless runner, or even just a kind of cosmic sandbox. All I had was the comet and a name: Faraway. Faraway! I was captivated. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/20261026151726_1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795783004.3077197,
+   "msg": 673
   }
  },
- "updated_at": "2026-11-27T11:35:52Z"
+ "updated_at": "2026-11-27T12:40:40Z"
 }
