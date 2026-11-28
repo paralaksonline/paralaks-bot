@@ -446,7 +446,9 @@
   "c07334fcd284": 1795818742.3037055,
   "b64be04cf258": 1795818742.303737,
   "924e686b5dea": 1795825147.3148484,
-  "9395df237c84": 1795833505.477349
+  "9395df237c84": 1795833505.477349,
+  "bf7dc627c538": 1795836834.8011067,
+  "554c524a6524": 1795836836.3711412
  },
  "sent": [
   {
@@ -2293,6 +2295,15 @@
    "game": "Marvel's Iron Man",
    "event": "marvels iron man game awards appearance teased",
    "msg": 708
+  },
+  {
+   "id": "bf7dc627c538",
+   "ts": 1795836835.1710258,
+   "source": "Polygon",
+   "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+   "game": "",
+   "event": "weekly free games steam epic xbox",
+   "msg": 709
   }
  ],
  "pending": {
@@ -4130,7 +4141,17 @@
    "image": "https://assetsio.gnwcdn.com/ea-motive-new-title-teaser-16x9.jpg.adapt.1456w.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795811556.3246279,
    "msg": 708
+  },
+  "bf7dc627c538": {
+   "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-27-dec-3/",
+   "source": "Polygon",
+   "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+   "summary": "Check out the free games you can try out this week across all digital platforms.",
+   "content": "Every week, there are limited-time offers that allow players to enjoy games for free, whether as temporary or permanent additions to their digital libraries. Here's everything that frugal and curious gaming fans can enjoy between Nov. 27 and Dec. 3, so they can make the most of their week without spending a dime.",
+   "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tony-hawk-pro-skater-3-4.jpg",
+   "ts": 1795836835.1710293,
+   "msg": 709
   }
  },
- "updated_at": "2026-11-28T02:42:19Z"
+ "updated_at": "2026-11-28T03:37:51Z"
 }
