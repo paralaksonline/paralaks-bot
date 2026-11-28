@@ -449,7 +449,8 @@
   "9395df237c84": 1795833505.477349,
   "bf7dc627c538": 1795836834.8011067,
   "554c524a6524": 1795836836.3711412,
-  "4335403b679d": 1795844140.4916646
+  "4335403b679d": 1795844140.4916646,
+  "a9ef590bcd7d": 1795855395.1036623
  },
  "sent": [
   {
@@ -2305,6 +2306,15 @@
    "game": "",
    "event": "weekly free games steam epic xbox",
    "msg": 709
+  },
+  {
+   "id": "a9ef590bcd7d",
+   "ts": 1795855395.5757031,
+   "source": "Eurogamer",
+   "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+   "game": "",
+   "event": "eurogamer staff what we played",
+   "msg": 710
   }
  ],
  "pending": {
@@ -4152,7 +4162,17 @@
    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tony-hawk-pro-skater-3-4.jpg",
    "ts": 1795836835.1710293,
    "msg": 709
+  },
+  "a9ef590bcd7d": {
+   "url": "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
+   "source": "Eurogamer",
+   "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+   "summary": "It's nearly December. In fact, it will be next week. How do you feel about that? I'm undecided and I also have cold feet. But enough of that, welcome back to our regular feature where we say a bit about the games we've been playing this week! This week, Bertie has been enjoying Leonida but also rural England in the 17th century; Connor has been being a total scumbag and has also found himself coincidentally imprisoned; Matt keeps having revelations and can't stop discovering new things; and Dom's getting dirty looks. Again. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance-nintendo-switch-2-screenshot-art-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795855395.575707,
+   "msg": 710
   }
  },
- "updated_at": "2026-11-28T07:55:19Z"
+ "updated_at": "2026-11-28T08:47:11Z"
 }
