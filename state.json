@@ -451,7 +451,10 @@
   "554c524a6524": 1795836836.3711412,
   "4335403b679d": 1795844140.4916646,
   "a9ef590bcd7d": 1795855395.1036623,
-  "ea5d5671a092": 1795858633.5222461
+  "ea5d5671a092": 1795858633.5222461,
+  "51c7d8be85c0": 1795861821.3668828,
+  "ca4c3d167a6b": 1795861821.3668828,
+  "a45eb2763ada": 1795861826.7927928
  },
  "sent": [
   {
@@ -2316,6 +2319,15 @@
    "game": "",
    "event": "eurogamer staff what we played",
    "msg": 710
+  },
+  {
+   "id": "a45eb2763ada",
+   "ts": 1795861827.1353736,
+   "source": "Eurogamer",
+   "title": "A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective",
+   "game": "All Will Rise",
+   "event": "all will rise deckbuilding game impressions",
+   "msg": 711
   }
  ],
  "pending": {
@@ -4173,7 +4185,17 @@
    "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance-nintendo-switch-2-screenshot-art-1.jpg?width=690&quality=85&format=jpg&auto=webp",
    "ts": 1795855395.575707,
    "msg": 710
+  },
+  "a45eb2763ada": {
+   "url": "https://www.eurogamer.net/all-will-rise-speculative-agency-preview",
+   "source": "Eurogamer",
+   "title": "A game of cards that could change the world - All Will Rise appeals because it's unafraid to have a perspective",
+   "summary": "I'm a big fan of the moment when, years into a gaming subgenre's existence, people start rethinking what those games are capable of. All the expected ideas, they've been done, so the latecomers are by necessity inventors if they want to stand out. All Will Rise is one of them. In essence, it's a deck-building card game that was volcanoed into existence by the popularity of Slay the Spire several years ago, or perhaps Magic: The Gathering before, or perhaps Pokémon. Although to compare it to any of those would be misleading, because it's got more in common with courtroom drama series Phoenix Wright. Read more",
+   "content": "",
+   "image": "https://assetsio.gnwcdn.com/all-will-rise-artwork-(2).jpg?width=690&quality=85&format=jpg&auto=webp",
+   "ts": 1795861827.1353774,
+   "msg": 711
   }
  },
- "updated_at": "2026-11-28T09:41:08Z"
+ "updated_at": "2026-11-28T10:34:22Z"
 }
